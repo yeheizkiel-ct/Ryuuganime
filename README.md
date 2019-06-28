@@ -15,7 +15,7 @@
             <p>Ryuuganime dibentuk pada Juni 27, 2019, lebih tepatnya pada pukul 22.04 WIB dikarenakan <em>website fanshare</em> yang terkenal di Indonesia, yaitu <a href="https://meownime.com">Meownime</a> dan <a href="https://meowstream.com">Meowstream</a> ditutup secara resmi pada pukul 15.34 WIB di hari yang sama sekaligus merupakan hasil ide dari <a href="https://github.com/nattadasu/Personal">nattadasu</a> sejak 3 bulan yang lalu.</p>
         <h2>Mengapa <em>Repo</em> <strong>Ryuuganime</strong> Ada Di <a href="https://github.com">GitHub</a>?</h2>
             <p>Jika diperhatikan lebih teliti, Ryuuganime memiliki tidak sebatas <em>icon</em> pintasan situs saja, tetapi juga memiliki elemen lainnya (seperti <em><a href="https://github.com/nattadasu/Ryuuganime/blob/master/Templates/Template%20Blogger.xml">template</a></em> dll) yang tidak memungkinkan kalau data tersebut disimpan di <a href="https://www.google.com/drive/">Google Drive</a>, <a href="https://onedrive.live.com/OneDrive">Microsoft OneDrive</a>, maupun layanan <a href="https://id.wikipedia.org/wiki/Penyimpanan_awan"><em>cloud storage</em></a> lainnya.</p>
-            <p>Kami juga berharap dengan adanya <em>repo</em> di GitHub dapat memudahkan kontributor untuk memberikan kontribusinya dalam <em>coding</em> template, desain grafis, dll.</p>
+            <p>Kami juga berharap dengan adanya <em>repo</em> di GitHub dapat memudahkan kontributor untuk memberikan kontribusinya dalam <em>coding template</em>, desain grafis, dll.</p>
         <hr>
     </body>
 </html>
