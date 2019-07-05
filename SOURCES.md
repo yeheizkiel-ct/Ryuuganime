@@ -14,5 +14,15 @@
 			<p><em>N.B: Beberapa tipografi digunakan dalam website anime yang tidak memiliki logo resmi di situsnya</em></p>
 		<h2>Tema Situs:</h2>
 			<p><strong><a href="https://www.soratemplates.com/2019/06/animo-blogger-templates.html">Animo</a></strong> oleh <a href="https://www.soratemplates.com/p/contact-us.html">Sora Template</a> dibawah lisensi Personal. 
+		<br />
+		<br />
+		<h1>Aplikasi/Jasa yang Digunakan Untuk Proyek/Situs Ini</h1>
+		<ul>
+			<li><a href="https://microsoft.com">Microsoft</a>&#174; <a href="https://products.office.com/en/explore-office-for-home">Office 365</a>&#174; PowerPoint : Desain Vector.</li>
+			<li><a href="https://microsoft.com">Microsoft</a>&#174; <a href="https://products.office.com/en/explore-office-for-home">Office 365</a>&#174; Publisher : Desain Logo, Vector, Icon, Sampul untuk <a href="https://en.wikipedia.org/wiki/Social_networking_service">SNS</a> (Facebook, GitHub, dst).</li>
+			<li><a href="https://github.com">GitHub</a> : Repositori desain dan database situs.</li>
+			<li><a href="https://ezgif.com">EZGif</a> : <em>Converter</em> ekstensi WebP ke JPEG/PNG.</li>
+			<li><a href="https://disqus.com">Disqus</a> : Layanan Jasa Komentar Blog.</li>
+			<li><a href="https://www.getpaint.net/">Paint.NET</a> 4.1.6 : Penyuntingan Gambar/Vector.</li>
 	</body>
 </html>
