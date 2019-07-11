@@ -33,6 +33,6 @@
                     <li>NB: Pastikan Anda telah memberikan <em>credit</em> Anda di <a href="https://github.com/nattadasu/Ryuuganime/blob/master/CONTRIBUTORS.md">CONTRIBUTORS.md</a>. Selain <em>fork</em> dan <em>pull repo</em>, Anda juga dapat hanya memberikan <em>Issue</em> mengenai masalah di dalam situs maupun dalam Repo ini</li>
                 </ul>
         <h2>Informasi Lebih Lanjut</h2>
-            <p>Hubungi nattadasu melalui Discord, <a href="https://twitter.com/nattadasu">Twitter</a>, <a href="https://instagram.com/nat.tada.su">Instagram</a>, maupun melalui <em>Issue</em> di <em>repo</em> ini maupun <a href="https://github.com/nattadasu/Personal">nattadasu/Personal</a>.
+            <p>Hubungi nattadasu melalui Discord, <a href="https://twitter.com/nattadasu">Twitter</a>, <a href="https://instagram.com/nat.tada.su">Instagram</a>, maupun melalui <em>Issue</em> di <em>repo</em> ini ataupun melalui <a href="https://github.com/nattadasu/Personal">nattadasu/Personal</a>.
     </body>
 </html>
