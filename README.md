@@ -2,7 +2,7 @@
     <head>
         <strong><a href="https://ryuuganime.blogspot.com"><h1>Ryuuganime</h1></a></strong>
             <p>Portal Indeks Anime Subtitel Indonesia Terlengkap</p>
-            <a href="https://discord.gg/nWHwkuT"><img alt="Discord" src="https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square"></a>
+            <a href="https://discord.gg/nWHwkuT"><img alt="Discord" src="https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square"></a><a href="https://ko-fi.com/U6U1YGDN" title="ko-fi"><img alt="ko-fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" /></a>
         <hr>
     </head>
     <body>
