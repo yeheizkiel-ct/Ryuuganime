@@ -9,7 +9,8 @@
 | [![HIDIVE](https://www.google.com/s2/favicons?domain=hidive.com "HIDIVE")](https://hidive.com) [HIDIVE](https://hidive.com) :us: | [![Microsoft Store](https://www.google.com/s2/favicons?domain=microsoft.com "Microsoft Store")](https://www.microsoft.com/en-us/store/b/home) [Microsoft Store](https://www.microsoft.com/en-us/store/b/home) :us: |
 | [![Hulu](https://www.google.com/s2/favicons?domain=hulu.com "Hulu")](https://hulu.com) [Hulu](https://hulu.com) :us: | 
 | [![Netflix](https://www.google.com/s2/favicons?domain=netflix.com "Netflix")](https://www.netflix.com) [Netflix](https://www.netflix.com) :us: :indonesia: | 
-| [![ニコニコ動画](https://www.google.com/s2/favicons?domain=nicovideo.jp "ニコニコ動画")](https://nicovideo.jp) [ニコニコ動画](https://nicovideo.jp) :jp: | 
+| [![ニコニコ動画](https://www.google.com/s2/favicons?domain=nicovideo.jp "ニコニコ動画")](https://nicovideo.jp) [ニコニコ動画](https://nicovideo.jp) :jp: |
+| [![Ponimu](https://www.google.com/s2/favicons?domain=ponimu.com "Ponimu")](https://ponimu.com/home) [Ponimu](https://ponimu.com/home) :indonesia: |
 
 ### Fansub, Fanshare, dan Fanstream.
 _NB: Sedang tahap pengumpulan data, kemungkinan data akan ditampilkan dalam waktu terdekat setelah_ commit _terakhir._
