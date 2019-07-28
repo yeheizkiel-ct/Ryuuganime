@@ -25,7 +25,7 @@
                 <ol>
                     <li>Pastikan Anda telah bergabung ke server Discord resmi Ryuuganime. Hal ini bertujuan untuk dapat menghubungi nattadasu secara langsung jika ada kendala ataupun konfirmasi.</li>
                     <li><em>Fork repository</em> ini.</li>
-                    <li>Berikan kontribusi Anda di <em>fork repo</em> Anda. Kontribusi dapat berupa: <em>database</em>, <em>thumbnail anime</em> (berupa <em>backdrop</em>, tetapi lebih disarankan untuk menggunakan <em>screenshot frame</em> episode pertama tanpa <em>sub</em> dari <em>anime</em> yang dipilih), logo dari situs fansub/fanshare, dan <em>template</em> tema XML Blogger. Untuk selain yang telah disebutkan, mohon konfirmasi terlebih dahulu kepada nattadasu</li>
+                    <li>Berikan kontribusi Anda di <em>fork repo</em> Anda. Kontribusi dapat berupa: <em>database</em>, <em>thumbnail anime</em> (berupa <em>backdrop</em>, tetapi lebih disarankan untuk menggunakan <em>screenshot frame</em> episode pertama tanpa <em>sub</em> dari <em>anime</em> yang dipilih), logo dari situs fansub/fanshare, dan <em>template</em> tema XML Blogger. Untuk selain yang telah disebutkan, mohon konfirmasi terlebih dahulu kepada <a href="https://github.com/nattadasu/Ryuuganime#informasi-lebih-lanjut">nattadasu</a>.</li>
                     <li><em>Commit</em> kontribusi Anda.</li>
                     <li>Setelah Anda melakukan <em>commit</em>, kirimkan <em>pull request</em></li>
                 </ol>
