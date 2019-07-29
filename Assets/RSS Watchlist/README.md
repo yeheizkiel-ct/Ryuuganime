@@ -1,5 +1,6 @@
 Untuk daftar lengkap berdasarkan tautan: [![GitHub](https://www.google.com/s2/favicons?domain=github.com) disini](https://github.com/nattadasu/Ryuuganime/blob/master/Assets/RSS%20Watchlist/RSS.md "Klik untuk loncat ke laman dituju").<br>
-Pastikan pula kamu telah [![Discord](https://www.google.com/s2/favicons?domain=discordapp.com) bergabung ke server Discord kami](https://discord.gg/nWHwkuT "Klik untuk bergabung").
+Pastikan pula kamu telah [![Discord](https://www.google.com/s2/favicons?domain=discordapp.com) bergabung ke server Discord kami](https://discord.gg/nWHwkuT "Klik untuk bergabung").<br>
+Sering dengar atau baca tentang ![RSS](https://www.google.com/s2/favicons?domain=rss.com) RSS tapi _ngga tau_ maksudnya itu? Kunjungi website [![RSS](https://www.google.com/s2/favicons?domain=rss.com) RSS](https://rss.com/what-is-rss/) untuk informasi lebih lanjut.
 
 ## Pantauan Blog
 | Tautan | Channel | Bot |
