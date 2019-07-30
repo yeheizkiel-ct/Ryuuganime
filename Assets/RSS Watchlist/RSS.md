@@ -42,6 +42,7 @@ Indeks:
 6. https://honeysanime.com//feed
 ### Indonesia
 * https://kaorinusantara.or.id/feed
+* http://jurnalotaku.com/feed/
 ## Pemantau Rilisan
 * http://anidb.net/feeds/files.atom
 
