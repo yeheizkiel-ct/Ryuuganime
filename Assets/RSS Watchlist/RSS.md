@@ -41,9 +41,11 @@ Indeks:
 5. http://feeds.feedburner.com/crunchyroll/animenews
 6. https://honeysanime.com//feed
 ### Indonesia
-* https://kaorinusantara.or.id/feed
-* http://jurnalotaku.com/feed/
+1. https://kaorinusantara.or.id/feed
+2. http://jurnalotaku.com/feed/
+3. https://japanesestation.com/feed
+4. https://www.akibanation.com/feed/
 ## Pemantau Rilisan
 * http://anidb.net/feeds/files.atom
 
-Total Pantauan RSS: 24 Tautan
+Total Pantauan RSS: 27 Tautan
