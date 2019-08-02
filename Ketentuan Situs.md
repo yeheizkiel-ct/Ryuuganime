@@ -12,7 +12,7 @@ _Ketentuan ini berlaku untuk seluruh pihak, mulai dari_ official _maupun_ fansha
 5. Ryuuganime berhak mengubah, menambah, dan/atau mengurangi poin-poin ketentuan dengan/tanpa pemberitahuan terlebih dahulu.
 
 ## Ketentuan untuk Fansub, Fanshare, dan Fanstream
-1. Ryuuganime berhak untuk tidak meng-_input_ pintasan animasi terkait apabila animasi tersebut **tersedia** pada salah satu _platform streaming_ animasi di Indonesia (Ponimu dan dalam beberapa kasus, seluruh situs _streaming_ yang tersedia di Indonesia) untuk mendukung gerakan penggunaan situs resmi/_official_.
+1. Ryuuganime berhak untuk tidak meng-_input_ pintasan animasi terkait apabila animasi tersebut **tersedia** pada salah satu _platform streaming offical_ animasi di Indonesia (Ponimu dan dalam beberapa kasus, seluruh situs _streaming_ yang tersedia di Indonesia) untuk mendukung gerakan penggunaan masif situs resmi/_official_ di Indonesia.
 2. Pihak Fansub, Fanshare, dan Fanstream berhak menentukan tautan yang akan diindeks merupakan tautan situs, _Link Shortener_ berbayar, maupun unduhan langsung dengan menghubungi pihak pengelola Ryuuganime.
 3. Ryuuganime tidak akan mengindekskan tautan apabila terdapat _malware_, _phising_, _pop-up_, dan lain-lain pada tautan terkait ke dalam indeks animasi untuk kenyamanan bersama.
 
