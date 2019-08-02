@@ -18,4 +18,4 @@ _Ketentuan ini berlaku untuk seluruh pihak, mulai dari_ official _maupun_ fansha
 
 ## Ketentuan untuk Fanstreamer dan Fansharer
 1. Ryuuganime berhak meniadakan indeks tautan ke situs _Fanstream_ maupun _Fanshare_ apabila ada ketentuan tambahan dari pihak _fansubber_ berupa larangan menyebarluaskan data. Berikut adalah situs-situs yang mempunyai larangan tersebut:
-    * Yuki Fansub
+   * Kosong :3
