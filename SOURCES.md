@@ -13,7 +13,12 @@
 			</ul>
 			<p><em>N.B: Beberapa tipografi digunakan dalam website anime yang tidak memiliki logo resmi di situsnya. Tipografi yang tertera juga tidak akan digunakan untuk kepentingan komersil apabila dalam lisensi yang digunakan tidak diperkenankan untuk menggunakan sebagai bahan komersil pada tipografi tersebut.</em></p>
 		<h2>Tema Situs:</h2>
-			<p><strong><a href="https://www.soratemplates.com/2019/06/animo-blogger-templates.html">Animo</a></strong> oleh <a href="https://www.soratemplates.com/p/contact-us.html">Sora Template</a> dibawah lisensi Personal. 
+			<p><strong><a href="https://www.soratemplates.com/2019/06/animo-blogger-templates.html">Animo</a></strong> oleh <a href="https://www.soratemplates.com/p/contact-us.html">Sora Template</a> dibawah lisensi Personal.</p>
+		<h2><i>Database</i> Indeks Situs</h2>
+			<ul>
+				<li><strong><a href="https://github.com/manami-project/anime-offline-database">anime-offline-database</a></strong> oleh <a href="https://github.com/manami-project">manami-project</a> dibawah lisensi <a href="https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"> AGPL-3.0</a>.
+				<li><strong><a href="https://docs.google.com/spreadsheets/d/1j30Cvc5Y7y0wij2qjmUpD9DmaPH6a4vjLDK54Nj9S-w/edit?fbclid=IwAR0iZYej2s6FRheY1g4DxIpfH_RqzUqRzbmYHxvcVHRKk64ZEoLlje8Jr6A#gid=281368768">Indonesian Fansubs Database Mk. II</a></strong> oleh <a href="https://facebook.com/fahmiyamura">Fsy</a>, <a href="https://facebook.com/yuwdhie7">d'7</a>, dan ExRazor.</li>
+			</ul>
 		<br />
 		<br />
 		<h1>Aplikasi/Jasa yang Digunakan Untuk Proyek/Situs Ini</h1>
