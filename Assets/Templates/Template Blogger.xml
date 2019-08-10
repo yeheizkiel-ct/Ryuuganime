@@ -936,13 +936,13 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:section class='header-logo' id='header-logo' maxwidgets='1' name='Header Logo' showaddelement='yes'>
           <b:widget id='Header1' locked='true' title='Ryuuganime (Header)' type='Header' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='displayUrl'>https://github.com/nattadasu/Ryuuganime/blob/master/Assets/Logo/Logo%20Panjang.png?raw=true</b:widget-setting>
-              <b:widget-setting name='displayHeight'>188</b:widget-setting>
-              <b:widget-setting name='sectionWidth'>150</b:widget-setting>
+              <b:widget-setting name='displayUrl'>http://3.bp.blogspot.com/-Ys3SpBv56bg/XRrt82DPYGI/AAAAAAAAEvA/MSC0R2HYlhoFEI6hgYx3Zj-y4oNY05UXgCK4BGAYYCw/s1600/Beta.png</b:widget-setting>
+              <b:widget-setting name='displayHeight'>183</b:widget-setting>
+              <b:widget-setting name='sectionWidth'>250</b:widget-setting>
               <b:widget-setting name='useImage'>true</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='imagePlacement'>REPLACE</b:widget-setting>
-              <b:widget-setting name='displayWidth'>1491</b:widget-setting>
+              <b:widget-setting name='displayWidth'>1600</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
               <div class='header-widget'>
@@ -983,11 +983,17 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:section class='header-social social' id='header-social' maxwidgets='1' name='Header Social' showaddelement='yes'>
           <b:widget id='LinkList73' locked='true' title='' type='LinkList' version='2' visible='true'>
             <b:widget-settings>
+              <b:widget-setting name='link-3'>https://ryuuganime.blogspot.com/feeds/posts/default?alt=rss</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
-              <b:widget-setting name='text-1'>github</b:widget-setting>
-              <b:widget-setting name='link-1'>http://github.com/nattadasu/Ryuuganime</b:widget-setting>
+              <b:widget-setting name='link-4'>mailto:sultan.ridita@yandex.com</b:widget-setting>
+              <b:widget-setting name='text-1'>instagram</b:widget-setting>
+              <b:widget-setting name='link-1'>https://instagram.com/ryuuganime</b:widget-setting>
               <b:widget-setting name='text-0'>facebook</b:widget-setting>
+              <b:widget-setting name='link-2'>http://github.com/nattadasu/Ryuuganime</b:widget-setting>
+              <b:widget-setting name='text-3'>rss</b:widget-setting>
               <b:widget-setting name='link-0'>http://facebook.com/ryuuganime</b:widget-setting>
+              <b:widget-setting name='text-2'>github</b:widget-setting>
+              <b:widget-setting name='text-4'>email</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
               <b:include name='content'/>
@@ -1888,7 +1894,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Historical,Millitary</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Comedy,Historical,Millitary,School,Shounen,Slice of Life</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
@@ -1935,7 +1941,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Winter 1905</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Spring 2019,Winter 1905</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
@@ -1991,7 +1997,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
           </b:widget>
           <b:widget id='HTML4' locked='false' title='Discord' type='HTML' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='content'><![CDATA[<iframe src="https://discordapp.com/widget?id=594442535615725579&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>]]></b:widget-setting>
+              <b:widget-setting name='content'><![CDATA[<iframe src="https://discordapp.com/widget?id=594442535615725579&theme=dark" width="350" height="450" allowtransparency="true" frameborder="0"></iframe>]]></b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
   <b:include name='widget-title'/>
