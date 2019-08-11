@@ -65,5 +65,5 @@ Sering dengar atau baca tentang RSS tapi _ngga tau_ maksudnya itu? Kunjungi webs
 | --- | -------------- | ---------- |
 | [![Discord.RSS](https://www.google.com/s2/favicons?domain=discordrss.xyz) Discord.RSS](https://discordrss.xyz) | 5 | Sudah mencapai batas maksimum |
 | [![IFTTT](https://www.google.com/s2/favicons?domain=ifttt.com) IFTTT](https://ifttt.com) | 0 | Direncanakan sebagai backup |
-| [![Mops](https://www.google.com/s2/favicons?domain=discordbots.org) Mops](https://discordbots.org/bot/305398845389406209) | 20 | Asli: 22 |
+| [![Mops](https://www.google.com/s2/favicons?domain=discordbots.org) Mops](https://discordbots.org/bot/305398845389406209) | 21 | Asli: 23 |
 | [![UB3R-B0T](https://www.google.com/s2/favicons?domain=ub3r-b0t.com) UB3R-B0T](https://ub3r-b0t.com) | 0 | Direncanakan sebagai backup
