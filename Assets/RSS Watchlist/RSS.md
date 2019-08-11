@@ -12,6 +12,7 @@ Indeks:
 * [Pemantau Rilisan](#Pemantau-Rilisan)
 ## Blog
 * https://ryuuganime.blogspot.com/feeds/posts/default?alt=rss
+* http://ryuuganime.disqus.com/latest.rss
 ## Airing
 * https://www.livechart.me/feeds/episodes
 ## Official
@@ -48,4 +49,4 @@ Indeks:
 ## Pemantau Rilisan
 * http://anidb.net/feeds/files.atom
 
-Total Pantauan RSS: 27 Tautan
+Total Pantauan RSS: 28 Tautan

@@ -5,7 +5,8 @@ Sering dengar atau baca tentang RSS tapi _ngga tau_ maksudnya itu? Kunjungi webs
 ## Pantauan Blog
 | Tautan | Channel | Bot |
 | ------ | ------- | --- |
-| [![Ryuuganime](https://www.google.com/s2/favicons?domain=ryuuganime.blogspot.com) Ryuuganime](https://ryuuganime.blogspot.com) | [#ryuuganime](https://discordapp.com/channels/594442535615725579/594696982594060301) | [![Discord.RSS](https://www.google.com/s2/favicons?domain=discordrss.xyz) Discord.RSS](https://discordrss.xyz) |
+| [![Ryuuganime](https://www.google.com/s2/favicons?domain=ryuuganime.blogspot.com) Website](https://ryuuganime.blogspot.com) | [#ryuuganime](https://discordapp.com/channels/594442535615725579/594696982594060301) | [![Discord.RSS](https://www.google.com/s2/favicons?domain=discordrss.xyz) Discord.RSS](https://discordrss.xyz) |
+| [![Disqus](https://www.google.com/s2/favicons?domain=disqus.com) Disqus](https://ryuuganime.disqus.com) | [#disqus](https://discordapp.com/channels/594442535615725579/604340156475899944) | [![Mops](https://www.google.com/s2/favicons?domain=discordbots.org) Mops](https://discordbots.org/bot/305398845389406209) |
 
 ## Pantauan Airing
 | Tautan | Channel | Bot |
@@ -64,5 +65,5 @@ Sering dengar atau baca tentang RSS tapi _ngga tau_ maksudnya itu? Kunjungi webs
 | --- | -------------- | ---------- |
 | [![Discord.RSS](https://www.google.com/s2/favicons?domain=discordrss.xyz) Discord.RSS](https://discordrss.xyz) | 5 | Sudah mencapai batas maksimum |
 | [![IFTTT](https://www.google.com/s2/favicons?domain=ifttt.com) IFTTT](https://ifttt.com) | 0 | Direncanakan sebagai backup |
-| [![Mops](https://www.google.com/s2/favicons?domain=discordbots.org) Mops](https://discordbots.org/bot/305398845389406209) | 20 | Asli: 22 |
+| [![Mops](https://www.google.com/s2/favicons?domain=discordbots.org) Mops](https://discordbots.org/bot/305398845389406209) | 21 | Asli: 23 |
 | [![UB3R-B0T](https://www.google.com/s2/favicons?domain=ub3r-b0t.com) UB3R-B0T](https://ub3r-b0t.com) | 0 | Direncanakan sebagai backup
