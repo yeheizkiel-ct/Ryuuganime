@@ -34,4 +34,5 @@
 7. [![VRV](https://www.google.com/s2/favicons?domain=vrv.co)](https://vrv.co) [VRV](https://vrv.co) :us:
 8. [![DaiWEEB](https://www.google.com/s2/favicons?domain=www.daiweeb.org)](https://www.daiweeb.org) [DaiWEEB](https://www.daiweeb.org) :us: :jp:
 9. [![Animelon](https://www.google.com/s2/favicons?domain=animelon.com)](https://animelon.com) [Animelon](https://animelon.com) :us: :jp:
-10. Beberapa fansub Indonesia lainnya hingga jumlah fansub yang terdata ke dalam _repo_ GitHub ini mencapai 53 situs.
+10. [![Meguminime](https://www.google.com/s2/favicons?domain=meguminime.com)](https://meguminime.com) [Meguminime](https://meguminime.com) :indonesia:
+11. Beberapa fansub Indonesia lainnya hingga jumlah fansub yang terdata ke dalam _repo_ GitHub ini mencapai 53 situs.
