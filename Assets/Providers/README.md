@@ -35,4 +35,6 @@
 8. [![DaiWEEB](https://www.google.com/s2/favicons?domain=www.daiweeb.org)](https://www.daiweeb.org) [DaiWEEB](https://www.daiweeb.org) :us: :jp:
 9. [![Animelon](https://www.google.com/s2/favicons?domain=animelon.com)](https://animelon.com) [Animelon](https://animelon.com) :us: :jp:
 10. [![Meguminime](https://www.google.com/s2/favicons?domain=meguminime.com)](https://meguminime.com) [Meguminime](https://meguminime.com) :indonesia:
-11. Beberapa fansub Indonesia lainnya hingga jumlah fansub yang terdata ke dalam _repo_ GitHub ini mencapai 53 situs.
+11. [![Moenime](https://www.google.com/s2/favicons?domain=moenime.com)](https://moenime.com) [Moenime](https://moenime.com) :indonesia:
+12. [![Moeclip](https://www.google.com/s2/favicons?domain=moeclip.com)](https://moeclip.com) [Moeclip](https://moeclip.com) :indonesia:
+13. Beberapa fansub Indonesia lainnya hingga jumlah fansub yang terdata ke dalam _repo_ GitHub ini mencapai 53 situs.
