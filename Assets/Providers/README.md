@@ -1,4 +1,10 @@
 # Daftar Sumber Situs untuk Database Anime
+### Petunjuk
+| Simbol/Emoji | Keterangan |
+| ------------ | ---------- |
+| :us: | Situs/konten dalam bahasa Inggris (US/UK) |
+| :jp: | Situs/konten dalam bahasa Jepang |
+| :indonesia: | Situs/konten dalam bahasa Indonesia |
 ### Official
 
 | No. | Simulcast | Store |
