@@ -11,6 +11,7 @@
 				<li><a href="https://fontbundles.net/subectype/274413-single-fighter"><strong>Single Fighter</strong></a> oleh <a href="https://fontbundles.net/subectype">Subectype &amp; Orenari</a> dibawah lisensi Personal.</li>
 				<li><a href="https://www.dafont.com/arabica-export.font"><strong>Arabica Export</strong></a> oleh <a href="http://www.imagex-fonts.com/">imagex</a>. Legal Notice: <a href="http://www.imagex-fonts.com/legal-notice.php">disini</a></li>
 				<li><a href="https://www.fontsquirrel.com/fonts/heebo"><strong>Heebo</strong></a> oleh <a href="https://www.hebrewtypography.com/">Oded Ezer</a> dibawah lisensi <a href="https://scripts.sil.org/OFL_web">OFL</a>.</li>
+				<li><a href="https://www.fontsquirrel.com/fonts/merriweather"><strong>Merriweather</strong> oleh <a href="http://www.sorkintype.com/>Sorkin Type Co</a> dibawah lisensi <a href="https://scripts.sil.org/OFL_web">OFL</a>.</li>
 			</ul>
 			<p><em>N.B: Beberapa tipografi digunakan dalam website anime yang tidak memiliki logo resmi di situsnya. Tipografi yang tertera juga tidak akan digunakan untuk kepentingan komersil apabila dalam lisensi yang digunakan tidak diperkenankan untuk menggunakan sebagai bahan komersil pada tipografi tersebut.</em></p>
 		<h2>Tema Situs:</h2>
