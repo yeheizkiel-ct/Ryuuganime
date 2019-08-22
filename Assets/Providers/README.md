@@ -111,7 +111,7 @@
                     <td>
                         <a href="https://kusonime.com"><img src="https://www.google.com/s2/favicons?domain=kusonime.com" alt="Kuso"></a> <a href="https://kusonime.com">Kusonime</a> 🇮🇩 📦</td>
                     <td>
-                        <a href="https://www.aizukara.web.id"><img src="https://www.google.com/s2/favicons?domain=animeindo.net" alt="Indo"></a> <a href="https://www.aizukara.web.id">AnimeIndo</a> 🇮🇩</td>
+                        <a href="https://animeindo.net"><img src="https://www.google.com/s2/favicons?domain=animeindo.net" alt="Indo"></a> <a href="https://animeindo.net">AnimeIndo</a> 🇮🇩</td>
                     <td></td>
                 </tr>
                 <tr>
