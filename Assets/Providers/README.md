@@ -320,6 +320,8 @@
                 <a href="https://gomunime.com"><img src="https://www.google.com/s2/favicons?domain=gomunime.com" alt="Gomunime"></a> <a href="https://gomunime.com">Gomunime</a> 🇮🇩</li>
             <li>
                 <a href="https://nanime.tv"><img src="https://www.google.com/s2/favicons?domain=nanime.tv" alt="Nanime"></a> <a href="https://nanime.tv">Nanime</a> 🇮🇩</li>
+            <li>
+                <a href="https://animeflix.io"><img src="https://www.google.com/s2/favicons?domain=animeflix.io" alt="Animeflix"></a> <a href="https://animeflix.io">Nanime</a> 🇺🇸</li>
         </ol>
     </div>
 </body>
