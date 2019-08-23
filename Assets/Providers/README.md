@@ -321,7 +321,7 @@
             <li>
                 <a href="https://nanime.tv"><img src="https://www.google.com/s2/favicons?domain=nanime.tv" alt="Nanime"></a> <a href="https://nanime.tv">Nanime</a> 🇮🇩</li>
             <li>
-                <a href="https://animeflix.io"><img src="https://www.google.com/s2/favicons?domain=animeflix.io" alt="Animeflix"></a> <a href="https://animeflix.io">Nanime</a> 🇺🇸</li>
+                <a href="https://animeflix.io"><img src="https://www.google.com/s2/favicons?domain=animeflix.io" alt="Animeflix"></a> <a href="https://animeflix.io">Aniflix</a> 🇺🇸</li>
         </ol>
     </div>
 </body>
