@@ -891,11 +891,11 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
           <b:widget-setting name='link-3'>6</b:widget-setting>
           <b:widget-setting name='sorting'>NONE</b:widget-setting>
           <b:widget-setting name='text-1'>commentsSystem</b:widget-setting>
-          <b:widget-setting name='link-1'>blogger</b:widget-setting>
+          <b:widget-setting name='link-1'>disqus</b:widget-setting>
           <b:widget-setting name='text-0'>disqusShortname</b:widget-setting>
           <b:widget-setting name='link-2'>true</b:widget-setting>
           <b:widget-setting name='text-3'>postPerPage</b:widget-setting>
-          <b:widget-setting name='link-0'>soratemplates</b:widget-setting>
+          <b:widget-setting name='link-0'>Ryuuganime</b:widget-setting>
           <b:widget-setting name='text-2'>fixedSidebar</b:widget-setting>
         </b:widget-settings>
         <b:includable id='main'>
@@ -1017,35 +1017,29 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
       <div class='container row'>
         <span class='slide-menu-toggle'/>
         <b:section class='main-menu' id='main-menu' maxwidgets='1' name='Main Menu' showaddelement='yes'>
-          <b:widget id='LinkList74' locked='true' title='Random' type='LinkList' version='2' visible='true'>
+          <b:widget id='LinkList74' locked='true' title='List' type='LinkList' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='text-10'>Documentation</b:widget-setting>
-              <b:widget-setting name='sorting'>NONE</b:widget-setting>
-              <b:widget-setting name='link-1'>#</b:widget-setting>
-              <b:widget-setting name='link-2'>#</b:widget-setting>
-              <b:widget-setting name='link-12'>https://www.soratemplates.com/2019/06/animo-blogger-templates.html</b:widget-setting>
-              <b:widget-setting name='link-0'>/</b:widget-setting>
-              <b:widget-setting name='link-11'>https://youtu.be/J_lTmoOtnT0</b:widget-setting>
-              <b:widget-setting name='link-10'>https://www.sorabloggingtips.com/2019/06/how-to-setup-animo-blogger-template.html</b:widget-setting>
-              <b:widget-setting name='text-9'>Mega Menu</b:widget-setting>
-              <b:widget-setting name='link-9'>recent/mega-menu</b:widget-setting>
-              <b:widget-setting name='text-8'>_Error Page</b:widget-setting>
-              <b:widget-setting name='link-7'>https://www.sorabloggingtips.com/2017/01/how-to-add-sitemap-widget-in-blogspot-blogs.html</b:widget-setting>
-              <b:widget-setting name='link-8'>https://animo-soratemplates.blogspot.com/soratemplates</b:widget-setting>
-              <b:widget-setting name='link-5'>#</b:widget-setting>
-              <b:widget-setting name='link-6'>https://animo-soratemplates.blogspot.com/p/post-format-and-page-markup_4.html</b:widget-setting>
+              <b:widget-setting name='text-9'>_Ketentuan Indexing</b:widget-setting>
+              <b:widget-setting name='link-9'>https://ryuuganime.blogspot.com/p/peraturan-dan-ketentuan-untuk-indeks.html</b:widget-setting>
+              <b:widget-setting name='text-8'>Lainnya</b:widget-setting>
+              <b:widget-setting name='link-7'>https://ryuuganime.blogspot.com/p/blog-page.html</b:widget-setting>
+              <b:widget-setting name='link-8'>#</b:widget-setting>
+              <b:widget-setting name='link-5'>http://</b:widget-setting>
+              <b:widget-setting name='link-6'>#</b:widget-setting>
               <b:widget-setting name='link-3'>#</b:widget-setting>
-              <b:widget-setting name='link-4'>#</b:widget-setting>
-              <b:widget-setting name='text-1'>Features</b:widget-setting>
-              <b:widget-setting name='text-0'>Home</b:widget-setting>
-              <b:widget-setting name='text-3'>__DropDown 1</b:widget-setting>
-              <b:widget-setting name='text-2'>_Multi DropDown</b:widget-setting>
-              <b:widget-setting name='text-5'>__DropDown 3</b:widget-setting>
-              <b:widget-setting name='text-4'>__DropDown 2</b:widget-setting>
-              <b:widget-setting name='text-7'>_SiteMap</b:widget-setting>
-              <b:widget-setting name='text-6'>_ShortCodes</b:widget-setting>
-              <b:widget-setting name='text-11'>Video Documentation</b:widget-setting>
-              <b:widget-setting name='text-12'>Download This Template</b:widget-setting>
+              <b:widget-setting name='link-4'>https://ryuuganime.blogspot.com/p/indeks-anime.html</b:widget-setting>
+              <b:widget-setting name='text-1'>Rekomendasi</b:widget-setting>
+              <b:widget-setting name='text-0'>Beranda</b:widget-setting>
+              <b:widget-setting name='text-3'>Indeks</b:widget-setting>
+              <b:widget-setting name='text-2'>Berita</b:widget-setting>
+              <b:widget-setting name='text-5'>_Genre</b:widget-setting>
+              <b:widget-setting name='text-4'>_Anime</b:widget-setting>
+              <b:widget-setting name='text-7'>Tentang Kami</b:widget-setting>
+              <b:widget-setting name='text-6'>_Studio</b:widget-setting>
+              <b:widget-setting name='sorting'>NONE</b:widget-setting>
+              <b:widget-setting name='link-1'>random/mega-menu</b:widget-setting>
+              <b:widget-setting name='link-2'>news/mega-menu</b:widget-setting>
+              <b:widget-setting name='link-0'>/</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
               <b:include name='content'/>
@@ -1077,7 +1071,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
       <b:section class='slider-section' id='slider-section' maxwidgets='1' name='Main Slider' showaddelement='yes'>
         <b:widget id='HTML2' locked='false' title='' type='HTML' version='2' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'>6/recent/slider</b:widget-setting>
+            <b:widget-setting name='content'>6/random/slider</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
             <b:include name='widget-title'/>
@@ -1894,7 +1888,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Comedy,Historical,Millitary,School,Shounen,Slice of Life</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Action,Fantasy,Historical,Millitary,Sci-Fi,Shounen,Superpower</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
@@ -1941,7 +1935,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Spring 2019,Winter 1905</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Summer 2019,Winter 1905</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
