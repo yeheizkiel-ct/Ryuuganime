@@ -38,6 +38,10 @@
                     <td>🎞</td>
                     <td>Per Episod (untuk Fanshare)</td>
                 </tr>
+			<tr>
+			    <td>👄</td>
+			    <td>Konten dewasa</td>
+			</tr>
             </tbody>
         </table>
         <h3 id="fansub-fanshare-fanstream-dan-library">Fansub, Fanshare, Fanstream, dan Library</h3>
