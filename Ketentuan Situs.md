@@ -20,4 +20,4 @@ _Ketentuan ini berlaku untuk seluruh pihak, mulai dari_ official _maupun_ fansha
 ## Ketentuan untuk Fanstreamer dan Fansharer
 1. Ryuuganime berhak meniadakan indeks tautan ke situs _Fanstream_ maupun _Fanshare_ apabila ada ketentuan tambahan dari pihak _fansubber_ berupa larangan menyebarluaskan data. Berikut adalah situs-situs yang mempunyai larangan tersebut:
    * Kopajasubs. [Lihat disini](http://blog.kopajasubs.info/p/tentang-kopajasubs.html)
-   * _Pihak Ryuuganime akan/sedang membahas ketentuan ini dari para pemilik situs fansub Indonesia. Hasil dari pembahasan akan diumumkan melalui server_ Discord _resmi Ryuuganime._
+   * _Pihak Ryuuganime akan/sedang membahas ketentuan ini dari para pemilik situs fansub Indonesia. Hasil dari pembahasan akan diumumkan melalui server_ Discord _resmi Ryuuganime_ maupun langsung dalam _commit repo_ GitHub Ryuuganime.
