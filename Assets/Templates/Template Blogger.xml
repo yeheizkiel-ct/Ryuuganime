@@ -1019,27 +1019,39 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:section class='main-menu' id='main-menu' maxwidgets='1' name='Main Menu' showaddelement='yes'>
           <b:widget id='LinkList74' locked='true' title='List' type='LinkList' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='text-9'>_Ketentuan Indexing</b:widget-setting>
-              <b:widget-setting name='link-9'>https://ryuuganime.blogspot.com/p/peraturan-dan-ketentuan-untuk-indeks.html</b:widget-setting>
-              <b:widget-setting name='text-8'>Lainnya</b:widget-setting>
-              <b:widget-setting name='link-7'>https://ryuuganime.blogspot.com/p/blog-page.html</b:widget-setting>
-              <b:widget-setting name='link-8'>#</b:widget-setting>
-              <b:widget-setting name='link-5'>http://</b:widget-setting>
-              <b:widget-setting name='link-6'>#</b:widget-setting>
-              <b:widget-setting name='link-3'>#</b:widget-setting>
-              <b:widget-setting name='link-4'>https://ryuuganime.blogspot.com/p/indeks-anime.html</b:widget-setting>
-              <b:widget-setting name='text-1'>Rekomendasi</b:widget-setting>
-              <b:widget-setting name='text-0'>Beranda</b:widget-setting>
-              <b:widget-setting name='text-3'>Indeks</b:widget-setting>
-              <b:widget-setting name='text-2'>Berita</b:widget-setting>
-              <b:widget-setting name='text-5'>_Genre</b:widget-setting>
-              <b:widget-setting name='text-4'>_Anime</b:widget-setting>
-              <b:widget-setting name='text-7'>Tentang Kami</b:widget-setting>
-              <b:widget-setting name='text-6'>_Studio</b:widget-setting>
+              <b:widget-setting name='text-10'>_Site Feedback</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
               <b:widget-setting name='link-1'>random/mega-menu</b:widget-setting>
-              <b:widget-setting name='link-2'>news/mega-menu</b:widget-setting>
+              <b:widget-setting name='link-13'>https://ryuuganime.blogspot.com/p/blog-page.html</b:widget-setting>
+              <b:widget-setting name='link-2'>#</b:widget-setting>
+              <b:widget-setting name='link-12'>https://ryuuganime.blogspot.com/p/database-request.html</b:widget-setting>
+              <b:widget-setting name='link-15'>https://ryuuganime.blogspot.com/p/peraturan-dan-ketentuan-untuk-indeks.html</b:widget-setting>
               <b:widget-setting name='link-0'>/</b:widget-setting>
+              <b:widget-setting name='link-14'>#</b:widget-setting>
+              <b:widget-setting name='link-11'>https://ryuuganime.blogspot.com/p/indexing-request.html</b:widget-setting>
+              <b:widget-setting name='link-10'>https://ryuuganime.blogspot.com/p/site-feedback.html</b:widget-setting>
+              <b:widget-setting name='text-9'>Umpan Balik</b:widget-setting>
+              <b:widget-setting name='link-9'>#</b:widget-setting>
+              <b:widget-setting name='text-8'>_Musim</b:widget-setting>
+              <b:widget-setting name='link-7'>https://ryuuganime.blogspot.com/p/indeks-asal.html</b:widget-setting>
+              <b:widget-setting name='link-8'>https://ryuuganime.blogspot.com/p/indeks-musim.html</b:widget-setting>
+              <b:widget-setting name='link-5'>https://ryuuganime.blogspot.com/p/indeks-studio.html</b:widget-setting>
+              <b:widget-setting name='link-6'>https://ryuuganime.blogspot.com/p/indeks-per-tipe.html</b:widget-setting>
+              <b:widget-setting name='link-3'>https://ryuuganime.blogspot.com/p/indeks-anime.html</b:widget-setting>
+              <b:widget-setting name='link-4'>https://ryuuganime.blogspot.com/p/indeks-genre.html</b:widget-setting>
+              <b:widget-setting name='text-1'>Rekomendasi</b:widget-setting>
+              <b:widget-setting name='text-0'>Beranda</b:widget-setting>
+              <b:widget-setting name='text-3'>_Anime</b:widget-setting>
+              <b:widget-setting name='text-2'>Indeks</b:widget-setting>
+              <b:widget-setting name='text-5'>_Studio</b:widget-setting>
+              <b:widget-setting name='text-4'>_Genre</b:widget-setting>
+              <b:widget-setting name='text-7'>_Asal</b:widget-setting>
+              <b:widget-setting name='text-6'>_Tipe</b:widget-setting>
+              <b:widget-setting name='text-15'>_Ketentuan Indexing</b:widget-setting>
+              <b:widget-setting name='text-11'>_Site Indexing Request</b:widget-setting>
+              <b:widget-setting name='text-12'>_Database Request</b:widget-setting>
+              <b:widget-setting name='text-13'>Tentang Kami</b:widget-setting>
+              <b:widget-setting name='text-14'>Lainnya</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
               <b:include name='content'/>
@@ -1809,7 +1821,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
 </script>
 </b:includable>
           </b:widget>
-          <b:widget id='PopularPosts1' locked='false' title='Anime Terpopuler' type='PopularPosts' visible='true'>
+          <b:widget id='PopularPosts1' locked='false' title='Anime Terpopuler' type='PopularPosts' visible='false'>
             <b:widget-settings>
               <b:widget-setting name='numItemsToShow'>5</b:widget-setting>
               <b:widget-setting name='showThumbnails'>true</b:widget-setting>
@@ -1846,13 +1858,13 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
       </div>
     </b:includable>
           </b:widget>
-          <b:widget id='FeaturedPost1' locked='false' title='Featured Post' type='FeaturedPost' visible='true'>
+          <b:widget id='FeaturedPost1' locked='false' title='Featured Post' type='FeaturedPost' visible='false'>
             <b:widget-settings>
               <b:widget-setting name='showSnippet'>true</b:widget-setting>
               <b:widget-setting name='showPostTitle'>true</b:widget-setting>
               <b:widget-setting name='postId'>421252502949487544</b:widget-setting>
               <b:widget-setting name='showFirstImage'>true</b:widget-setting>
-              <b:widget-setting name='useMostRecentPost'>false</b:widget-setting>
+              <b:widget-setting name='useMostRecentPost'>true</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -1888,7 +1900,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Action,Fantasy,Historical,Millitary,Sci-Fi,Shounen,Superpower</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Action,Adventure,Comedy,Fantasy,Historical,Military,Parody,Romance,School,Sci-Fi,Shounen,Slice of Life</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
@@ -1931,11 +1943,11 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
       </ul>
     </b:includable>
           </b:widget>
-          <b:widget id='Label4' locked='false' title='Musim' type='Label' version='2' visible='true'>
+          <b:widget id='Label4' locked='false' title='Musim' type='Label' version='2' visible='false'>
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Summer 2019,Winter 1905</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Fall 2015,Spring 2019,Summer 2019,Winter 1907</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
