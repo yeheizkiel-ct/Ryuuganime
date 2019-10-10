@@ -31,6 +31,7 @@ Indeks:
 ## Fanshare
 1. https://drivenime.com/feed/
 2. https://kusonime.com/feed/
+3. https://moenime.id/feed/
 ## Fantranslation
 1. https://mangadex.org/rss/QKdWNwHft5Baeqp6E4nvkbVR7AXZ8xsG/group_id/7774
 ## Berita
