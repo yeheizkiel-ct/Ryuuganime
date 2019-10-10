@@ -50,4 +50,4 @@ Indeks:
 ## Pemantau Rilisan
 * http://anidb.net/feeds/files.atom
 
-Total Pantauan RSS: 28 Tautan
+Total Pantauan RSS: 29 Tautan
