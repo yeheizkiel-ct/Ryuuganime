@@ -1,0 +1,135 @@
+{
+    "anime":{
+        "title":{
+            "native":"アグレッシブ烈子 (2019)",
+            "romanized":"Aggressive Retsuko (2019)",
+            "english":"Aggressive Retsuko (2019)",
+            "indonesian":"Aggressive Retsuko (2019)",
+            "russian":"",
+            "spanish":"",
+            "arabic":"",
+            "french":"",
+            "german":"",
+            "synonyms":[
+                "Aggretsuko Season Two", " Aggressive Retsuko (ONA) 2nd Season"
+            ]
+        },
+        "show-id":{
+            "anidb":"",
+            "anilist":"",
+            "anime-planet":"",
+            "ann":"",
+            "anisearch":"",
+            "imdb":"",
+            "kitsu":"",
+            "livechart":"",
+            "mal":"",
+            "nautaljon":"",
+            "notify":"",
+            "otakotaku":"",
+            "ryuuganime":"",
+            "shikimori":"",
+            "simkl":"",
+            "tmdb":"",
+            "tvdb":"",
+            "trakt":""
+        },
+        "image":{
+            "coverart":"",
+            "backdrop":""
+        },
+        "type":"ONA",
+        "episode":"10",
+        "status":2,
+        "season":2,
+        "year":"2019",
+        "date":{
+            "started":20190614,
+            "finished":""
+        },
+        "genre":"Comedy, Music, Slice of Life",
+        "tags":"Anthropomorphism, Working Life",
+        "studios":"Fanworks",
+        "country-of-origin":"Japan",
+        "producer":"Sanrio",
+        "sources":"Original",
+        "duration":"15",
+        "nsfw":false,
+        "synopsys":{
+            "content":"Musim kedua dari Aggretsuko",
+            "author":"Kitsu",
+            "link":"",
+            "note":"Telah disunting dan dialih bahasa ke Indonesia oleh nattadasu"
+        }
+    },
+    "fansub":{
+        "progress":1,
+        "staff":{
+            "translator":"nattadasu",
+            "encoder":"nattadasu",
+            "qc":"nattadasu"
+        },
+        "media":{
+            "author":"Reaktor",
+            "format":1,
+            "site":""
+        },
+        "note":{
+            "content":"Projek pertama dari TundraSubs, masih pemula... Tolong untuk dapat dimaklumi",
+            "author":"nattadasu"
+        },
+        "batch":false
+    },
+    "media-config":{
+        "video":{
+            "file-type":"",
+            "format":{
+                "name":"",
+                "version":""
+            },
+            "codec":"",
+            "settings":"",
+            "resolution":{
+                "width":"",
+                "heigth":"",
+                "ratio":""
+            },
+            "bit-depth":"",
+            "frame-rate":""
+        },
+        "audio":{
+            "language":"",
+            "format":"",
+            "channel":"",
+            "sampling-rate":"",
+            "frame-rate":""
+        },
+        "subtitle":{
+            "language":"",
+            "format":"",
+            "author":""
+        }
+    },
+    "media-file":{
+        "episode":{
+            "count":"",
+            "title":{
+                "native":"",
+                "romanized":"",
+                "english":"",
+                "indonesian":""
+            },
+            "aired":{
+                "date":"",
+                "time":""
+            },
+            "checksums":{
+                "sfv":"",
+                "md5":"",
+                "sha1":"",
+                "sha256":""
+            },
+            "duration":""
+        }
+    }
+}
