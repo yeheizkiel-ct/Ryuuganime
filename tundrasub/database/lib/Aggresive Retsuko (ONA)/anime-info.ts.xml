@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    TundraSubs XML Anime Database v.0.2-b
+    Created by Natsu Tadama (nattadasu).
+    Included by each anime batch packages.
+    Last Updated 27 October 2019.
+    Dirancang buat yang niat jadi programmer jadi-jadian
+    Informasi dalam file ini lebih banyak dan lengkap, pastikan kamu mempunyai waktu luang untuk mengisinya.
+-->
+<anime>
+    <title>
+        <native>アグレッシブ烈子 (ONA)</native>
+        <romanized>Aggressive Retsuko (ONA)</romanized>
+        <english>Aggressive Retsuko (ONA)</english>
+        <indonesian>Retsuko Agresif (ONA)</indonesian>
+        <russian>Агрессивная Рэцуко ONA</russian>
+        <spanish></spanish>
+        <arabic></arabic>
+        <french></french>
+        <german></german>
+        <synonyms>Aggretsuko</synonyms>
+    </title>
+    <anime_id>
+        <anidb>13636</anidb>
+        <anilist>101571</anilist>
+        <animeplanet_slug>aggretsuko</animeplanet_slug>
+        <ann_encyclopedia>20607</ann_encyclopedia>
+        <annict></annict>
+        <anisearch>13134</anisearch>
+        <imdb>tt8019444</imdb>
+        <kitsu>41204</kitsu>
+        <kitsu_slug>aggressive-retsuko-ona</kitsu_slug>
+        <livechart>3007</livechart>
+        <mal>36904</mal>
+        <nautiljon>aggressive+retsuko+(ona)</nautiljon>
+        <notify>9I--HBZmR</notify>
+        <otakotaku></otakotaku>
+        <ryuuganime_path>2018/04/9I--HBZmR</ryuuganime_path>
+        <shikimori>36904</shikimori>
+        <simkl>744645</simkl>
+        <tmdb>78941</tmdb>
+        <tvdb>346744</tvdb>
+        <trakt>shows/aggretsuko</trakt>
+    </anime_id>
+    <picture>
+    <!--
+        Recommended to use TMDB (The Movie Database) image link for backdrop and AniList/Kitsu for Cover art.
+        Minimum size
+            Cover Art: N/A
+            Backdrop: 720p
+    -->
+        <cover_art>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101571-9f5xmj17S6aJ.jpg</cover_art>
+        <backdrop>https://www.thetvdb.com/banners/fanart/original/5ca8e3b4bf3c1.jpg</backdrop>
+    </picture>
+    <type>ONA</type>
+    <episode>10</episode>
+    <status>2</status>
+    <!-- 
+        Status:
+            1 - Airing
+            2 - Finished
+            3 - Hiatus
+    -->
+    <season>2</season>
+    <!--
+        Status:
+            0 - Winter
+            1 - Spring
+            2 - Summer
+            3 - Fall
+    -->
+    <year>2019</year>
+    <date>
+        <stared_date>20180420</stared_date>
+        <finished_date>20180420</finished_date>
+    </date>
+    <genre>Comedy, Music, Slice of Life</genre>
+    <tags>Anthropomorphism, Working Life</tags>
+    <studios>Fanworks</studios>
+    <country_of_origin>Japan</country_of_origin>
+    <producer>Sanrio</producer>
+    <sources>Original</sources>
+    <average_duration>15</average_duration>
+    <nsfw>false</nsfw>
+    <!-- 
+        NSFW Boolean:
+            true - series contains NSFW (not safe for work) contents
+            false - series doesn't contain NSFW contents
+    -->
+    <synopsis>
+        <content>Serial ini mengisahkan Retsuko, seekor panda merah pekerja kantor yang melepaskan frustrasi pada kehidupannya melalui karaoke death metal.</content>
+        <author>Kitsu</author>
+        <link>https://kitsu.io/anime/aggressive-retsuko-ona</link>
+        <note>Telah disunting dan dialih bahasa ke Indonesia oleh nattadasu</note>
+    </synopsis>
+    <!--
+        Sumber sinopsis yang diambil
+    -->
+</anime>
+
+<fansub>
+    <progress>1</progress>
+    <!--
+        0 - To Be Annouced
+        1 - Work in Proccess
+        2 - Finished
+    -->
+    <staff>
+        <translator>nattadasu</translator>
+        <encoder>nattadasu</encoder>
+        <quality_check>nattadasu</quality_check>
+    </staff>
+    <media>
+        <author>Reaktor</author>
+        <format>1</format>
+        <!--
+            0 - RAW
+            1 - Subbed
+            2 - Dubbed
+        -->
+        <site></site>
+    </media>
+    <note>
+        <content>Projek pertama dari TundraSubs, masih pemula...<br />Tolong untuk dapat dimaklumi</content>
+        <author>nattadasu</author>
+    </note>
+    <batch>false</batch>
+    <!--
+        Boolean, false untuk tidak, true untuk iya
+    -->
+</fansub>
+
+<media_config>
+    <video>
+        <file_type></file_type>
+        <format></format>
+        <format_version></format_version>
+        <codec></codec>
+        <settings></settings>
+        <resolution>
+            <width></width>
+            <height></height>
+            <ratio></ratio>
+        </resolution>
+        <bit_depth></bit_depth>
+        <frame_rate></frame_rate>
+    </video>
+    <audio>
+        <file language="JP">
+            <language></language>
+            <format></format>
+            <channel></channel>
+            <sampling_rate></sampling_rate>
+            <frame_rate></frame_rate>
+        </file>
+    </audio>
+    <subtitle>
+        <file language="ID">
+            <format></format>
+            <author></author>
+        </file>
+    </subtitle>
+</media_config>
+
+<media_files>
+    <episode>
+        <count>1</count>
+        <title>
+            <native>烈子の日常</native>
+            <romanized>Retsuko no Nichijou</romanized>
+            <english>A Day in the Life of Retsuko</english>
+            <indonesian>Keseharian Retsuko</indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>2</count>
+        <title>
+            <native>真面目ないい子</native>
+            <romanized>Majime na Ii Ko</romanized>
+            <english>A Good, Hard-working Girl</english>
+            <indonesian>Gadis Pekerja Keras dan Baik</indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>3</count>
+        <title>
+            <native>腰かける女</native>
+            <romanized>Koshikakure Onna</romanized>
+            <english>Short-timer</english>
+            <indonesian></indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>4</count>
+        <title>
+            <native>ウェディングロード</native>
+            <romanized>Wedding Road</romanized>
+            <english>Walking Down the Aisle</english>
+            <indonesian></indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>5</count>
+        <title>
+            <native>デスバレ</native>
+            <romanized>Desubare</romanized>
+            <english>Exposed</english>
+            <indonesian></indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>6</count>
+        <title>
+            <native>反逆の狼煙</native>
+            <romanized>Hangyaku no Noroshi</romanized>
+            <english>Stoking Rebellion</english>
+            <indonesian></indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>7</count>
+        <title>
+            <native>ガチバトル</native>
+            <romanized>Gachi Battle</romanized>
+            <english>The Duel</english>
+            <indonesian>Duel</indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>8</count>
+        <title>
+            <native>自腹のプリンス</native>
+            <romanized>Jibara no Prince</romanized>
+            <english>The Out of Pocket Prince</english>
+            <indonesian></indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>9</count>
+        <title>
+            <native>ばら色の世界</native>
+            <romanized>Barairo no Sekai</romanized>
+            <english>A Rosy World</english>
+            <indonesian></indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+    <episode>
+        <count>10</count>
+        <title>
+            <native>夢のおわり</native>
+            <romanized>Yume no Owari</romanized>
+            <english>The Dream Ends</english>
+            <indonesian></indonesian>
+        </title>
+        <aired>
+            <date>20180420</date>
+            <time></time>
+        <aired>
+        <!--
+            Gunakan format GMT+7 / Asia/Jakarta
+        -->
+        <checksums>
+            <sfv></sfv>
+            <md5></md5>
+            <sha1></sha1>
+            <sha256></sha256>
+        </checksums>
+    </episode>
+</media_files>
