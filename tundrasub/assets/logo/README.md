@@ -1,6 +1,7 @@
-<h1>TUNDRASUBS LOGO: TAIGA</h1>
-<img align="left" src="dark/mega-size.png" heigth="100">
-> Fix, ini logo beneran ngga jelas dah, desainnya ntah napa ancur bgt ya Allah ;-; <br />- Natsu Tadama
+<h1>TUNDRASUBS LOGO: Yuki Hyou</h1>
+<img align="right" src="dark/mega-size.png" width="150">
+
+> Fix, ini logo beneran ngga jelas dah, desainnya ntah napa ancur bgt ya Allah ;-; <br /> -Natsu Tadama
 
 <hr />
 <br />
