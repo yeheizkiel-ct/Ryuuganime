@@ -5,15 +5,15 @@
     <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
     <title><data:view.title.escaped/></title>
     <b:include data='blog' name='all-head-content'/>
-    <link href='https://raw.githubusercontent.com/nattadasu/Ryuuganime/master/Assets/Icon/Favicon.png' rel='apple-touch-icon-precomposed'/>
-    <meta content='https://raw.githubusercontent.com/nattadasu/Ryuuganime/master/Assets/Icon/Microsoft%20Tiles.png' name='msapplication-TileImage'/>
+    <link href='https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/Icon/Favicon.png' rel='apple-touch-icon-precomposed'/>
+    <meta content='https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/Icon/Microsoft%20Tiles.png' name='msapplication-TileImage'/>
     <meta content='summary' name='twitter:card'/>
-    <meta content='https://raw.githubusercontent.com/nattadasu/Ryuuganime/master/Assets/SNS%20Cover/Cover.png' name='twitter:site'/>
+    <meta content='https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/SNS%20Cover/Cover.png' name='twitter:site'/>
     <meta content='https://ryuuganime.blogspot.com' property='og:url'/>
     <meta content='Ryuuganime' property='og:title'/>
     <meta content='Portal Indeks Anime Sub Indo Terlengkap' property='og:description'/>
     <meta content='ryuuganime.blogspot.com' name='og:site_name'/>
-    <meta content='https://raw.githubusercontent.com/nattadasu/Ryuuganime/master/Assets/SNS%20Cover/Cover.png' property='og:image'/>
+    <meta content='https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/SNS%20Cover/Cover.png' property='og:image'/>
     <meta content='image/jpeg' property='og:image:type'/>
     <meta content='website' property='og:type'/>
 
@@ -662,7 +662,7 @@ body#layout .home-ad .widget-content{float:none;width:auto;margin:0}
 <script type='text/javascript'>
 //<![CDATA[
 // Global variables with content. "Available for Edit"
-var monthFormat = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Dcember"],
     noThumbnail = "https://4.bp.blogspot.com/-O3EpVMWcoKw/WxY6-6I4--I/AAAAAAAAB2s/KzC0FqUQtkMdw7VzT6oOR_8vbZO6EJc-ACK4BGAYYCw/w680/nth.png",
     postPerPage = 7,
     fixedSidebar = true,
@@ -936,7 +936,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
         <b:section class='header-logo' id='header-logo' maxwidgets='1' name='Header Logo' showaddelement='yes'>
           <b:widget id='Header1' locked='true' title='Ryuuganime (Header)' type='Header' version='2' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='displayUrl'>http://3.bp.blogspot.com/-Ys3SpBv56bg/XRrt82DPYGI/AAAAAAAAEvA/MSC0R2HYlhoFEI6hgYx3Zj-y4oNY05UXgCK4BGAYYCw/s1600/Beta.png</b:widget-setting>
+              <b:widget-setting name='displayUrl'>https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/Logo/Logo%20Panjang.png</b:widget-setting>
               <b:widget-setting name='displayHeight'>183</b:widget-setting>
               <b:widget-setting name='sectionWidth'>250</b:widget-setting>
               <b:widget-setting name='useImage'>true</b:widget-setting>
@@ -989,7 +989,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
               <b:widget-setting name='text-1'>instagram</b:widget-setting>
               <b:widget-setting name='link-1'>https://instagram.com/ryuuganime</b:widget-setting>
               <b:widget-setting name='text-0'>facebook</b:widget-setting>
-              <b:widget-setting name='link-2'>http://github.com/nattadasu/Ryuuganime</b:widget-setting>
+              <b:widget-setting name='link-2'>http://github.com/ryuuganime/Ryuuganime</b:widget-setting>
               <b:widget-setting name='text-3'>rss</b:widget-setting>
               <b:widget-setting name='link-0'>http://facebook.com/ryuuganime</b:widget-setting>
               <b:widget-setting name='text-2'>github</b:widget-setting>
@@ -2027,7 +2027,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
         <b:widget-settings>
           <b:widget-setting name='sorting'>NONE</b:widget-setting>
           <b:widget-setting name='text-1'><![CDATA[Fork me, senpai '^')/]]></b:widget-setting>
-          <b:widget-setting name='link-1'>http://github.com/nattadasu/Ryuuganime</b:widget-setting>
+          <b:widget-setting name='link-1'>http://github.com/ryuuganime/Ryuuganime</b:widget-setting>
           <b:widget-setting name='text-0'>Home</b:widget-setting>
           <b:widget-setting name='link-0'>/</b:widget-setting>
         </b:widget-settings>
