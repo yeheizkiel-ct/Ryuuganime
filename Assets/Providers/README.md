@@ -327,7 +327,9 @@
             <li>
                 <a href="https://animeflix.io"><img src="https://www.google.com/s2/favicons?domain=animeflix.io" alt="Animeflix"></a> <a href="https://animeflix.io">Aniflix</a> 🇺🇸</li>
             <li>
-		<a href="http://www.warungfansub.xyz><img src="https://www.google.com/s2/favicons?domain=www.warungfansub.xyz" alt="Warung Fansub">Warung Fansub</a> 🇮🇩</li>
+		<a href="http://www.warungfansub.xyz"><img src="https://www.google.com/s2/favicons?domain=www.warungfansub.xyz" alt="Warung Fansub">Warung Fansub</a> 🇮🇩</li>
+<li>
+	<a href="https://shallty.moe"><img src="https://www.google.com/s2/favicons?domain=shallty.moe" alt="Shallty Anime"></a> 🇮🇩</li>
         </ol>
     </div>
 </body>
