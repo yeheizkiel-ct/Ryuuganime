@@ -621,6 +621,41 @@ ul.related-posts{margin:0}
 .post-body ul li {
     list-style: none;
 }
+.spoiler, .spoiler2{ 
+  color: black; 
+  background-color:black;
+}
+
+.spoiler:hover{
+  color: white;
+}
+
+.spoiler2:hover { 
+  background-color:white; 
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+                
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  /* Position the tooltip */
+ position: absolute;
+  z-index: 1;
+}
+        
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
 </style>
 
 <b:if cond='data:view.isLayoutMode'>
@@ -667,7 +702,6 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
     postPerPage = 7,
     fixedSidebar = true,
     commentsSystem = "blogger",
-    disqusShortname = "soratemplates";
 //]]>
 </script>
 
@@ -914,9 +948,6 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
             <b:if cond='data:link.name == &quot;commentsSystem&quot;'>
               var commentsSystem = &quot;<data:link.target/>&quot;;
             </b:if>
-            <b:if cond='data:link.name == &quot;disqusShortname&quot;'>
-              var disqusShortname = &quot;<data:link.target/>&quot;;
-            </b:if>
           </b:loop>
           //]]&gt;
           &lt;/script&gt;
@@ -937,12 +968,12 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
           <b:widget id='Header1' locked='true' title='Ryuuganime (Header)' type='Header' version='2' visible='true'>
             <b:widget-settings>
               <b:widget-setting name='displayUrl'>https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/Logo/Logo%20Panjang.png</b:widget-setting>
-              <b:widget-setting name='displayHeight'>183</b:widget-setting>
-              <b:widget-setting name='sectionWidth'>250</b:widget-setting>
+              <b:widget-setting name='displayHeight'>188</b:widget-setting>
+              <b:widget-setting name='sectionWidth'>420</b:widget-setting>
               <b:widget-setting name='useImage'>true</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='imagePlacement'>REPLACE</b:widget-setting>
-              <b:widget-setting name='displayWidth'>1600</b:widget-setting>
+              <b:widget-setting name='displayWidth'>1491</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
               <div class='header-widget'>
@@ -1081,7 +1112,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
   <b:if cond='data:view.isHomepage'> 
     <!-- Main Slider -->
       <b:section class='slider-section' id='slider-section' maxwidgets='1' name='Main Slider' showaddelement='yes'>
-        <b:widget id='HTML2' locked='false' title='' type='HTML' version='2' visible='true'>
+        <b:widget id='HTML2' locked='false' title='' type='HTML' version='2' visible='false'>
           <b:widget-settings>
             <b:widget-setting name='content'>6/random/slider</b:widget-setting>
           </b:widget-settings>
@@ -1498,7 +1529,6 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               <!-- Comments -->
               <b:if cond='data:view.isSingleItem'>
                 <div class='blog-post-comments'>
-                  <b:include data='post' name='threadedCommentsDisqus'/>
                   <b:include data='post' name='commentPicker'/>
                 </div>
               </b:if>
@@ -1762,16 +1792,6 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
                 </b:if>
               </section>
             </b:includable>
-            <b:includable id='threadedCommentsDisqus' var='post'>
-              <script type='text/javascript'>
-                var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
-                if (!disqus_blogger_current_url.length) {
-                  disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
-                }
-                var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
-                var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
-              </script>
-            </b:includable>
           </b:widget>
         </b:section>
       </div>
@@ -1779,48 +1799,6 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
       <!-- Sidebar Wrapper -->
       <div id='sidebar-wrapper'>
         <b:section class='sidebar common-widget' id='sidebar1' name='Sidebar Right' showaddelement='yes'>
-          <b:widget id='HTML3' locked='false' title='Disqus for ryuuganime' type='HTML' visible='true'>
-            <b:widget-settings>
-              <b:widget-setting name='content'><![CDATA[<!-- Disqus Widget -->]]></b:widget-setting>
-            </b:widget-settings>
-            <b:includable id='main'>
-<script type='text/javascript'>
-var disqus_shortname = &#39;ryuuganime&#39;;
-var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
-if (!disqus_blogger_current_url.length) {
-disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
-}
-var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
-var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
-</script>
-<b:if cond='data:blog.pageType == &quot;item&quot;'>
-<style type='text/css'>
-#comments {display:none;}
-</style>
-<script type='text/javascript'>
-(function() {
-    var bloggerjs = document.createElement(&#39;script&#39;);
-    bloggerjs.type = &#39;text/javascript&#39;;
-    bloggerjs.async = true;
-    bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_item.js&#39;;
-    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
-})();
-</script>
-</b:if>
-<style type='text/css'>
-.post-comment-link { visibility: hidden; }
-</style>
-<script type='text/javascript'>
-(function() {
-var bloggerjs = document.createElement(&#39;script&#39;);
-bloggerjs.type = &#39;text/javascript&#39;;
-bloggerjs.async = true;
-bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index.js&#39;;
-(document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
-})();
-</script>
-</b:includable>
-          </b:widget>
           <b:widget id='PopularPosts1' locked='false' title='Anime Terpopuler' type='PopularPosts' visible='false'>
             <b:widget-settings>
               <b:widget-setting name='numItemsToShow'>5</b:widget-setting>
@@ -1900,7 +1878,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Action,Adventure,Comedy,Fantasy,Historical,Military,Parody,Romance,School,Sci-Fi,Shounen,Slice of Life</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Action,Comedy,Drama,Ecchi,Sci-Fi,Supernatural</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
@@ -2046,7 +2024,7 @@ bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index
         </b:includable>
       </b:widget>
     </b:section>
-    <div class='copyright-area'>Dibuat oleh <a href='https://github.com/nattadasu' title='Akun GitHub btw'>nattadasu</a> | Template dibuat oleh <a href='https://github.com/nattadasu/' id='mycontent' rel='dofollow' title='Akun GitHub btw'>nattadasu</a> | Sejak 27 Juni 2019.
+    <div class='copyright-area'>Dibuat oleh <a href='https://github.com/nattadasu' title='Akun GitHub btw'>nattadasu</a> | Template dibuat oleh <a href='https://soratemplates.com' id='mycontent' rel='dofollow'>SoraTemplates</a> | Sejak 27 Juni 2019.
     </div>
   </div>
 </div>
