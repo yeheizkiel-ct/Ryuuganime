@@ -133,7 +133,7 @@
                     <td>
                         <a href="https://caramel.fansub.id"><img src="https://caramel.fansub.id/wp-content/uploads/2019/05/37a98128d3f891fceca44da1fe590b53.jpg" alt="Caramel" heigth="16" width="16"></a> <a href="https://caramel.fansub.id">Caramel</a> 🇮🇩</td>
                     <td>
-                        <a href="https://meguminime.com"><img src="https://www.google.com/s2/favicons?domain=meguminime.com" alt="Megumi"></a> <a href="https://meguminime.com">Meguminime</a> 🇮🇩 🎞 📦</td>
+                        <s><a href="https://meguminime.com"><img src="https://www.google.com/s2/favicons?domain=meguminime.com" alt="Megumi"></a> <a href="https://meguminime.com">Meguminime</a> 🇮🇩 🎞 📦</s></td>
                     <td>
                         <a href="https://animexd.me"><img src="https://www.google.com/s2/favicons?domain=animexd.me" alt="Anime XD"></a> <a href="https://animexd.me">Anime XD</a> 🇺🇸</td>
                     <td></td>
@@ -173,7 +173,7 @@
                         <a href="https://durandalsubs.wordpress.com"><img src="https://www.google.com/s2/favicons?domain=durandalsubs.wordpress.com" alt="Durandal"></a> <a href="https://durandalsubs.wordpress.com">Durandalsubs</a> 🇮🇩</td>
                     <td></td>
                     <td>
-                        <a href="https://indoxx1.center/anime"><img src="https://www.google.com/s2/favicons?domain=indoxx1.center" alt="IndoXXI"></a> <a href="https://indoxx1.center/anime">IndoXXI</a> 🇮🇩</td>
+                        <s><a href="https://indoxx1.center/anime"><img src="https://www.google.com/s2/favicons?domain=indoxx1.center" alt="IndoXXI"></a> <a href="https://indoxx1.center/anime">IndoXXI</a> 🇮🇩</s></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -218,7 +218,7 @@
                         <a href="https://www.iasubs.com"><img src="https://www.google.com/s2/favicons?domain=www.iasubs.com" alt="IA"></a> <a href="https://www.iasubs.com">IASubs</a> 🇮🇩</td>
                     <td></td>
                     <td>
-                        <a href="https://otakustream.tv"><img src="https://www.google.com/s2/favicons?domain=https://otakustream.tv" alt="otakustream"></a> <a href="https://otakustream.tv">Otaku STREAM</a> 🇺🇸</td>
+                        <s><a href="https://otakustream.tv"><img src="https://www.google.com/s2/favicons?domain=https://otakustream.tv" alt="otakustream"></a> <a href="https://otakustream.tv">Otaku STREAM</a> 🇺</s>🇸</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -235,7 +235,7 @@
                     <td>
                         <a href="https://itosubs.com"><img src="https://www.google.com/s2/favicons?domain=itosubs.com" alt="Ito"></a> <a href="https://itosubs.com">Itosubs</a> 🇮🇩</td>
                     <td></td>
-                    <td><a href="https://ruangotaku.id"><img src="https://www.google.com/s2/favicons?domain=ruangotaku.id" alt="Ruang"></a> <a href="https://ruangotaku.id">RuangOtaku</a> 🇮🇩</td>
+                    <td><s><a href="https://ruangotaku.id"><img src="https://www.google.com/s2/favicons?domain=ruangotaku.id" alt="Ruang"></a> <a href="https://ruangotaku.id">RuangOtaku</a> 🇮🇩</s></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -318,18 +318,6 @@
                 <a href="https://hanime.tv"><img src="https://www.google.com/s2/favicons?domain=hanime.tv" alt="Hanime"></a> <a href="https://hanime.tv">Hanime</a> 🇺🇸</li>
             <li>
                 <a href="https://nekopoi.care"><img src="https://www.google.com/s2/favicons?domain=nekopoi.care" alt="Nekopoi"></a> <a href="https://nekopoi.care">Nekopoi</a> 🇮🇩</li>
-            <li>
-                <a href="https://ryuuganime.blogspot.com"><img src="https://www.google.com/s2/favicons?domain=Ryuuganime.blogspot.com" alt="Ryuuganime Download"></a> <a href="https://ryuuganime.blogspot.com">Ryuuganime Down!</a> 🇮🇩</li>
-            <li>
-                <a href="https://gomunime.com"><img src="https://www.google.com/s2/favicons?domain=gomunime.com" alt="Gomunime"></a> <a href="https://gomunime.com">Gomunime</a> 🇮🇩</li>
-            <li>
-                <a href="https://nanime.tv"><img src="https://www.google.com/s2/favicons?domain=nanime.tv" alt="Nanime"></a> <a href="https://nanime.tv">Nanime</a> 🇮🇩</li>
-            <li>
-                <a href="https://animeflix.io"><img src="https://www.google.com/s2/favicons?domain=animeflix.io" alt="Animeflix"></a> <a href="https://animeflix.io">Aniflix</a> 🇺🇸</li>
-            <li>
-		<a href="http://www.warungfansub.xyz"><img src="https://www.google.com/s2/favicons?domain=www.warungfansub.xyz" alt="Warung Fansub">Warung Fansub</a> 🇮🇩</li>
-<li>
-	<a href="https://shallty.moe"><img src="https://www.google.com/s2/favicons?domain=shallty.moe" alt="Shallty Anime">Shallty</a> 🇮🇩</li>
         </ol>
     </div>
 </body>
