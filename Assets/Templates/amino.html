@@ -1158,7 +1158,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
           <b:widget id='Blog1' locked='true' title='Posting Blog' type='Blog' version='2' visible='true'>
             <b:widget-settings>
               <b:widget-setting name='commentLabel'>Comments</b:widget-setting>
-              <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+              <b:widget-setting name='showShareButtons'>false</b:widget-setting>
               <b:widget-setting name='authorLabel'/>
               <b:widget-setting name='disableGooglePlusShare'>true</b:widget-setting>
               <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
@@ -1182,7 +1182,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               <b:widget-setting name='postLabelsLabel'>Tags</b:widget-setting>
               <b:widget-setting name='showBacklinks'>false</b:widget-setting>
               <b:widget-setting name='showInlineAds'>false</b:widget-setting>
-              <b:widget-setting name='showReactions'>true</b:widget-setting>
+              <b:widget-setting name='showReactions'>false</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
               <b:include name='searchMessage'/>
@@ -1471,6 +1471,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               <b:if cond='data:view.isSingleItem'>
                 <b:include data='post' name='itemPost'/>
               </b:if>
+              <meta expr:content='data:post.id' itemprop='postId'/>
             </b:includable>
             <b:includable id='postAuthor' var='post'>
               <!-- Post Author -->
@@ -1715,11 +1716,11 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               <b:if cond='data:view.isError'>
                 <div class='errorWrap'>
                   <h3>404</h3>
-                  <h4>Kosong?<br />Astaghfirullah ;-;</h4>
-                  <p>Maaf, tetapi laman ini tidak tersedia...<br />Pastikan kembali tautan yang Anda isi benar.</p>
-                  <hr />
-                  <p>Anda baru saja dibagikan tautan entri di Ryuuganime tetapi ditulis eror?<br />Pastikan internet Anda stabil, dan tunggu beberapa saat hingga peramban (browser) mengalihkan ke laman terkait</p>
-                  <p><a class='homepage' expr:href='data:blog.homepageUrl'>Beranda</a><a href="https://ryuuganime.blogspot.com/p/daftar-anime.html">Daftar Anime</a></p>
+                  <h4>Kosong?<br/>Astaghfirullah ;-;</h4>
+                  <p>Maaf, tetapi laman ini tidak tersedia...<br/>Pastikan kembali tautan yang Anda isi benar.</p>
+                  <hr/>
+                  <p>Anda baru saja dibagikan tautan entri di Ryuuganime tetapi ditulis eror?<br/>Pastikan internet Anda stabil, dan tunggu beberapa saat hingga peramban (browser) mengalihkan ke laman terkait</p>
+                  <p><a class='homepage' expr:href='data:blog.homepageUrl'>Beranda</a><a href='https://ryuuganime.blogspot.com/p/daftar-anime.html'>Daftar Anime</a></p>
                 </div>
               </b:if>
               <b:if cond='data:view.isMultipleItems and data:posts.empty'><div class='queryEmpty'><data:messages.noResultsFound/></div></b:if>
@@ -1786,6 +1787,50 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
       <!-- Sidebar Wrapper -->
       <div id='sidebar-wrapper'>
         <b:section class='sidebar common-widget' id='sidebar1' name='Sidebar Right' showaddelement='yes'>
+          <b:widget id='HTML3' locked='false' title='RatingWidget' type='HTML' visible='true'>
+            <b:widget-settings>
+              <b:widget-setting name='content'>&lt;script type=&quot;text/javascript&quot;&gt;(function(d, t, e, m){
+    window._rws = window._rws || [{
+        huid: &quot;447444&quot;,
+        uid: &quot;3bf09e9a6f70c743f662e611fba81964&quot;,
+        source: &quot;blogger&quot;,
+        options: {
+            &quot;advanced&quot;: {
+                &quot;layout&quot;: {
+                    &quot;lineHeight&quot;: &quot;16px&quot;
+                },
+                &quot;font&quot;: {
+                    &quot;hover&quot;: {
+                        &quot;color&quot;: &quot;#C73F27&quot;
+                    },
+                    &quot;size&quot;: &quot;12px&quot;,
+                    &quot;color&quot;: &quot;#C73F27&quot;
+                }
+            },
+            &quot;size&quot;: &quot;medium&quot;,
+            &quot;label&quot;: {
+                &quot;background&quot;: &quot;#EFBDBD&quot;
+            },
+            &quot;style&quot;: &quot;oxygen_red&quot;,
+            &quot;isDummy&quot;: false
+        } 
+    }];
+
+        
+    // Append Rating-Widget JavaScript library.
+    var rw, s = d.getElementsByTagName(e)[0], id = &quot;rw-blogger-js&quot;,
+        p = d.location.protocol, a = (&quot;https:&quot; == p ? &quot;secure.&quot; + 
+        m + &quot;js/platform/&quot; : &quot;js.&quot; + m + &quot;platform/&quot;), 
+        ck = &quot;Y&quot; + t.getFullYear() + &quot;M&quot; + t.getMonth() + &quot;D&quot; + t.getDate();
+    if (d.getElementById(id)) return;              
+    rw = d.createElement(e);
+    rw.id = id; rw.async = true; rw.type = &quot;text/javascript&quot;;
+    rw.src = p + &quot;//&quot; + a + &quot;blogger.js?ck=&quot; + ck;
+    s.parentNode.insertBefore(rw, s);
+}(document, new Date(), &quot;script&quot;, &quot;rating-widget.com/&quot;));&lt;/script&gt;</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'><data:content/></b:includable>
+          </b:widget>
           <b:widget id='PopularPosts1' locked='false' title='Anime Terpopuler' type='PopularPosts' visible='false'>
             <b:widget-settings>
               <b:widget-setting name='numItemsToShow'>5</b:widget-setting>
@@ -1865,7 +1910,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Action,Comedy,Drama,Ecchi,Sci-Fi,Supernatural</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Action,Adventure,Comedy,Drama,Ecchi,Sci-Fi,Slice of Life,Supernatural</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
