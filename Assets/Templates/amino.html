@@ -1410,7 +1410,6 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               <!-- Post Footer Extras -->
               <b:include data='post' name='postLabels'/>
               <b:include data='post' name='postReactions'/>
-              <b:include data='post' name='postShareButtons'/>
             </b:includable>
             <b:includable id='headerByline' var='post'>
               <!-- Post Header Meta -->
@@ -1716,9 +1715,11 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               <b:if cond='data:view.isError'>
                 <div class='errorWrap'>
                   <h3>404</h3>
-                  <h4><data:messages.theresNothingHere/></h4>
-                  <p><data:navMessage/></p>
-                  <a class='homepage' expr:href='data:blog.homepageUrl'><i class='fa fa-home'/> <data:messages.home/></a>
+                  <h4>Kosong?<br />Astaghfirullah ;-;</h4>
+                  <p>Maaf, tetapi laman ini tidak tersedia...<br />Pastikan kembali tautan yang Anda isi benar.</p>
+                  <hr />
+                  <p>Anda baru saja dibagikan tautan entri di Ryuuganime tetapi ditulis eror?<br />Pastikan internet Anda stabil, dan tunggu beberapa saat hingga peramban (browser) mengalihkan ke laman terkait</p>
+                  <p><a class='homepage' expr:href='data:blog.homepageUrl'>Beranda</a><a href="https://ryuuganime.blogspot.com/p/daftar-anime.html">Daftar Anime</a></p>
                 </div>
               </b:if>
               <b:if cond='data:view.isMultipleItems and data:posts.empty'><div class='queryEmpty'><data:messages.noResultsFound/></div></b:if>
