@@ -145,7 +145,7 @@
                     <td>
                         <a href="https://mikanime.com"><img src="https://www.google.com/s2/favicons?domain=mikanime.com" alt="Mikanime"></a> <a href="https://mikanime.com">Mikanime</a> 🇮🇩 🎞 📦</td>
                     <td>
-                        <a href="https://anoboy.id"><img src="https://www.google.com/s2/favicons?domain=anoboy.id" alt="anoBoy"></a> <a href="https://anoboy.id">anoBoy</a> 🇮🇩</td>
+                        <s><a href="https://anoboy.id"><img src="https://www.google.com/s2/favicons?domain=anoboy.id" alt="anoBoy"></a> <a href="https://anoboy.id">anoBoy</a> 🇮🇩</s></td>
                     <td></td>
                 </tr>
                 <tr>
