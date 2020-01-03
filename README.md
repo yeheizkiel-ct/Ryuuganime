@@ -24,8 +24,7 @@
             font-size: 12px;
             font-family: times new roman;
         }
-
-    </style>>
+    </style>
     </head>
     <body>
         <h2>Apa Itu <a href="https://ryuuganime.blogspot.com" title="Klik untuk mengunjungi situs" target="_blank"><strong>Ryuuganime</strong></a>?</h2>
