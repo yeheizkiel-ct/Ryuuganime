@@ -2,7 +2,7 @@
     <head>
         <strong><a href="https://ryuuganime.blogspot.com"><h1>Ryuuganime</h1></a></strong>
             <p>Portal Indeks Anime Subtitel Indonesia Terlengkap</p>
-            <a href="https://discord.gg/nWHwkuT"><img alt="Discord" src="https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square"></a>&#32;&#32;&#32;&#32;<a href='https://ko-fi.com/U6U1YGDN' target='_blank'><img height='20' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+            <a href="https://discord.gg/nWHwkuT"><img alt="Discord" src="https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square"></a>&emsp;<a href="https://chat.whatsapp.com/KkmCYkMCfEkDTbHoOLCoKB" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Join-brightgreen?style=flat-square"></a>&emsp;<a href='https://ko-fi.com/U6U1YGDN' target='_blank'><img height='20' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
         <hr>
         <meta charset="utf-8">
     <style type="text/css">
@@ -24,8 +24,7 @@
             font-size: 12px;
             font-family: times new roman;
         }
-
-    </style>>
+    </style>
     </head>
     <body>
         <h2>Apa Itu <a href="https://ryuuganime.blogspot.com" title="Klik untuk mengunjungi situs" target="_blank"><strong>Ryuuganime</strong></a>?</h2>
@@ -54,7 +53,6 @@
                     <li>NB: Pastikan Anda telah memberikan <em>credit</em> Anda di <a href="https://github.com/nattadasu/Ryuuganime/blob/master/CONTRIBUTORS.md">CONTRIBUTORS.md</a>. Selain <em>fork</em> dan <em>pull repo</em>, Anda juga dapat hanya memberikan <em>Issue</em> mengenai masalah di dalam situs maupun dalam Repo ini</li>
                 </ul>
         <h2>Informasi Lebih Lanjut</h2>
-            <p>Hubungi nattadasu melalui Discord, <a href="https://twitter.com/nattadasu">Twitter</a><a href="https://twitter.com/Pegaxuskiller">Twitter</a>, <a href="https://instagram.com/nat.tada.su">Instagram</a> <a href="https://www.instagram.com/yamashita_kazuhito/">Instagram</a>, maupun melalui <em>Issue</em> di <em>repo</em> ini ataupun melalui <a href="https://github.com/nattadasu/Personal">nattadasu/Personal</a> <a href="https://github.com/YamashitaKazuhito">Yama/personal</a>.
-            <p>Jangan lupa join Group WhatsApp kami <a href="https://chat.whatsapp.com/KkmCYkMCfEkDTbHoOLCoKB" target="_blank" title="WhatsApp Link">Disini</a></p>
+            <p>Hubungi nattadasu melalui Discord, <a href="https://twitter.com/nattadasu">Twitter</a>, <a href="https://instagram.com/nattadasu">Instagram</a>, maupun melalui <em>Issue</em> di <em>repo</em> ini ataupun melalui <a href="https://github.com/nattadasu/Personal">nattadasu/Personal</a>.</p>
     </body>
 </html>
