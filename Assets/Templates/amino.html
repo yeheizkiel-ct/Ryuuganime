@@ -41,6 +41,7 @@
     <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
     <title><data:view.title.escaped/></title>
     <b:include data='blog' name='all-head-content'/>
+
     <!-- Google Fonts -->
     <link href='//fonts.googleapis.com/css?family=Poppins:400,400i,600,600i,700,700i' media='all' rel='stylesheet' type='text/css'/>
     <link href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
@@ -328,6 +329,7 @@ body{background:$(body.background);background-color:$(body.background.color);fon
 .post-reactions{height:28px;display:block;margin:0 0 15px}
 .post-reactions span{float:left;color:$(title.color);font-size:12px;line-height:25px;text-transform:uppercase;font-weight:600}
 .reactions-inner{float:left;margin:0;height:28px}
+.post-share{position:relative;overflow:hidden;line-height:0;margin:0 0 25px}
 ul.share-links{position:relative;margin:0 -2.5px}
 .share-links li{width:calc(100% / 7);float:left;box-sizing:border-box;padding:0 2.5px;margin:0 0 5px}
 .share-links li a{float:left;display:inline-block;cursor:pointer;width:100%;height:32px;line-height:32px;color:#fff;font-weight:400;font-size:17px;text-align:center;box-sizing:border-box;opacity:1;border-radius:0;transition:all .17s ease}
@@ -734,6 +736,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
     postPerPage = 7,
     fixedSidebar = true,
     commentsSystem = "blogger",
+    disqusShortname = "soratemplates";
 //]]>
 </script>
 
@@ -951,10 +954,10 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
       </b:widget>
       <b:widget id='LinkList71' locked='true' title='Default Variables' type='LinkList' version='2' visible='true'>
         <b:widget-settings>
-          <b:widget-setting name='link-3'>10</b:widget-setting>
+          <b:widget-setting name='link-3'>6</b:widget-setting>
           <b:widget-setting name='sorting'>NONE</b:widget-setting>
           <b:widget-setting name='text-1'>commentsSystem</b:widget-setting>
-          <b:widget-setting name='link-1'>disqus</b:widget-setting>
+          <b:widget-setting name='link-1'>blogger</b:widget-setting>
           <b:widget-setting name='text-0'>disqusShortname</b:widget-setting>
           <b:widget-setting name='link-2'>true</b:widget-setting>
           <b:widget-setting name='text-3'>postPerPage</b:widget-setting>
@@ -976,6 +979,9 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
             </b:if>
             <b:if cond='data:link.name == &quot;commentsSystem&quot;'>
               var commentsSystem = &quot;<data:link.target/>&quot;;
+            </b:if>
+            <b:if cond='data:link.name == &quot;disqusShortname&quot;'>
+              var disqusShortname = &quot;<data:link.target/>&quot;;
             </b:if>
           </b:loop>
           //]]&gt;
@@ -1002,7 +1008,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               <b:widget-setting name='useImage'>true</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
               <b:widget-setting name='imagePlacement'>REPLACE</b:widget-setting>
-              <b:widget-setting name='displayWidth'>1491</b:widget-setting>
+              <b:widget-setting name='displayWidth'>141</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
               <div class='header-widget'>
@@ -1117,7 +1123,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
       <b:section class='slider-section' id='slider-section' maxwidgets='1' name='Main Slider' showaddelement='yes'>
         <b:widget id='HTML2' locked='false' title='' type='HTML' version='2' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'>6/recent/slider</b:widget-setting>
+            <b:widget-setting name='content'>6/random/slider</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
             <b:include name='widget-title'/>
@@ -1138,7 +1144,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
       <div id='main-wrapper'>
         <b:if cond='data:view.isHomepage'>
           <b:section class='home-ad' id='home-ad' maxwidgets='1' name='Home Ads' showaddelement='yes'>
-            <b:widget id='HTML1' locked='false' title='Header ADS' type='HTML' visible='false'>
+            <b:widget id='HTML1' locked='false' title='Header ADS' type='HTML' visible='true'>
               <b:widget-settings>
                 <b:widget-setting name='content'><![CDATA[<img alt='Home Ads' src='https://3.bp.blogspot.com/-NEGfItydtbs/W-wqQXuT_yI/AAAAAAAADjc/IrKSFBD51AgZuX7UPtQIseAEgT-DOLsWwCK4BGAYYCw/s1600/ads.jpg'/>]]></b:widget-setting>
               </b:widget-settings>
@@ -1843,12 +1849,13 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               </b:if>
               <b:if cond='data:view.isError'>
                 <div class='errorWrap'>
+                  <img src="https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/lib/pages/404/assets/Ded.jpg" height="200" />
                   <h3>404</h3>
                   <h4>Kosong?<br/>Astaghfirullah ;-;</h4>
                   <p>Maaf, tetapi laman ini tidak tersedia...<br/>Pastikan kembali tautan yang Anda isi benar.</p>
                   <hr/>
                   <p>Anda baru saja dibagikan tautan entri di Ryuuganime tetapi ditulis eror?<br/>Pastikan internet Anda stabil, dan tunggu beberapa saat hingga peramban (browser) mengalihkan ke laman terkait</p>
-                  <p><a class='homepage' expr:href='data:blog.homepageUrl'>Beranda</a><a href='https://ryuuganime.blogspot.com/p/daftar-anime.html'>Daftar Anime</a></p>
+                  <p><a expr:href='data:blog.homepageUrl'>Beranda</a><a href='https://ryuuganime.blogspot.com/p/daftar-anime.html'>Daftar Anime</a></p>
                 </div>
               </b:if>
               <b:if cond='data:view.isMultipleItems and data:posts.empty'><div class='queryEmpty'><data:messages.noResultsFound/></div></b:if>
@@ -1943,6 +1950,16 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
                   </div>
                 </b:if>
               </section>
+            </b:includable>
+            <b:includable id='threadedCommentsDisqus' var='post'>
+              <script type='text/javascript'>
+                var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
+                if (!disqus_blogger_current_url.length) {
+                  disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
+                }
+                var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
+                var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
+              </script>
             </b:includable>
           </b:widget>
         </b:section>
