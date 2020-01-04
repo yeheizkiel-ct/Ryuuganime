@@ -1123,7 +1123,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
       <b:section class='slider-section' id='slider-section' maxwidgets='1' name='Main Slider' showaddelement='yes'>
         <b:widget id='HTML2' locked='false' title='' type='HTML' version='2' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'>6/recent/slider</b:widget-setting>
+            <b:widget-setting name='content'>6/random/slider</b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
             <b:include name='widget-title'/>
@@ -1849,12 +1849,13 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               </b:if>
               <b:if cond='data:view.isError'>
                 <div class='errorWrap'>
+                  <img src="https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/lib/pages/404/assets/Ded.jpg" height="200" />
                   <h3>404</h3>
                   <h4>Kosong?<br/>Astaghfirullah ;-;</h4>
                   <p>Maaf, tetapi laman ini tidak tersedia...<br/>Pastikan kembali tautan yang Anda isi benar.</p>
                   <hr/>
                   <p>Anda baru saja dibagikan tautan entri di Ryuuganime tetapi ditulis eror?<br/>Pastikan internet Anda stabil, dan tunggu beberapa saat hingga peramban (browser) mengalihkan ke laman terkait</p>
-                  <p><a class='homepage' expr:href='data:blog.homepageUrl'>Beranda</a><a href='https://ryuuganime.blogspot.com/p/daftar-anime.html'>Daftar Anime</a></p>
+                  <p><a expr:href='data:blog.homepageUrl'>Beranda</a><a href='https://ryuuganime.blogspot.com/p/daftar-anime.html'>Daftar Anime</a></p>
                 </div>
               </b:if>
               <b:if cond='data:view.isMultipleItems and data:posts.empty'><div class='queryEmpty'><data:messages.noResultsFound/></div></b:if>
