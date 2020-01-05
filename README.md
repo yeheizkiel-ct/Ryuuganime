@@ -34,7 +34,7 @@
             <p>Pengelola situs Ryuugamine saat ini hanya <a href="https://github.com/nattadasu/Personal" target="_blank">nattadasu</a>. Ryuugamine sekarang sedang mencari sukarelawan yang mempunyai luang waktu untuk mengisi data di web tersebut.</p>
         <h2>Website Ini Menggunakan Jasa Dari Mana?</h2>
             <p>Ryuuganime menggunakan jasa hosting dari <a href="https://blogger.com" target="_blank">Blogger</a> oleh <a href="https://google.com">Google</a>.<br>Ryuuganime juga menggunakan layanan jasa pihak ketiga (<em>3rd Party Service Provider</em>) untuk memudahkan dalam mengelola situs.</p>
-            <p>Informasi mengenai layanan yang digunakan oleh Ryuuganime dapat dilihat <a href="https://ryuuganime.blogspot.com" title="oof, lagi dalam pengembangan :v">disini</a> (sedang dalam pengembangan).</p>
+            <p>Informasi mengenai layanan yang digunakan oleh Ryuuganime dapat dilihat <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/Assets/Providers/Trackers/README.md">disini</a>.</p>
         <h2>Sejak Kapan <strong>Ryuuganime</strong> Dibentuk?</h2>
             <p>Ryuuganime dibentuk pada Juni 27, 2019, lebih tepatnya pada pukul 22.04 WIB dikarenakan <em>website fanshare</em> yang terkenal di Indonesia, yaitu <a href="https://meownime.com" target="_blank">Meownime</a> dan <a href="https://meowstream.com">Meowstream</a> ditutup secara resmi pada pukul 15.34 WIB di hari yang sama sekaligus merupakan hasil ide dari <a href="https://github.com/nattadasu/Personal" target="_blank">nattadasu</a> sejak 3 bulan yang lalu.</p>
         <h2>Mengapa <em>Repo</em> <strong>Ryuuganime</strong> Ada Di <a href="https://github.com">GitHub</a>?</h2>
