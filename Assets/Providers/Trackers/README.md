@@ -1,4 +1,4 @@
-# Daftar Situs Tracking yang Digunakan
+# Daftar Situs Tracking Yang Digunakan
 
 | No | Favicon | Nama | Situs | Kategori | Bahasa |
 |----|---------|------|-------|----------|--------|
@@ -21,11 +21,32 @@
 | 17 | ![Shikimori](https://www.google.com/s2/favicons?domain=shikimori.org) | Shikimori (Шикимори) | https://shikimori.org | Berita, Anime, Manga, Light Novel | Rusia, Inggris |
 | 18 | ![SIMKL](https://www.google.com/s2/favicons?domain=simkl.com) | SIMKL | https://simkl.com | Film, TV, Anime | Inggris |
 | 19 | ![TMDB](https://www.google.com/s2/favicons?domain=themoviedb.org) | The Movie DB | https://themoviedb.org | Film, TV | Inggris |
-| 20 | ![TVDB](https://www.google.com/s2/favicons?domain=thetvdb.com) | TheTVDB | https://thetvdb.com/ | TV, Film |
-| 21 | ![Trakt](https://www.google.com/s2/favicons?domain=trakt.tv) | Trakt | https://trakt.tv | TV, Film | Inggris | 22 | ![TVTime](https://www.google.com/s2/favicons?domain=www.tvtime.com) | TVTime | https://www.tvtime.com | TV, Film | Inggris |
+| 20 | ![Trakt](https://www.google.com/s2/favicons?domain=trakt.tv) | Trakt | https://trakt.tv | TV, Film | Inggris |
+| 21 | ![TVDB](https://www.google.com/s2/favicons?domain=thetvdb.com) | TheTVDB | https://thetvdb.com/ | TV, Film | Inggris |
+| 22 | ![TVTime](https://www.google.com/s2/favicons?domain=www.tvtime.com) | TVTime | https://www.tvtime.com | TV, Film | Inggris |
 
-# Fitur Situs yang Digunakan
-| Nama | Judul Asli | Judul Terjemahan | Sinopsis | Sinonima | Genre | Tag | Informasi Delay | Informasi Lainnya |
-|------|------------|------------------|----------|----------|------|-----|-----------------|-------------------|
-| AniDB | Ya | Ya | Tidak | Ya | Tidak | Tidak | Tidak | Ya |
-| 
+# Fitur Situs Yang Digunakan
+| Nama               | Judul Asli | Judul Terjemahan | Sinopsis | Sinonima | *Backdrop* | Genre | Tag   | Informasi Delay | Rating | Informasi Lainnya |
+|--------------------|------------|------------------|----------|----------|------------|-------|-------|-----------------|--------|-------------------|
+| AniDB              | Tidak      | Iya              | Tidak    | Iya      | Tidak      | Tidak | Iya   | Tidak           | Iya    | Iya               |
+| AniList            | Tidak      | Tidak            | Tidak    | Iya      | Iya        | Iya   | Iya   | Tidak           | Iya    | Iya               |
+| Anime-Planet       | Tidak      | Tidak            | Tidak    | Iya      | Tidak      | Tidak | Iya   | Tidak           | Iya    | Tidak             |
+| Anime News Network | Tidak      | Iya              | Tidak    | Tidak    | Tidak      | Tidak | Tidak | Iya             | Iya    | Tidak             |
+| AniSearch          | Iya        | Iya              | Tidak    | Iya      | Tidak      | Iya   | Iya   | Tidak           | Iya    | Iya               |
+| Annict             | Tidak      | Tidak            | Tidak    | Tidak    | Tidak      | Tidak | Tidak | Tidak           | Iya    | Tidak             |
+| IMDb               | Iya        | Iya              | Tidak    | Iya      | Tidak      | Tidak | Tidak | Iya             | Iya    | Iya               |
+| Kitsu              | Iya        | Tidak            | Iya      | Tidak    | Iya        | Iya   | Iya   | Tidak           | Iya    | Iya               |
+| LiveChart          | Tidak      | Tidak            | Tidak    | Tidak    | Tidak      | Iya   | Iya   | Iya             | Iya    | Tidak             |
+| Metacritic         | Tidak      | Tidak            | Tidak    | Tidak    | Tidak      | Tidak | Tidak | Tidak           | Iya    | Tidak             |
+| MyAnimeList        | Iya        | Iya              | Iya      | Iya      | Tidak      | Tidak | Tidak | Iya             | Iya    | Iya               |
+| Nautiljon          | Tidak      | Iya              | Tidak    | Iya      | Tidak      | Iya   | Tidak | Tidak           | Iya    | Tidak             |
+| Notify             | Tidak      | Tidak            | Tidak    | Tidak    | Tidak      | Iya   | Iya   | Tidak           | Iya    | Tidak             |
+| Onnada             | Tidak      | Iya              | Tidak    | Tidak    | Tidak      | Tidak | Tidak | Tidak           | Tidak  | Tidak             |
+| Otak Otaku         | Iya        | Iya              | Iya      | Iya      | Tidak      | Iya   | Tidak | Iya             | Iya    | Iya               |
+| Rotten Tomatoes    | Tidak      | Tidak            | Tidak    | Tidak    | Tidak      | Tidak | Tidak | Tidak           | Iya    | Tidak             |
+| Shikimori          | Tidak      | Iya              | Iya      | Iya      | Tidak      | Iya   | Tidak | Tidak           | Iya    | Tidak             |
+| SIMKL              | Tidak      | Tidak            | Tidak    | Tidak    | Tidak      | Iya   | Iya   | Iya             | Iya    | Iya               |
+| The Movie DB       | Tidak      | Tidak            | Tidak    | Tidak    | Iya        | Tidak | Tidak | Tidak           | Iya    | Iya               |
+| Trakt              | Tidak      | Tidak            | Tidak    | Tidak    | Tidak      | Iya   | Tidak | Iya             | Iya    | Tidak             |
+| The TVDB           | Iya        | Iya              | Tidak    | Iya      | Iya        | Tidak | Tidak | Iya             | Tidak  | Iya               |
+| TVTime             | Tidak      | Tidak            | Tidak    | Tidak    | Tidak      | Tidak | Tidak | Iya             | Iya    | Tidak             |
