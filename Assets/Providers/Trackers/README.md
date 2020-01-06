@@ -28,7 +28,7 @@
 # Fitur Situs Yang Digunakan
 | Nama               | Judul Asli | Judul Terjemahan | Sinopsis | Sinonima | *Backdrop* | Genre | Tag   | Informasi Delay | Rating | Informasi Lainnya |
 |--------------------|------------|------------------|----------|----------|------------|-------|-------|-----------------|--------|-------------------|
-| AniDB              | Tidak      | Iya              | Tidak    | Iya      | Tidak      | Tidak | Iya   | Tidak           | Iya    | Iya               |
+| AniDB              | Tidak      | Iya              | Tidak    | Iya      | Tidak      | Tidak | Tidak | Tidak           | Iya    | Iya               |
 | AniList            | Tidak      | Tidak            | Tidak    | Iya      | Iya        | Iya   | Iya   | Tidak           | Iya    | Iya               |
 | Anime-Planet       | Tidak      | Tidak            | Tidak    | Iya      | Tidak      | Tidak | Iya   | Tidak           | Iya    | Tidak             |
 | Anime News Network | Tidak      | Iya              | Tidak    | Tidak    | Tidak      | Tidak | Tidak | Iya             | Iya    | Tidak             |
