@@ -29,7 +29,7 @@
     <body>
         <h2>Apa Itu <a href="https://ryuuganime.blogspot.com" title="Klik untuk mengunjungi situs" target="_blank"><strong>Ryuuganime</strong></a>?</h2>
             <p>Ryuuganime merupakan situs portal indeks <em><a href="https://id.wikipedia.org/wiki/Anime" target="_blank">anime</a></em> bersubtitel bahasa Indonesia maupun bahasa Inggris yang menggabungkan tautan <em>streaming</em>/unduhan resmi (<em>official</em>), <em>fansub</em>, dan <em>fanshare</em> (termasuk <em>batch</em>) ke dalam satu laman lengkap dengan ulasan dan skor <em>anime</em> dari hampir 20 situs <em>tracking anime</em> dan TV-Movie terkenal.</p>
-            <p>Informasi mengenai <em>tracker</em> yang digunakan oleh Ryuuganime dapat dilihat <a href="https://ryuuganime.blogspot.com" title="oof, lagi dalam pengembangan :v">disini</a> (sedang dalam pengembangan).</p>
+            <p>Informasi mengenai <em>tracker</em> yang digunakan oleh Ryuuganime dapat dilihat <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/Assets/Providers/Trackers/README.md">disini</a>.</p>
         <h2>Siapa Saja yang Mengelola Situs Ini?</h2>
             <p>Pengelola situs Ryuugamine saat ini hanya <a href="https://github.com/nattadasu/Personal" target="_blank">nattadasu</a>. Ryuugamine sekarang sedang mencari sukarelawan yang mempunyai luang waktu untuk mengisi data di web tersebut.</p>
         <h2>Website Ini Menggunakan Jasa Dari Mana?</h2>
