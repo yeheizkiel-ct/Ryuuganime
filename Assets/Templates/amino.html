@@ -30,7 +30,9 @@
     <meta content='Ryuuganime' name='twitter:title'/>
     <meta content='Ryuuganime | Portal Indeks Unduh dan Streaming Anime Sub Indo Terlengkap' name='twitter:description'/>
     <!--Webmaster-->
-    <meta content='78aff46a8a0fd198' name='yandex-verification'/>
+    <meta content='57798c41275052f6' name='yandex-verification'/>
+	<!--AdSense-->
+	<script async='async' data-ad-client='ca-pub-1137470598006450' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'/>
     <!--Site Personalization-->
     <link href='https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/Icon/Microsoft%20Tiles.png' rel='apple-touch-icon-precomposed'/>
     <meta content='https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/Assets/Icon/Microsoft%20Tiles.png' name='msapplication-TileImage'/>
@@ -1849,13 +1851,12 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
               </b:if>
               <b:if cond='data:view.isError'>
                 <div class='errorWrap'>
-                  <img width='1000' src='https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/lib/pages/404/assets/Publication1.png'/>
-                  <br /><br />
+                  <img src='https://raw.githubusercontent.com/ryuuganime/Ryuuganime/master/lib/pages/404/assets/Publication1.png' width='1000'/><br/><br/>
                   <h4>Kosong?<br/>Astaghfirullah ;-;</h4>
                   <p>Maaf, tetapi laman ini tidak tersedia...<br/>Pastikan kembali tautan yang Anda isi benar.</p>
                   <hr/>
                   <p>Anda baru saja dibagikan tautan entri di Ryuuganime tetapi ditulis eror?<br/>Pastikan internet Anda stabil, dan tunggu beberapa saat hingga peramban (browser) mengalihkan ke laman terkait</p>
-                  <p><a expr:href='data:blog.homepageUrl'>Beranda</a><a href='https://ryuuganime.blogspot.com/p/daftar-anime.html'>Daftar Anime</a></p>
+                  <p><a href='https://ryuuganime.blogspot.com'>Beranda</a><a href='https://ryuuganime.blogspot.com/p/daftar-anime.html'>Daftar Anime</a></p>
                 </div>
               </b:if>
               <b:if cond='data:view.isMultipleItems and data:posts.empty'><div class='queryEmpty'><data:messages.noResultsFound/></div></b:if>
@@ -1968,6 +1969,17 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
       <!-- Sidebar Wrapper -->
       <div id='sidebar-wrapper'>
         <b:section class='sidebar common-widget' id='sidebar1' name='Sidebar Right' showaddelement='yes'>
+          <b:widget id='HTML7' locked='false' title='' type='HTML' visible='true'>
+            <b:widget-settings>
+              <b:widget-setting name='content'><![CDATA[<script type="text/javascript">var infolink_pid=3229896;var infolink_wsid=0;</script><script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>]]></b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+  <b:include name='widget-title'/>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+</b:includable>
+          </b:widget>
           <b:widget id='FeaturedPost1' locked='false' title='Featured Post' type='FeaturedPost' version='2' visible='false'>
             <b:widget-settings>
               <b:widget-setting name='showSnippet'>true</b:widget-setting>
@@ -2319,7 +2331,7 @@ var monthFormat = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli
             <b:widget-settings>
               <b:widget-setting name='sorting'>ALPHA</b:widget-setting>
               <b:widget-setting name='display'>CLOUD</b:widget-setting>
-              <b:widget-setting name='selectedLabelsList'>Fall 2019,Summer 2019</b:widget-setting>
+              <b:widget-setting name='selectedLabelsList'>Fall 2019,Spring 2019,Summer 2019</b:widget-setting>
               <b:widget-setting name='showType'>USER_SELECTED</b:widget-setting>
               <b:widget-setting name='showFreqNumbers'>false</b:widget-setting>
             </b:widget-settings>
