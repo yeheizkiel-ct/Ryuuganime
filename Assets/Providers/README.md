@@ -9,7 +9,9 @@
 <body class="stackedit">
     <div class="stackedit__html">
         <h1 id="daftar-sumber-situs-untuk-database-anime">Daftar Sumber Situs untuk Database Anime</h1>
-        <h3 id="petunjuk">Petunjuk</h3>
+        <h2>DISCLAIMER</h2>
+        <p>&emsp;&emsp;<i>Ngomong-ngomong</i>, ini database listnya <i>udah out-to-date yha</i>. Akan ada pembaruan selanjutnya dengan menggunakan markah MD saja, tidak menggunakan markah HTML supaya mempermudah dalam mengisi entri lainnya.</p>
+        <h2 id="petunjuk">Petunjuk</h2>
         <table>
             <thead>
                 <tr>
@@ -38,10 +40,6 @@
                     <td>🎞</td>
                     <td>Per Episod (untuk Fanshare)</td>
                 </tr>
-			<tr>
-			    <td>👄</td>
-			    <td>Konten dewasa</td>
-			</tr>
             </tbody>
         </table>
         <h3 id="fansub-fanshare-fanstream-dan-library">Fansub, Fanshare, Fanstream, dan Library</h3>
@@ -312,13 +310,6 @@
                 </tr>
             </tbody>
         </table>
-        <h3 id="direncanakan">Direncanakan:</h3>
-        <ol>
-            <li>
-                <a href="https://hanime.tv"><img src="https://www.google.com/s2/favicons?domain=hanime.tv" alt="Hanime"></a> <a href="https://hanime.tv">Hanime</a> 🇺🇸</li>
-            <li>
-                <a href="https://nekopoi.care"><img src="https://www.google.com/s2/favicons?domain=nekopoi.care" alt="Nekopoi"></a> <a href="https://nekopoi.care">Nekopoi</a> 🇮🇩</li>
-        </ol>
     </div>
 </body>
 </html>
