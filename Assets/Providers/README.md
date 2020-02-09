@@ -119,7 +119,7 @@
                 <tr>
                     <td>7</td>
                     <td>
-                        <a href="https://awsubs.tv"><img src="https://www.google.com/s2/favicons?domain=awsubs.tv" alt="AWSubs"></a> <a href="https://awsubs.tv">AWSubs</a> 🇮🇩</td>
+                        <a href="https://awsubstv.com"><img src="https://www.google.com/s2/favicons?domain=awsubstv.com" alt="AWSubs"></a> <a href="https://awsubstv.com">AWSubs</a> 🇮🇩</td>
                     <td>
                         <a href="https://www.lolibatch.com"><img src="https://www.google.com/s2/favicons?domain=www.lolibatch.com" alt="Loli"></a> <a href="https://www.lolibatch.com">Lolibatch</a> 🇮🇩 📦</td>
                     <td>

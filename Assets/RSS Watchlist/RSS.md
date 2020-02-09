@@ -18,7 +18,7 @@ Indeks:
 ## Official
 * https://feeds.feedburner.com/crunchyroll/rss/anime
 ## Fansubs
-1. https://awsubs.tv/feed/
+1. https://awsubstv.com/feed/
 2. https://anitoki.com/?feed=rss2
 3. https://danimesub.wordpress.com/feed/
 4. https://www.kazefuri.web.id/feeds/posts/default
