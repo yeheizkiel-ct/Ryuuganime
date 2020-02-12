@@ -12,28 +12,34 @@
                 <tr>
                     <th>Simbol/Emoji</th>
                     <th>Keterangan</th>
+                    <th>Penggunaan</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>🇺🇸</td>
                     <td>Situs/konten dalam bahasa Inggris (US/UK)</td>
+                    <td>Semua Jenis</td>
                 </tr>
                 <tr>
                     <td>🇯🇵</td>
                     <td>Situs/konten dalam bahasa Jepang</td>
+                    <td>Semua Jenis</td>
                 </tr>
                 <tr>
                     <td>🇮🇩</td>
                     <td>Situs/konten dalam bahasa Indonesia</td>
+                    <td>Semua Jenis</td>
                 </tr>
                 <tr>
                     <td>📦</td>
-                    <td>Batch (untuk Fanshare)</td>
+                    <td>Batch</td>
+                    <td>Fanshare</td>
                 </tr>
                 <tr>
                     <td>🎞</td>
-                    <td>Per Episod (untuk Fanshare)</td>
+                    <td>Per Episod</td>
+                    <td>Fanshare</td>
                 </tr>
             </tbody>
         </table>
