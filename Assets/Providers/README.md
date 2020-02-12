@@ -1,15 +1,10 @@
 ﻿<!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-    <div class="stackedit__html">
-        <h1 id="daftar-sumber-situs-untuk-database-anime">Daftar Sumber Situs untuk Database Anime</h1>
-        <h2>DISCLAIMER</h2>
+<head></head>
+<body>
+    <div>
+        <h1 id="daftar-sumber">Daftar Sumber Situs untuk Database Anime</h1>
+        <h2 id="disclaimer">DISCLAIMER</h2>
         <p>&emsp;&emsp;<i>Ngomong-ngomong</i>, ini database listnya <i>udah out-to-date yha</i>. Akan ada pembaruan selanjutnya dengan menggunakan markah MD saja, tidak menggunakan markah HTML supaya mempermudah dalam mengisi entri lainnya.</p>
         <h2 id="petunjuk">Petunjuk</h2>
         <table>
@@ -233,7 +228,7 @@
                     <td>
                         <a href="https://itosubs.com"><img src="https://www.google.com/s2/favicons?domain=itosubs.com" alt="Ito"></a> <a href="https://itosubs.com">Itosubs</a> 🇮🇩</td>
                     <td></td>
-                    <td><s><a href="https://ruangotaku.id"><img src="https://www.google.com/s2/favicons?domain=ruangotaku.id" alt="Ruang"></a> <a href="https://ruangotaku.id">RuangOtaku</a> 🇮🇩</s></td>
+                    <td><a href="https://ruangotaku.id"><img src="https://www.google.com/s2/favicons?domain=ruangotaku.id" alt="Ruang"></a> <a href="https://ruangotaku.id">RuangOtaku</a> 🇮🇩</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -308,6 +303,13 @@
                     <td></td>
                     <td></td>
                 </tr>
+                <tr>
+                    <td>29</td>
+                    <td>
+                        <a href="https://cijanepoi.blogspot.com/"><img src="https://www.google.com/s2/favicons?domain=cijanepoi.blogspot.com" alt="Cijane" heigth="16" width="16"></a> <a href="https://cijanepoi.blogspot.com/">CijaNepoi </a> 🇮🇩</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
             </tbody>
         </table>
     </div>
