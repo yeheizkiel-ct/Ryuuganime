@@ -37,6 +37,6 @@ Kami menerima berbagai macam jenis pembayaran ngomong2 :v
 
 ## Catatan
 1. Untuk donasi melalui rekening bank, silakan hubungi dahulu. Alternatifnya, kamu dapat memberikan donasi kamu lewat bank ke virtual wallet.
-2. Ingin kirim melalui virtual wallet, tapi takut tersesat karena ngga tau nama? Kontak langsung melalui DM di Discord (`nattadasu#3867`). '-')/
+2. Ingin kirim melalui virtual wallet, tapi takut tersesat karena ngga tau nama? Kontak langsung melalui DM di Discord ([`nattadasu#3867`](https://discordapp.com/channels/@me/384089845527478272)). '-')/
 3. Mau berdonasi lewat cryptocurrency yang tidak ada dalam list? Kontak (lagi) nattadasu untuk mulai berdebat.
 4. Jika bisa, tolong untuk melampirkan catatan saat proses transfer `Donasi Ryuuganime` disertai Username (Discord, jika punya) agar mempermudah pendataan.
