@@ -4,27 +4,6 @@
             <p>Portal Indeks Anime Subtitel Indonesia Terlengkap</p>
             <a href="https://github.com/ryuuganime/Ryuuganime/releases"><img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/ryuuganime/Ryuuganime?logo=github&style=flat-square"></a>&emsp;<a href="https://github.com/ryuuganime/Ryuuganime/fork"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ryuuganime/Ryuuganime?color=silver&logo=github&style=flat-square"></a>&emsp;<a href="https://discord.gg/nWHwkuT"><img alt="Discord" src="https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square"></a>&emsp;<a href="https://www.facebook.com/ryuuganime" target="_blank"><img src="https://img.shields.io/badge/Facebook-Like-1877F2?style=flat-square&logo=facebook&logoColor=silver"></a>&emsp;<a href="https://chat.whatsapp.com/KkmCYkMCfEkDTbHoOLCoKB" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Join-brightgreen?style=flat-square&logo=whatsapp"></a>&emsp;<a href='https://ko-fi.com/U6U1YGDN' target='_blank'><img src="https://img.shields.io/badge/Donate-Ko--fi-red?style=flat-square&logo=ko-fi" /></a>&emsp;<a href="https://paypal.me/nattadasu" target='_blank'><img src="https://img.shields.io/badge/Donate-PayPal-blue?style=flat-square&logo=paypal" /></a>
         <hr>
-        <meta charset="utf-8">
-    <style type="text/css">
-        h1 {
-            color:red;
-            font-size:18px;
-            border: 5px solid black;
-            background-color:aquamarine;
-            font-family: NK57 Monospace;
-        }
-        h2{
-            color: blue;
-            font-size: 16px;
-            border: 2px solid black;
-            font-family: NK57 Monospace;
-        }
-        p {
-            color: black;
-            font-size: 12px;
-            font-family: times new roman;
-        }
-    </style>
     </head>
     <body>
         <h2>Apa Itu <a href="https://ryuuganime.blogspot.com" title="Klik untuk mengunjungi situs" target="_blank"><strong>Ryuuganime</strong></a>?</h2>
@@ -50,7 +29,8 @@
                     <li>Setelah Anda melakukan <em>commit</em>, kirimkan <em>pull request</em></li>
                 </ol>
                 <ul>
-                    <li>NB: Pastikan Anda telah memberikan <em>credit</em> Anda di <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/CONTRIBUTORS.md">CONTRIBUTORS.md</a>. Selain <em>fork</em> dan <em>pull repo</em>, Anda juga dapat hanya memberikan <em>Issue</em> mengenai masalah di dalam situs maupun dalam Repo ini</li>
+                    <li>P.S: Pastikan Anda telah memberikan <em>credit</em> Anda di <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/CONTRIBUTORS.md">CONTRIBUTORS.md</a>. Selain <em>fork</em> dan <em>pull repo</em>, Anda juga dapat hanya memberikan <a href="https://github.com/ryuuganime/Ryuuganime/issues"><em>Issue</em></a> mengenai masalah di dalam situs maupun dalam Repo ini</li>
+                    <li>P.P.S: Tidak ahli dalam kontribusi HTML ataupun memberikan <em>issue</em>? Anda bisa memberikan donasi Anda ke tim Ryuuganime, informasi lebih lanjut, <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/donations.md">klik disini</a>.
                 </ul>
         <h2>Informasi Lebih Lanjut</h2>
             <p>Hubungi nattadasu melalui <a href="https://github.com/nattadasu/Personal/blob/master/assets/discord/readme.md">Discord</a>, <a href="https://twitter.com/nattadasu">Twitter</a>, <a href="https://instagram.com/nattadasu">Instagram</a>, maupun melalui <em>Issue</em> di <em>repo</em> ini ataupun melalui <a href="https://github.com/nattadasu/Personal">nattadasu/Personal</a>.</p>
