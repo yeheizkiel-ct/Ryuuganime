@@ -25,11 +25,12 @@ Kami menerima berbagai macam jenis pembayaran ngomong2 :v
 * **CIMB Niaga:** (022) 8099 085155315151  
 
 ## _Cryptocurrencies_
-* **Bitcoin:** `3PTJMj562uhun7FcFASBZerh6S92pYVrcH`  
-* **Ethereum:** `0x8d55A1E67CA4fb2a237b04e19050ccAf4A51496b`  
-* **Litecoin:** `MMXpvw5HZ3Kvpuo3VeBJa61R8WSAuy2W8j`  
+* **Bitcoin:** `33aBQqbMiuk53nKpZDC2dFBWKMwrbPNWcf`  
+* **Ethereum:** `0x58d6f6c0b36ed033140801886d65a22899279110`  
+* **Litecoin:** `MUGoxUc6PPUwMimNeM6RxPqb2uSPx9WgwS`  
 * **Basic Auth. Token (BAT):** `0x3E98817d5B4BB88C067b91Ae6Ebd6Bbf81d0D4BF`  
-* **DASH:** `Xp9KjRSLbc3kZHmHDsUmBSnY7EXZKWJMT3`  
+* **DASH:** `7a2WRBe3epDTadRKYpQtPjAdaW2HNMseqr`  
+* **Ripple:** `rJc5d48m2pDdfurDaemUZT2J18RPcbtPGF` tag:`195482`
 
 ## _Cellular Balance_
 * **by.U (Telkomsel):** (+62) 85155315151  
@@ -38,4 +39,4 @@ Kami menerima berbagai macam jenis pembayaran ngomong2 :v
 1. Untuk donasi melalui rekening bank, silakan hubungi dahulu. Alternatifnya, kamu dapat memberikan donasi kamu lewat bank ke virtual wallet.
 2. Ingin kirim melalui virtual wallet, tapi takut tersesat karena ngga tau nama? Kontak langsung melalui DM di Discord (`nattadasu#3867`). '-')/
 3. Mau berdonasi lewat cryptocurrency yang tidak ada dalam list? Kontak (lagi) nattadasu untuk mulai berdebat.
-4. Jika bisa, tolong untuk melampirkan catatan saat proses transfer `Donasi Ryuuganime` disertai Username (Discord, jika punya) agar mempermudah pendataan. 
+4. Jika bisa, tolong untuk melampirkan catatan saat proses transfer `Donasi Ryuuganime` disertai Username (Discord, jika punya) agar mempermudah pendataan.
