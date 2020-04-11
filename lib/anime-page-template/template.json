@@ -15,34 +15,74 @@
         "es_ES": "",
         "zh_Hans": "",
         "zh_Hant": "",
-        "vi_VN": "",
-        "comment": "DB menggunakan ICU locale untuk mempermudah pengisian entri"
+        "vi_VN": ""
     },
     "backdrop": "",
+    "visualKey": "",
     "synopsis": {
-        "synopsysContent": "",
-        "synopsysSource": {
-            "domain": "",
-            "url": ""
-        }
+        "ar_001": "",
+        "hu_HU": "",
+        "he_IL": "",
+        "id_ID": "",
+        "en_US": "",
+        "ja_JP": "",
+        "de_DE": "",
+        "ko_KR": "",
+        "fr_FR": "",
+        "pt_PT": "",
+        "ru_RU": "",
+        "es_ES": "",
+        "zh_Hans": "",
+        "zh_Hant": "",
+        "vi_VN": ""
     },
     "information": {
-        "synonyms": "",
+        "synonyms": {
+            "en_Latn": "",
+            "ar_001": "",
+            "hu_HU": "",
+            "he_IL": "",
+            "id_ID": "",
+            "en_US": "",
+            "ja_JP": "",
+            "de_DE": "",
+            "ko_KR": "",
+            "fr_FR": "",
+            "pt_PT": "",
+            "ru_RU": "",
+            "es_ES": "",
+            "zh_Hans": "",
+            "zh_Hant": "",
+            "vi_VN": ""
+        },
         "type": "",
         "status": "",
-        "serialGenre": [
-            "",
-            ""
-        ],
-        "serialTags": [
-            "",
-            ""
-        ],
+        "serialGenre": {
+            "en_US": [
+                "",
+                ""
+            ],
+            "id_ID": [
+                "",
+                ""
+            ]
+        },
+        "serialTags": {
+            "en_US": [
+                "",
+                ""
+            ],
+            "id_ID": [
+                "",
+                ""
+            ]
+        },
         "releaseSeason": 0,
         "releaseYear": 0,
         "releaseDate": "",
         "endDate": "",
         "duration": 0,
+        "totalDuration": 0,
         "studio": "",
         "rating": "",
         "adaptation": "",
