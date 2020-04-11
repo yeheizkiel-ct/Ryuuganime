@@ -55,8 +55,14 @@
             "zh_Hant": "",
             "vi_VN": ""
         },
-        "type": "",
-        "status": "",
+        "type": {
+            "en_US": "",
+            "id_ID": ""
+        },
+        "status": {
+            "en_US": "",
+            "id_ID": ""
+        },
         "serialGenre": {
             "en_US": [
                 "",
@@ -77,16 +83,28 @@
                 ""
             ]
         },
-        "releaseSeason": 0,
-        "releaseYear": 0,
+        "releaseSeason": {
+            "en_US": "",
+            "id_ID": ""
+        },
+        "releaseYear": {
+            "en_US": 0,
+            "id_ID": 0
+        },
         "releaseDate": "",
         "endDate": "",
         "duration": 0,
         "totalDuration": 0,
         "studio": "",
         "rating": "",
-        "adaptation": "",
-        "country": ""
+        "adaptation": {
+            "en_US": "",
+            "id_ID": ""
+        },
+        "country": {
+            "en_US": "",
+            "id_ID": ""
+        }
     },
     "scores": {
         "aniDB": {
@@ -97,7 +115,7 @@
             "id": 0,
             "score": ""
         },
-        "Anime-Planet": {
+        "AnimePlanet": {
             "url": "",
             "score": ""
         },
@@ -170,7 +188,10 @@
             "score": ""
         }
     },
-    "updated": "",
+    "updatedDate": {
+        "en_US": "",
+        "id_ID": ""
+    },
     "fansub": {
         "idn": {
             "Aibou": "",
