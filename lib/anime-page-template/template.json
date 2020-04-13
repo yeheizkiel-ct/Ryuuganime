@@ -93,8 +93,8 @@
         },
         "releaseYear": 0,
         "episode": 0,
-        "releaseDate": "",
-        "endDate": "",
+        "releaseDate": 0,
+        "endDate": 0,
         "duration": 0,
         "totalDuration": 0,
         "studio": "",
@@ -190,9 +190,10 @@
             "score": ""
         }
     },
-    "updatedDate": {
-        "en_US": "",
-        "id_ID": ""
+    "updatedDate": 0,
+    "updatedTime": {
+        "time": 0,
+        "timeZone": "+7"
     },
     "fansub": {
         "idn": {
