@@ -85,12 +85,13 @@
         },
         "releaseSeason": {
             "en_US": "",
-            "id_ID": ""
+            "id_ID": "",
+            "ja_JP": "",
+            "ko_JP": "",
+            "zh_Hans": "",
+            "zh_Hant": ""
         },
-        "releaseYear": {
-            "en_US": 0,
-            "id_ID": 0
-        },
+        "releaseYear": 0,
         "episode": 0,
         "releaseDate": "",
         "endDate": "",
