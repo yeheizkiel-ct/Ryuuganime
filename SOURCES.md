@@ -13,7 +13,7 @@
 
 > Beberapa fon digunakan dalam website anime yang tidak memiliki logo resmi di situsnya. Fon yang tertera juga tidak akan digunakan untuk kepentingan komersial apabila dalam lisensi yang digunakan tidak diperkenankan untuk menggunakan sebagai bahan komersial pada tipografi tersebut.
 
-## [Database](../ketentuan-umum/definisi-kata/#database-pangkalan-data) Indeks Situs
+## Database Indeks Situs
 
 * [**anime-offline-database**](https://github.com/manami-project/anime-offline-database) oleh [manami-project](https://github.com/manami-project) dibawah lisensi [AGPL-3.0](https://github.com/manami-project/anime-offline-database/blob/master/LICENSE).
 * [**Indonesian Fansubs Database Mk. II**](https://docs.google.com/spreadsheets/d/1j30Cvc5Y7y0wij2qjmUpD9DmaPH6a4vjLDK54Nj9S-w/edit?fbclid=IwAR0iZYej2s6FRheY1g4DxIpfH_RqzUqRzbmYHxvcVHRKk64ZEoLlje8Jr6A#gid=281368768) oleh [Fsy](https://facebook.com/fahmiyamura), [d'7](https://facebook.com/yuwdhie7), dan ExRazor.
