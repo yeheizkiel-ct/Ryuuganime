@@ -25,7 +25,7 @@
 * [**Microsoft**](https://microsoft.com)**®** [**Office 365**](https://products.office.com/en/explore-office-for-home)**® OneDrive** : Pencadangan _database_ situs.
 * [**Microsoft**](https://microsoft.com)**®** [**Visual Studio Code**](https://code.visualstudio.com): Penyuntingan _code_ dan markdown.
 * [**GitHub**](https://github.com) : Repositori desain dan _database_ situs.
-* [**EZGif**](https://ezgif.com) ****: _Converter_ ekstensi WebP ke JPEG/PNG.
+* [**EZGif**](https://ezgif.com) : _Converter_ ekstensi WebP ke JPEG/PNG.
 * [**Paint.NET**](https://www.getpaint.net/) **4.1.6** : Penyuntingan Gambar/Vektor.
 * [**Inkscape**](https://inkscape.org/) **0.92.3** : Penyuntingan Vektor SVG.
 * [**GitBook**](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu) : Penyedia layanan Wiki dalam teknologi Git.
