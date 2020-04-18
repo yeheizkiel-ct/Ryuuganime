@@ -1,39 +1,61 @@
-<html>
-    <head>
-        <strong><a href="https://ryuuganime.blogspot.com"><h1>Ryuuganime</h1></a></strong>
-            <p>Portal Indeks Anime Subtitel Indonesia Terlengkap</p>
-            <a href="https://github.com/ryuuganime/Ryuuganime/releases"><img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/ryuuganime/Ryuuganime?logo=github&style=flat-square"></a>&emsp;<a href="https://github.com/ryuuganime/Ryuuganime/fork"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ryuuganime/Ryuuganime?color=silver&logo=github&style=flat-square"></a>&emsp;<a href="https://discord.gg/nWHwkuT"><img alt="Discord" src="https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square"></a>&emsp;<a href="https://www.facebook.com/ryuuganime" target="_blank"><img src="https://img.shields.io/badge/Facebook-Like-1877F2?style=flat-square&logo=facebook&logoColor=silver"></a>&emsp;<a href="https://chat.whatsapp.com/KkmCYkMCfEkDTbHoOLCoKB" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Join-brightgreen?style=flat-square&logo=whatsapp"></a>&emsp;<a href='https://ko-fi.com/U6U1YGDN' target='_blank'><img src="https://img.shields.io/badge/Donate-Ko--fi-red?style=flat-square&logo=ko-fi" /></a>&emsp;<a href="https://paypal.me/nattadasu" target='_blank'><img src="https://img.shields.io/badge/Donate-PayPal-blue?style=flat-square&logo=paypal" /></a>
-        <hr>
-    </head>
-    <body>
-        <h2>Apa Itu <a href="https://ryuuganime.blogspot.com" title="Klik untuk mengunjungi situs" target="_blank"><strong>Ryuuganime</strong></a>?</h2>
-            <p>Ryuuganime merupakan situs portal indeks <em><a href="https://id.wikipedia.org/wiki/Anime" target="_blank">anime</a></em> bersubtitel bahasa Indonesia maupun bahasa Inggris yang menggabungkan tautan <em>streaming</em>/unduhan resmi (<em>official</em>), <em>fansub</em>, dan <em>fanshare</em> (termasuk <em>batch</em>) ke dalam satu laman lengkap dengan ulasan dan skor <em>anime</em> dari hampir 20 situs <em>tracking anime</em> dan TV-Movie terkenal.</p>
-            <p>Informasi mengenai <em>tracker</em> yang digunakan oleh Ryuuganime dapat dilihat <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/Assets/Providers/Trackers/README.md">disini</a>.</p>
-        <h2>Siapa Saja yang Mengelola Situs Ini?</h2>
-            <p>Pengelola situs Ryuugamine saat ini hanya <a href="https://github.com/nattadasu/Personal" target="_blank">nattadasu</a>. Ryuugamine sekarang sedang mencari sukarelawan yang mempunyai luang waktu untuk mengisi data di web tersebut.</p>
-        <h2>Website Ini Menggunakan Jasa Dari Mana?</h2>
-            <p>Ryuuganime menggunakan jasa blogging dari <a href="https://blogger.com" target="_blank">Blogger</a> oleh <a href="https://google.com">Google</a> dan domain di <a href="https://idcloudhost.com/">IDCloudHost</a>.<br>Ryuuganime juga menggunakan layanan jasa pihak ketiga (<em>3rd Party Service Provider</em>) untuk memudahkan dalam mengelola situs.</p>
-            <p>Informasi mengenai layanan yang digunakan oleh Ryuuganime dapat dilihat <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/Assets/Providers/Trackers/README.md">disini</a>.</p>
-        <h2>Sejak Kapan <strong>Ryuuganime</strong> Dibentuk?</h2>
-            <p>Ryuuganime dibentuk pada Juni 27, 2019, <a href="https://www.facebook.com/story.php?story_fbid=771156279946124&id=248649265530164">lebih tepatnya pada pukul 22.04 WIB</a> dikarenakan <em>website fanshare</em> yang terkenal di Indonesia, yaitu <a href="https://meownime.com" target="_blank">Meownime</a> dan <a href="https://meowstream.com">Meowstream</a> ditutup secara resmi pada pukul 15.34 WIB di hari yang sama sekaligus merupakan hasil ide dari <a href="https://github.com/nattadasu/Personal" target="_blank">nattadasu</a> sejak 3 bulan yang lalu.</p>
-        <h2>Mengapa <em>Repo</em> <strong>Ryuuganime</strong> Ada Di <a href="https://github.com">GitHub</a>?</h2>
-            <p>Jika diperhatikan lebih teliti, Ryuuganime memiliki tidak sebatas <em>icon</em> pintasan situs saja, tetapi juga memiliki elemen lainnya (seperti <em><a href="https://github.com/ryuuganime/Ryuuganime/blob/master/Templates/amino.html">template</a></em> dll) yang tidak memungkinkan kalau data tersebut disimpan di <a href="https://www.google.com/drive/">Google Drive</a>, <a href="https://onedrive.live.com/OneDrive">Microsoft OneDrive</a>, maupun layanan <a href="https://id.wikipedia.org/wiki/Penyimpanan_awan"><em>cloud storage</em></a> lainnya.</p>
-            <p>Kami juga berharap dengan adanya <em>repo</em> di GitHub dapat memudahkan kontributor untuk memberikan kontribusinya dalam <em>coding template</em>, desain grafis, dll.</p>
-        <hr>
-        <h2>Saya Ingin Berkontribusi ke Website Ryuuganime, Bagaimana Caranya?</h2>
-                <ol>
-                    <li>Pastikan Anda telah bergabung ke server Discord resmi Ryuuganime. Hal ini bertujuan untuk dapat menghubungi nattadasu secara langsung jika ada kendala ataupun konfirmasi.</li>
-                    <li><em>Fork repository</em> ini.</li>
-                    <li>Berikan kontribusi Anda di <em>fork repo</em> Anda. Kontribusi dapat berupa: <em>database</em>, logo dari situs fansub/fanshare, dan <em>template</em> tema XML Blogger. Untuk selain yang telah disebutkan, mohon konfirmasi terlebih dahulu kepada <a href="https://github.com/ryuuganime/Ryuuganime#informasi-lebih-lanjut">nattadasu</a>.<br/><strong>NOTE</strong><br />Untuk pengisian entri database, mohon untuk membaca langkah-langkah pengisian dan ketentuan lainnya di <a href="https://wiki.ryuuganime.my.id">wiki Ryuuganime</a></li>
-                    <li><em>Commit</em> kontribusi Anda.</li>
-                    <li>Setelah Anda melakukan <em>commit</em>, kirimkan <em>pull request</em></li>
-                </ol>
-                <ul>
-                    <li>P.S: Pastikan Anda telah memberikan <em>credit</em> Anda di <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/CONTRIBUTORS.md">CONTRIBUTORS.md</a>. Selain <em>fork</em> dan <em>pull repo</em>, Anda juga dapat hanya memberikan <a href="https://github.com/ryuuganime/Ryuuganime/issues"><em>Issue</em></a> mengenai masalah di dalam situs maupun dalam Repo ini</li>
-                    <li>P.P.S: Tidak ahli dalam kontribusi HTML ataupun memberikan <em>issue</em>? Anda bisa memberikan donasi Anda ke tim Ryuuganime, informasi lebih lanjut, <a href="https://github.com/ryuuganime/Ryuuganime/blob/master/donations.md">klik disini</a>.
-                </ul>
-                <a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/0"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/0" alt=""></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/1"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/1" alt=""></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/2"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/2" alt=""></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/3"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/3" alt=""></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/4"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/4" alt=""></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/5"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/5" alt=""></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/6"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/6" alt=""></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/7"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/7" alt=""></a>
-        <h2>Informasi Lebih Lanjut</h2>
-            <p>Hubungi nattadasu melalui <a href="https://github.com/nattadasu/Personal/blob/master/assets/discord/readme.md">Discord</a>, <a href="https://twitter.com/nattadasu">Twitter</a>, <a href="https://instagram.com/nattadasu">Instagram</a>, maupun melalui <em>Issue</em> di <em>repo</em> ini ataupun melalui <a href="https://github.com/nattadasu/Personal">nattadasu/Personal</a>.</p>
-    </body>
-</html>
+# [Ryuuganime](https://ryuuganime.blogspot.com)
+
+Portal Indeks Anime Subtitel Indonesia Terlengkap
+
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ryuuganime/Ryuuganime?logo=github&style=flat-square)](https://github.com/ryuuganime/Ryuuganime/releases) [![GitHub forks](https://img.shields.io/github/forks/ryuuganime/Ryuuganime?color=silver&logo=github&style=flat-square)](https://github.com/ryuuganime/Ryuuganime/fork) [![Discord](https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square)](https://discord.gg/nWHwkuT) [![](https://img.shields.io/badge/Facebook-Like-1877F2?style=flat-square&logo=facebook&logoColor=silver)](https://www.facebook.com/ryuuganime) [![](https://img.shields.io/badge/WhatsApp-Join-brightgreen?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/KkmCYkMCfEkDTbHoOLCoKB) [![](https://img.shields.io/badge/Donate-Ko--fi-red?style=flat-square&logo=ko-fi)](https://ko-fi.com/U6U1YGDN) [![](https://img.shields.io/badge/Donate-PayPal-blue?style=flat-square&logo=paypal)](https://paypal.me/nattadasu)
+
+<hr />
+
+# Apa Itu [**Ryuuganime**](https://ryuuganime.blogspot.com)?
+
+Ryuuganime merupakan situs portal indeks _database_ _anime_ ber-subtitel bahasa Indonesia maupun bahasa Inggris yang menggabungkan tautan _fansub_, dan _fanshare_ \(termasuk _batch_\) ke dalam satu laman lengkap dengan ulasan dan skor _anime_ dari hampir 20 situs _tracking anime_ dan TV-Movie terkenal.
+
+# Siapa Saja yang Mengelola Situs Ini?
+
+Anda dapat melihatnya di [sini](CONTRIBUTORS.md).
+
+# Lisensi Apa yang Digunakan Ryuuganime?
+
+Anda dapat melihatnya di [sini](LICENSE) dan di [sini](https://wiki.ryuuganime.my.id/sk-kebijakan/lisensi).
+
+# Dimana Saya Dapat Melihat Informasi Lengkap Mengenai Ryuuganime?
+
+Anda dapat melihatnya di [sini](https://wiki.ryuuganime.my.id).
+
+# Website Ini Menggunakan Jasa Dari Mana?
+
+Ryuuganime menggunakan jasa blogging dari [Blogger](https://blogger.com) oleh [Google](https://google.com) dan domain di [IDCloudHost](https://idcloudhost.com/).  
+Ryuuganime juga menggunakan layanan jasa pihak ketiga \(_3rd Party Service Provider_\) untuk memudahkan dalam mengelola situs.
+
+Informasi mengenai layanan yang digunakan oleh Ryuuganime dapat dilihat [disini](informasi-sumber/sumber-penggunaan-aset.md#aplikasi-layanan-yang-digunakan-untuk-proyek-situs-ini).
+
+# Sejak Kapan **Ryuuganime** Dibentuk?
+
+Ryuuganime dibentuk pada Juni 27, 2019, [lebih tepatnya pada pukul 22.04 WIB](https://www.facebook.com/story.php?story_fbid=771156279946124&id=248649265530164) dikarenakan _website fanshare_ yang terkenal di Indonesia, yaitu [Meownime](https://meownime.com) dan [Meowstream](https://meowstream.com) ditutup secara resmi pada pukul 15.34 WIB di hari yang sama sekaligus merupakan hasil ide dari nattadasu sejak 3 bulan yang lalu.
+
+# Mengapa _Repo_ **Ryuuganime** Ada Di GitHub?
+
+Jika diperhatikan lebih teliti, Ryuuganime memiliki tidak sebatas _icon_ pintasan situs saja, tetapi juga memiliki elemen lainnya \(seperti [_template_](https://github.com/ryuuganime/Ryuuganime/blob/master/Templates/amino.html) dll\) yang tidak memungkinkan kalau data tersebut disimpan di [Google Drive](https://www.google.com/drive/), [Microsoft OneDrive](https://onedrive.live.com/OneDrive), maupun layanan [_cloud storage_](https://id.wikipedia.org/wiki/Penyimpanan_awan) lainnya.
+
+Kami juga berharap dengan adanya _repo_ di GitHub dapat memudahkan kontributor untuk memberikan kontribusinya dalam _coding template_, desain grafis, dll.
+
+<hr />
+
+# Saya Ingin Berkontribusi ke Website Ryuuganime, Bagaimana Caranya?
+
+1.  Pastikan Anda telah bergabung ke server Discord resmi Ryuuganime. Hal ini bertujuan untuk dapat menghubungi nattadasu secara langsung jika ada kendala ataupun konfirmasi.
+2.  _Fork repository_ ini.
+3.  Berikan kontribusi Anda di _fork repo_ Anda. Kontribusi dapat berupa: _database_, logo dari situs fansub/fanshare, dan _template_ tema XML Blogger. Untuk selain yang telah disebutkan, mohon konfirmasi terlebih dahulu kepada [nattadasu](https://github.com/ryuuganime/Ryuuganime#informasi-lebih-lanjut).  
+    **NOTE**  
+    Untuk pengisian entri database, mohon untuk membaca langkah-langkah pengisian dan ketentuan lainnya di [wiki Ryuuganime](https://wiki.ryuuganime.my.id)
+4.  _Commit_ kontribusi Anda.
+5.  Setelah Anda melakukan _commit_, kirimkan _pull request_
+
+*   P.S: Pastikan Anda telah memberikan _credit_ Anda di [CONTRIBUTORS.md](https://github.com/ryuuganime/Ryuuganime/blob/master/CONTRIBUTORS.md). Selain _fork_ dan _pull repo_, Anda juga dapat hanya memberikan [_Issue_](https://github.com/ryuuganime/Ryuuganime/issues) mengenai masalah di dalam situs maupun dalam Repo ini
+*   P.P.S: Tidak ahli dalam kontribusi HTML ataupun memberikan _issue_? Anda bisa memberikan donasi Anda ke tim Ryuuganime, informasi lebih lanjut, [klik disini](https://github.com/ryuuganime/Ryuuganime/blob/master/donations.md).
+
+[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/0)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/0)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/1)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/1)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/2)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/2)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/3)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/3)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/4)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/4)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/5)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/5)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/6)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/6)[![](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/7)](https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/7)
+
+# Informasi Lebih Lanjut
+
+Hubungi kami melalui [Discord](https://github.com/nattadasu/Personal/blob/master/assets/discord/readme.md), [Twitter](https://twitter.com/nattadasu), [Instagram](https://instagram.com/ryuuganime), maupun melalui _Issue_ di _repo_ [Ryuuganime](https://github.com/ryuuganime/Ryuuganime/issues).
