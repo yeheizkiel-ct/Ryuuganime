@@ -100,6 +100,7 @@
         "totalDuration": 0,
         "studio": "",
         "rating": "",
+        "isNsfw": false,
         "adaptation": {
             "en_US": "",
             "id_ID": ""
