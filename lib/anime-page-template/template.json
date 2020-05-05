@@ -129,6 +129,7 @@
         },
         "aniSearch": {
             "url": "",
+            "id": 0,
             "score": ""
         },
         "Annict": {
@@ -145,6 +146,7 @@
         },
         "Kitsu": {
             "slug": "",
+            "id": "",
             "score": ""
         },
         "LiveChart": {
