@@ -1,0 +1,4 @@
+[submodule "lib/database"]
+	path = lib/database
+	url = https://github.com/ryuuganime/ryuuganime-db.git
+	branch = master
