@@ -693,6 +693,7 @@
       Meitanteibayoo: ""
       Melody: ""
       Mite: ""
+      Nanairo: ""
       NgidolYuk: ""
       Neo: ""
       OPLovers: ""
@@ -740,16 +741,13 @@
   {
     idn:
     {
-      AnimeCracks: ""
-      AnimeHADE: ""
       AnimeIndoNET: ""
-      AnimeIndoTO: ""
       anoBoy: ""
       Gomunime: ""
       Moeclip: ""
       Neonime: ""
       Onnime: ""
-      RuangOtaku: ""
+      OtakuIndo: ""
     }
     eng:
     {
@@ -762,6 +760,7 @@
       Animelon: ""
       Animeultima: ""
       AnimeXD: ""
+      AniWatch: ""
       DaiWEEB: ""
       GogoAnime: ""
       KissAnime: ""

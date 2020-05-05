@@ -183,6 +183,7 @@
         },
         "TMDB": {
             "url": "",
+            "id": 0,
             "score": ""
         },
         "Trakt": {
@@ -243,6 +244,7 @@
             "Meitanteibayoo": "",
             "Melody": "",
             "Mite": "",
+            "Nanairo": "",
             "NgidolYuk": "",
             "Neo": "",
             "OPLovers": "",
@@ -284,16 +286,13 @@
     },
     "fanstream": {
         "idn": {
-            "AnimeCracks": "",
-            "AnimeHADE": "",
             "AnimeIndoNET": "",
-            "AnimeIndoTO": "",
             "anoBoy": "",
             "Gomunime": "",
             "Moeclip": "",
             "Neonime": "",
             "Onnime": "",
-            "RuangOtaku": ""
+            "OtakuIndo": ""
         },
         "eng": {
             "4anime": "",
@@ -305,6 +304,7 @@
             "Animelon": "",
             "Animeultima": "",
             "AnimeXD": "",
+            "AniWatch": "",
             "DaiWEEB": "",
             "GogoAnime": "",
             "KissAnime": "",
