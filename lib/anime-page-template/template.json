@@ -100,7 +100,7 @@
         "totalDuration": 0,
         "studio": "",
         "rating": "",
-        "isNsfw": false,
+        "isNsfw":false,
         "adaptation": {
             "en_US": "",
             "id_ID": ""
@@ -146,7 +146,7 @@
         },
         "Kitsu": {
             "slug": "",
-            "id": "",
+            "id": 0,
             "score": ""
         },
         "LiveChart": {
@@ -183,7 +183,6 @@
         },
         "TMDB": {
             "url": "",
-            "id": 0,
             "score": ""
         },
         "Trakt": {
@@ -196,10 +195,6 @@
         }
     },
     "updatedDate": 0,
-    "updatedTime": {
-        "time": 0,
-        "timeZone": "+7"
-    },
     "fansub": {
         "idn": {
             "Aibou": "",
