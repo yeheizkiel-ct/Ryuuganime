@@ -55,85 +55,85 @@
     # = Judul dalam bahasa asli serial, contoh "アサティール 未来の昔ばなし"
     #   dalam bahasa Jepang untuk anime Asatir: Mirai no Mukashi Banashi
     #   yang ditayang di Jepang.
-    native: "" 
+    native:  
 
     # en_Latn [str] <nbl>
     # = Judul dalam bentuk Romaji (untuk Jepang), Romaja (Korea), atau
     #   Latin. Diperlukan untuk penamaan judul serial dalam entri.
-    en_Latn: ""
+    en_Latn: 
 
     # ar_001 [str] <nab>
     # = Judul dalam bahasa Arab, 001 adalah kode ICU untuk menunjukkan
     #   bahwa menggunakan logat Arab Modern yang telah distandarkan
     #   (Arabic MSA).
-    ar_001: ""
+    ar_001: 
 
     # hu_HU [str] <nab>
     # = Judul dalam bahasa Hungaria.
-    hu_HU: ""
+    hu_HU: 
 
     # he_IL [str] <nab>
     # = Judul dalam bahasa Ibrani Israel.
-    he_IL: ""
+    he_IL: 
 
     # id_ID [str] <nab>
     # = Judul dalam bahasa Indonesia.
-    id_ID: ""
+    id_ID: 
 
     # en_US [str] <nab>
     # = Judul dalam bahasa Inggris.
-    en_US: ""
+    en_US: 
 
     # ja_JP [str] <nab>
     # = Judul dalam bahasa Jepang.
-    ja_JP: ""
+    ja_JP: 
 
     # de_DE [str] <nab>
     # = Judul dalam bahasa Jerman.
-    de_DE: ""
+    de_DE: 
 
     # ko_KR [str] <nab>
     # = Judul dalam bahasa Korea Selatan. Aksen Korea Utara diperbolehkan.
-    ko_KR: ""
+    ko_KR: 
 
     # fr_FR [str] <nab>
     # = Judul dalam bahasa Perancis. Aksen lainnya diperbolehkan.
-    fr_FR: ""
+    fr_FR: 
 
     # pt_PT [str] <nab>
     # = Judul dalam bahasa Portugis Portugal. Aksen lainnya diperbolehkan.
-    pt_PT: ""
+    pt_PT: 
 
     # ru_RU [str] <nab>
     # = Judul dalam bahasa Rusia.
-    ru_RU: ""
+    ru_RU: 
 
     # es_ES [str] <nab>
     # = Judul dalam bahasa Spanyol. Aksen lainnya diperbolehkan.
-    es_ES: ""
+    es_ES: 
 
     # zh_Hans [str] <nab>
     # = Judul dalam bahasa China beraksara Mandarin (Simplified).
-    zh_Hans: ""
+    zh_Hans: 
 
     # zh_Hant [str] <nab>
     # = Judul dalam bahasa China beraksara Kanton (Traditional).
-    zh_Hant: ""
+    zh_Hant: 
 
     # vi_VN [str] <nab>
     # = Judul dalam bahasa Vietnam.
-    vi_VN: ""
+    vi_VN: 
   }
 
   # backdrop [str] <url>
   # = Yakni cover art. Gunakan URL gambar. Lihat Wiki untuk informasi
   #   situs yang diperbolehkan.
-  backdrop: ""
+  backdrop: 
 
   # visualKey [str] <url>
   # = Ialah Poster. Gunakan URL gambar. Lihat Wiki untuk informasi situs
   #   yang diperbolehkan.
-  visualKey: ""
+  visualKey: 
 
   # synopsis [obj]
   # = Ialah sinopis suatu serial dalam beberapa bahasa.
@@ -272,11 +272,11 @@
     {
       // Argumen yang diperbolehkan ialah:
       // TV, ONA, OVA, OAD, Special, Movie, Music, dan Unknown
-      en_US: ""
+      en_US: 
 
       // Argumen yang diperbolehkan ialah:
       // Serial TV, ONA, OVA, OAD, Spesial, Film, Musik, dan Tidak Diketahui
-      id_ID: ""
+      id_ID: 
     }
 
     # status [obj] > [str] <nbl>
@@ -285,12 +285,12 @@
     {
       // Argumen yang diperbolehkan ialah
       // Aired, Airing, Planned, TBA, dan Unknown
-      en_US: ""
+      en_US: 
 
       // Argumen yang diperbolehkan ialah
       // Ditayangkan, Mengudara, Direncanakan, Akan Diumumkan, dan Tidak
       //   Diketahui
-      id_ID: ""
+      id_ID: 
     }
 
     # serialGenre [obj]
@@ -339,27 +339,27 @@
     {
       // Argumen yang diperbolehkan ialah
       // Winter, Spring, Summer, Fall, dan Unknown
-      en_US: ""
+      en_US: 
 
       // Argumen yang diperbolehkan ialah
       // Dingin, Semi, Panas, Gugur, dan Tidak Diketahui
-      id_ID: ""
+      id_ID: 
 
       // Argumen yang diperbolehkan ialah
       // 冬, 春, 夏, 秋, dan 不明
-      ja_JP: ""
+      ja_JP: 
 
       // Argumen yang diperbolehkan ialah
       // 겨울, 봄, 여름, 가을, dan 알
-      ko_KR: ""
+      ko_KR: 
 
       // Argumen yang diperbolehkan ialah
       // 冬天, 春天, 夏天, 秋天, dan 未知
-      zh_Hans: ""
+      zh_Hans: 
 
       // Argumen yang diperbolehkan ialah
       // 冬天, 春天, 夏天, 秋天, dan 未知
-      zh_Hant: ""
+      zh_Hant: 
     }
 
     # releaseYear [num] <nbl>
@@ -373,12 +373,12 @@
     # releaseDate [str]
     # = Tanggal rilis serial, menggunakan format YYYY-MM-DD. Apabila tidak
     #   diketahui, isi null.
-    releaseDate: ""
+    releaseDate: 
 
     # endDate [str]
     # = Tanggal tamat serial, menggunakan format YYYY-MM-DD. Apabila tidak
     #   diketahui, isi null.
-    endDate: ""
+    endDate: 
 
     # duration [num] <nab>
     # = Durasi per episode serial, menggunakan format menit. Apabila tidak
@@ -392,14 +392,14 @@
 
     # studio [str] <arb> <nab>
     # = Studio yang memproduksi serial.
-    studio: ""
+    studio: 
 
     # rating [str] <nab>
     # = Rating konten penyiaran tayangan. Lihat wiki untuk informasi
     #   lebih lanjut.
     // Argumen yang diperbolehkan ialah
     // G0+, PS2+, PG7+, PG13+, R18+, GU21+, dan null.
-    rating: ""
+    rating: 
 
     # isNsfw [boo] <nbl>
     # = Merupakan penanda apabila serial tidak aman (NSFW). Preset awal adalah
@@ -415,20 +415,20 @@
       // Argumen yang diperbolehkan ialah
       // Original, Comic, Manga, Manhwa, Manhua, Webtoon, Doujin, Novel, Game, Music,
       // Drama, 4-koma, Fairy Tale, dan null
-      en_US: ""
+      en_US: 
 
       // Argumen yang diperbolehkan ialah
       // Orisinal, Komik, Manga, Manhwa, Manhua, Webtoon, Doujin, Novel, Gim, Musik,
       // Drama, 4-panel, Dongeng, dan null
-      id_ID: ""
+      id_ID: 
     }
 
     # country [str] <nbl>
     # = Negara asal tayangan. Tidak ada batasan negara di sini.
     country:
     {
-      en_US: ""
-      id_ID: ""
+      en_US: 
+      id_ID: 
     }
   }
 
@@ -463,7 +463,7 @@
     {
       # url [str] <url>
       # = URL/Tautan entri pada website terkait.
-      url: ""
+      url: 
 
       # id [num]
       # = Merupakan nomor id serial di website tersebut. Dapat diambil
@@ -487,7 +487,7 @@
     {
       # url [str] <url>
       # = URL/Tautan entri pada website terkait.
-      url: ""
+      url: 
 
       # id [num]
       # = Merupakan nomor id serial di website tersebut. Dapat diambil
@@ -515,7 +515,7 @@
       # = Serupa dengan ID, tetapi berbeda pada penambahan huruf identifikasi
       #   yang digunakan oleh IMDb seperti tt6751668: tt merupakan identifikasi
       #   dan 6751668 merupakan ID serial
-      code: ""
+      code: 
       score: 0
     }
 
@@ -535,7 +535,7 @@
     {
       # slug [str]
       # = Merupakan versi 'readable' bagi manusia pada URL indeks terkait.
-      slug: ""
+      slug: 
 
       # id [num]
       # = Merupakan nomor id serial di website tersebut. Dapat diambil
@@ -583,7 +583,7 @@
     {
       # url [str] <url>
       # = URL/Tautan entri pada website terkait.
-      url: ""
+      url: 
       score: 0
     }
 
@@ -592,7 +592,7 @@
     {
       # base64 [str]
       # = Merupakan sistem penomoran unik yang digunakan Notify.moe dalam websitenya
-      base64: ""
+      base64: 
       score: 0
     }
 
@@ -634,7 +634,7 @@
     {
       # url [str] <url>
       # = URL/Tautan entri pada website terkait.
-      url: ""
+      url: 
 
       # id [num]
       # = Merupakan nomor id serial di website tersebut. Dapat diambil
@@ -649,7 +649,7 @@
     {
       # url [str] <url>
       # = URL/Tautan entri pada website terkait.
-      url: ""
+      url: 
 
       # id [num]
       # = Merupakan nomor id serial di website tersebut. Dapat diambil
@@ -687,134 +687,134 @@
   // maka, 2020-12-21T22:45:33+07:00 adalah valid.
   // 
   // WIB = +07:00, WITA = +08:00, WIT = +09:00
-  updatedDate: ""
+  updatedDate: 
   fansub:
   {
     idn:
     {
-      Aibou: ""
-      Aizukara: ""
-      Allsub: ""
-      Alter: ""
-      AnimeGokil: ""
-      AniToki: ""
-      AoiTenshi: ""
-      Arks: ""
-      ASubs: ""
-      AWSubs: ""
-      Bentoo: ""
-      Caramel: ""
-      Cijanepoi: ""
-      Conan: ""
-      DAnimeSubs: ""
-      Del: ""
-      DNFI: ""
-      Durandal: ""
-      EmotPekmen: ""
-      Excalibur: ""
-      Gantz: ""
-      Gin: ""
-      Haruna: ""
-      Haruzora: ""
-      Hopper: ""
-      HunterNoSekai: ""
-      IA: ""
-      Inazumaotoshi: ""
-      Indis: ""
-      Inform0930: ""
-      Isekai: ""
-      Ito: ""
-      Junk: ""
-      Kazefuri: ""
-      Kinshiru: ""
-      KO: ""
-      Kopaja: ""
-      LCC: ""
-      MangaNekoTranslation: ""
-      Meitanteibayoo: ""
-      Melody: ""
-      Mite: ""
-      Nanairo: ""
-      NgidolYuk: ""
-      Neo: ""
-      OPLovers: ""
-      Ougi: ""
-      Panagayan: ""
-      Pendekar: ""
-      Pucuk: ""
-      Quinime: ""
-      RevieXion: ""
-      Samehadaku: ""
-      SilverYasha: ""
-      Sora: ""
-      TTOD: ""
-      Vedify: ""
-      Warung: ""
-      Wibu: ""
-      Yuki: ""
-      Zen: ""
+      Aibou: 
+      Aizukara: 
+      Allsub: 
+      Alter: 
+      AnimeGokil: 
+      AniToki: 
+      AoiTenshi: 
+      Arks: 
+      ASubs: 
+      AWSubs: 
+      Bentoo: 
+      Caramel: 
+      Cijanepoi: 
+      Conan: 
+      DAnimeSubs: 
+      Del: 
+      DNFI: 
+      Durandal: 
+      EmotPekmen: 
+      Excalibur: 
+      Gantz: 
+      Gin: 
+      Haruna: 
+      Haruzora: 
+      Hopper: 
+      HunterNoSekai: 
+      IA: 
+      Inazumaotoshi: 
+      Indis: 
+      Inform0930: 
+      Isekai: 
+      Ito: 
+      Junk: 
+      Kazefuri: 
+      Kinshiru: 
+      KO: 
+      Kopaja: 
+      LCC: 
+      MangaNekoTranslation: 
+      Meitanteibayoo: 
+      Melody: 
+      Mite: 
+      Nanairo: 
+      NgidolYuk: 
+      Neo: 
+      OPLovers: 
+      Ougi: 
+      Panagayan: 
+      Pendekar: 
+      Pucuk: 
+      Quinime: 
+      RevieXion: 
+      Samehadaku: 
+      SilverYasha: 
+      Sora: 
+      TTOD: 
+      Vedify: 
+      Warung: 
+      Wibu: 
+      Yuki: 
+      Zen: 
     }
     eng:
     {
-      Horrible: ""
+      Horrible: 
     }
   }
   fanshare:
   {
     idn:
     {
-      AniBatch: ""
-      AnimeKompi: ""
-      AnimeSAVE: ""
-      Bakacan: ""
-      Drivenime: ""
-      Hinime: ""
-      Koenime: ""
-      Kusonime: ""
-      Mikanime: ""
-      Moenime: ""
-      Ryuukoi: ""
-      WibuDesu: ""
+      AniBatch: 
+      AnimeKompi: 
+      AnimeSAVE: 
+      Bakacan: 
+      Drivenime: 
+      Hinime: 
+      Koenime: 
+      Kusonime: 
+      Mikanime: 
+      Moenime: 
+      Ryuukoi: 
+      WibuDesu: 
     }
     eng:
     {
-      AnimeKayo: ""
+      AnimeKayo: 
     }
   }
   fanstream:
   {
     idn:
     {
-      AnimeIndoNET: ""
-      anoBoy: ""
-      Gomunime: ""
-      Moeclip: ""
-      Neonime: ""
-      Onnime: ""
-      OtakuIndo: ""
+      AnimeIndoNET: 
+      anoBoy: 
+      Gomunime: 
+      Moeclip: 
+      Neonime: 
+      Onnime: 
+      OtakuIndo: 
     }
     eng:
     {
-      4anime: ""
-      9anime: ""
-      AnimeDaisuki: ""
-      AnimeTwist: ""
-      Animeflix: ""
-      AnimeHeaven: ""
-      Animelon: ""
-      Animeultima: ""
-      AnimeXD: ""
-      AniWatch: ""
-      DaiWEEB: ""
-      GogoAnime: ""
-      KissAnime: ""
-      WonderfulSubs: ""
+      4anime: 
+      9anime: 
+      AnimeDaisuki: 
+      AnimeTwist: 
+      Animeflix: 
+      AnimeHeaven: 
+      Animelon: 
+      Animeultima: 
+      AnimeXD: 
+      AniWatch: 
+      DaiWEEB: 
+      GogoAnime: 
+      KissAnime: 
+      WonderfulSubs: 
     }
   }
   library:
   {
-    Nyaa: ""
-    PerpusIndo: ""
-    Shallty: ""
+    Nyaa: 
+    PerpusIndo: 
+    Shallty: 
   }
 }
