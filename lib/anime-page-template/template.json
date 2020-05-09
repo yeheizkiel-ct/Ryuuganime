@@ -39,22 +39,54 @@
     },
     "information": {
         "synonyms": {
-            "en_Latn": "",
-            "ar_001": "",
-            "hu_HU": "",
-            "he_IL": "",
-            "id_ID": "",
-            "en_US": "",
-            "ja_JP": "",
-            "de_DE": "",
-            "ko_KR": "",
-            "fr_FR": "",
-            "pt_PT": "",
-            "ru_RU": "",
-            "es_ES": "",
-            "zh_Hans": "",
-            "zh_Hant": "",
-            "vi_VN": ""
+            "en_Latn": [
+                
+            ],
+            "ar_001": [
+                
+            ],
+            "hu_HU": [
+                
+            ],
+            "he_IL": [
+                
+            ],
+            "id_ID": [
+                
+            ],
+            "en_US": [
+                
+            ],
+            "ja_JP": [
+                
+            ],
+            "de_DE": [
+                
+            ],
+            "ko_KR": [
+                
+            ],
+            "fr_FR": [
+                
+            ],
+            "pt_PT": [
+                
+            ],
+            "ru_RU": [
+                
+            ],
+            "es_ES": [
+                
+            ],
+            "zh_Hans": [
+                
+            ],
+            "zh_Hant": [
+                
+            ],
+            "vi_VN": [
+                
+            ]
         },
         "type": {
             "en_US": "",
@@ -66,22 +98,18 @@
         },
         "serialGenre": {
             "en_US": [
-                "",
-                ""
+                
             ],
             "id_ID": [
-                "",
-                ""
+                
             ]
         },
         "serialTags": {
             "en_US": [
-                "",
-                ""
+                
             ],
             "id_ID": [
-                "",
-                ""
+                
             ]
         },
         "releaseSeason": {
@@ -94,13 +122,13 @@
         },
         "releaseYear": 0,
         "episode": 0,
-        "releaseDate": 0,
-        "endDate": 0,
+        "releaseDate": "",
+        "endDate": "",
         "duration": 0,
         "totalDuration": 0,
         "studio": "",
         "rating": "",
-        "isNsfw":false,
+        "isNsfw": false,
         "adaptation": {
             "en_US": "",
             "id_ID": ""
@@ -113,88 +141,91 @@
     "scores": {
         "aniDB": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "AniList": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "AnimePlanet": {
             "url": "",
-            "score": ""
+            "id": 0,
+            "score": 0
         },
         "ANN": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "aniSearch": {
             "url": "",
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "Annict": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "IMDb": {
             "code": "",
-            "score": ""
+            "score": 0
         },
         "KinoPoisk": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "Kitsu": {
             "slug": "",
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "LiveChart": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "MyAnimeList": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "MyShows": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "Nautiljon": {
             "url": "",
-            "score": ""
+            "score": 0
         },
         "Notify": {
             "base64": "",
-            "score": ""
+            "score": 0
         },
         "OtakOtaku": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "Shikimori": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "SIMKL": {
             "id": 0,
-            "score": ""
+            "score": 0
         },
         "TMDB": {
             "url": "",
-            "score": ""
+            "id": 0,
+            "score": 0
         },
         "Trakt": {
             "url": "",
-            "score": ""
+            "id": 0,
+            "score": 0
         },
         "TVTime": {
             "id": 0,
-            "score": ""
+            "score": 0
         }
     },
-    "updatedDate": 0,
+    "updatedDate": "",
     "fansub": {
         "idn": {
             "Aibou": "",
@@ -266,6 +297,8 @@
     "fanshare": {
         "idn": {
             "AniBatch": "",
+            "AnimeKompi": "",
+            "AnimeSAVE": "",
             "Bakacan": "",
             "Drivenime": "",
             "Hinime": "",
@@ -273,6 +306,7 @@
             "Kusonime": "",
             "Mikanime": "",
             "Moenime": "",
+            "Ryuukoi": "",
             "WibuDesu": ""
         },
         "eng": {
