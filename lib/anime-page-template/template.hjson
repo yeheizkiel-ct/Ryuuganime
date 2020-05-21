@@ -68,14 +68,6 @@
     #   (Arabic MSA).
     ar_001: 
 
-    # hu_HU [str] <nab>
-    # = Judul dalam bahasa Hungaria.
-    hu_HU: 
-
-    # he_IL [str] <nab>
-    # = Judul dalam bahasa Ibrani Israel.
-    he_IL: 
-
     # id_ID [str] <nab>
     # = Judul dalam bahasa Indonesia.
     id_ID: 
@@ -145,14 +137,6 @@
     #   (Arabic MSA).
     ar_001: ''''''
 
-    # hu_HU [str] <nab>
-    # = Sinopsis dalam bahasa Hungaria.
-    hu_HU: ''''''
-
-    # he_IL [str]
-    # = Sinopsis dalam bahasa Ibrani Israel.
-    he_IL: ''''''
-
     # id_ID [str] <nab>
     # = Sinopsis dalam bahasa Indonesia. Lihat Otak Otaku untuk sinopsis
     #   Indonesia.
@@ -220,12 +204,6 @@
 
       ]
       ar_001: [
-        
-      ]
-      hu_HU: [
-        
-      ]
-      he_IL: [
         
       ]
       id_ID: [
