@@ -27,8 +27,8 @@
 |   array terkait tidak bisa    | //    (value).
 |   diubah menjadi null.        | // Tanda petik (quotation  mark)  dalam berkas ini  juga bersifat
 |                               | //    opsional.  Gunakan tanda  petik JIKA mengandung spasi dalam
-\^-----------------------------*/ //    kata.
-/*                                // Untuk  mempermudah  pengisian,  lihat ryuuganime-db/hjson/000/
+\^-----------------------------^/ //    kata.
+/^                                // Untuk  mempermudah  pengisian,  lihat ryuuganime-db/hjson/000/
             RYUUGANIME            //    001.hjson atau selebihnya untuk contoh pengisian.
   ------------------------------  // !! Dokumen ini telah diberikan  justifikasi  (justify)  secara
   HJSON TEMPLATE VERSION: 0.2-b   //    merata  dan  terdistribusi  (distributed)  pada  teks  agar
