@@ -22,7 +22,7 @@
 |   nyak daripada satu.         | //    tapi lebih baik diikutsertakan agar mempermudah mesin dalam
 | <nab> array dapat dihilangkan | //    mengubah format HJSON ke JSON.  Hanya pada value yang memi-
 |   tanda  kurungnya, dan dija- | //    liki markah  [arr]  yang tidak memerlukan tanda koma karena
-|   dikan sebagai null.         | //    akan mengakibatkan tanda koma terbaca sebagai string.
+|   dikan sebagai null.         | //    akan mengakibatkan tanda koma terbaca sebagai string/enum.
 | <nbl> string,  numeral,  atau | // Tanda petik (quotation  mark)  dalam berkas ini  juga bersifat
 |   array  terkait  tidak  bisa | //    opsional.  Gunakan tanda  petik JIKA mengandung spasi dalam
 |   diubah menjadi null.        | //    kata.
