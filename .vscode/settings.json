@@ -54,6 +54,10 @@
             "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/kbbi3.txt"
         },
         {
+            "name": "kbbinew",
+            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/kbbi-pro.txt"
+        },
+        {
             "name": "myspell",
             "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/myspell2006.txt"
         },
@@ -83,6 +87,7 @@
         "indodict",
         "ivanlanin",
         "kbbi3",
+        "kbbinew",
         "myspell",
         "wordlist",
         "vn11",
