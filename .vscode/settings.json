@@ -38,141 +38,61 @@
     "cSpell.dictionaryDefinitions": [
         //Animanga dictionary defs
         {
-            "name": "anime-anidb",
-            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/anime/aniDb-062020.txt"
+            "name": "anime",
+            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/anime/anime-062020.rydict"
         },
         {
-            "name": "anime-anisearch",
-            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/anime/aniSearch-062020.txt"
-        },
-        {
-            "name": "charas-anidb",
+            "name": "charas",
             "path": "${workspaceFolder}/lib/database/.dictionary/animanga/charas/aniDb-062020.txt"
         },
         {
-            "name": "manga-mal",
-            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/manga/myAnimeList-062020.txt"
+            "name": "manga",
+            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/manga/manga-062020.rydict"
         },
         {
-            "name": "manga-anisearch",
-            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/manga/aniSearch-062020.txt"
+            "name": "sites",
+            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/sites/sites.rydict"
         },
         {
-            "name": "sites-ryuuganime",
-            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/sites/ryuuganime-062020.txt"
-        },
-        {
-            "name": "studios-ap",
+            "name": "studios",
             "path": "${workspaceFolder}/lib/database/.dictionary/animanga/studios/animePlanet-062020.txt"
         },
         //Arabic dictionary defs.
         {
-            "name": "arabeyes",
-            "path": "${workspaceFolder}/lib/database/.dictionary/ar_001/arabeyes.txt"
-        },
-        {
-            "name": "arwiki",
-            "path": "${workspaceFolder}/lib/database/.dictionary/ar_001/arwiki.txt"
-        },
-        {
-            "name": "arzwiki",
-            "path": "${workspaceFolder}/lib/database/.dictionary/ar_001/arzwiki.txt"
-        },
-        {
-            "name": "hans-wehr",
-            "path": "${workspaceFolder}/lib/database/.dictionary/ar_001/hans-wehr.txt"
-        },
-        {
-            "name": "quran",
-            "path": "${workspaceFolder}/lib/database/.dictionary/ar_001/quran.txt"
+            "name": "ar_001",
+            "path": "${workspaceFolder}/lib/database/.dictionary/ar_001/ar_001.rydict"
         },
         //Indonesian dictionary defs.
         {
-            "name": "crawls",
-            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/crawls.txt"
-        },
-        {
-            "name": "indodict",
-            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/indodict2008.txt"
-        },
-        {
-            "name": "ivanlanin",
-            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/ivanlanin2011.txt"
-        },
-        {
-            "name": "kbbi3",
-            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/kbbi3.txt"
-        },
-        {
-            "name": "kbbinew",
-            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/kbbi-pro.txt"
-        },
-        {
-            "name": "myspell",
-            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/myspell2006.txt"
-        },
-        {
-            "name": "wordlist",
-            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/worldlist.txt"
+            "name": "id_ID",
+            "path": "${workspaceFolder}/lib/database/.dictionary/id_ID/id_ID.rydict"
         },
         //Japanese dictionary defs.
         {
-            "name": "15000",
-            "path": "${workspaceFolder}/lib/database/.dictionary/ja_JP/15000-japanese-words.txt"
-        },
-        {
-            "name": "44998",
-            "path": "${workspaceFolder}/lib/database/.dictionary/ja_JP/44998-japanese-words.txt"
+            "name": "ja_JP",
+            "path": "${workspaceFolder}/lib/database/.dictionary/ja_JP/ja_JP.rydict"
         },
         //Vietnamese dictionary defs.
         {
             "name": "vn11",
-            "path": "${workspaceFolder}/lib/database/.dictionary/vn_VN/Viet11K.txt"
-        },
-        {
-            "name": "vn22",
-            "path": "${workspaceFolder}/lib/database/.dictionary/vn_VN/Viet22K.txt"
-        },
-        {
-            "name": "vn39",
-            "path": "${workspaceFolder}/lib/database/.dictionary/vn_VN/Viet39K.txt"
-        },
-        {
-            "name": "vn74",
-            "path": "${workspaceFolder}/lib/database/.dictionary/vn_VN/Viet74K.txt"
-        },
+            "path": "${workspaceFolder}/lib/database/.dictionary/vn_VN/vn_VN.rydict"
+        }
     ],
     "cSpell.dictionaries": [
         //Calls Animanga dictionaries
-        "anime-anidb",
-        "anime-anisearch",
-        "charas-anidb",
-        "manga-anisearch",
-        "manga-mal",
-        "sites-ryuuganime",
-        "studios-ap",
+        "anime",
+        "charas",
+        "manga",
+        "sites",
+        "studios",
         //Calls Arabic dictionaries
-        "arabeyes",
-        "arwiki",
-        "arzwiki",
-        "hans-wehr",
-        "quran",
+        "ar_001",
         //Calls Indonesian dictionaries
-        "crawls",
-        "indodict",
-        "ivanlanin",
-        "kbbi3",
-        "myspell",
-        "wordlist",
-        "kbbinew",
+        "id_ID",
         //Calls Japanese dictionaries
-        "15000",
-        "44998",
+        "ja_JP",
         //Calls Vietnamese dictionaries
-        "vn11",
-        "vn22",
-        "vn39",
-        "vn74"
+        "vn_VN",
     ],
     //Calls dictionaries from various languages
     "cSpell.language": "en,en-US,fr,fr-FR,de,de-DE,en-GB,pt,pt-PT,pt-BR,ru,es,es-ES"
