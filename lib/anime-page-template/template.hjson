@@ -30,7 +30,7 @@
 \^-----------------------------^/ //    .hjson atau selebihnya untuk contoh pengisian.
 /^          RYUUGANIME            // !! Dokumen ini telah diberikan  justifikasi  (justify)  secara
     HJSON ANIME ENTRY TEMPLATE    //    merata dan terdistribusi  (distributed) pada teks agar mem-
-          VERSION: 0.3-b       */ //    permudah dalam membaca dokumentasi yang tertera.
+          VERSION: 0.4-b       */ //    permudah dalam membaca dokumentasi yang tertera.
 { 
   # title [obj]
   # Merupakan judul suatu serial.
@@ -741,7 +741,6 @@
   {
     Nyaa: 
     PerpusIndo: 
-    Shallty: 
   }
 
   # signature
