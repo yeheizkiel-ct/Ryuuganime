@@ -11,6 +11,12 @@
                 "/lib/database/list.json"
             ],
             "url": "/lib/database/schema.list.json"
+        },
+        {
+            "fileMatch": [
+                "/lib/database/required/lang/*.json"
+            ],
+            "url": "/lib/database/required/lang/.schema.json"
         }
     ],
     "cSpell.words": [
@@ -43,7 +49,7 @@
         },
         {
             "name": "charas",
-            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/charas/aniDb-062020.txt"
+            "path": "${workspaceFolder}/lib/database/.dictionary/animanga/charas/charas-062020.rydict"
         },
         {
             "name": "manga",
@@ -95,5 +101,6 @@
         "vn_VN",
     ],
     //Calls dictionaries from various languages
-    "cSpell.language": "en,en-US,fr,fr-FR,de,de-DE,en-GB,pt,pt-PT,pt-BR,ru,es,es-ES"
+    "cSpell.language": "en,en-US,fr,fr-FR,de,de-DE,en-GB,pt,pt-PT,pt-BR,ru,es,es-ES",
+    "discord.workspaceElapsedTime": true
 }
