@@ -1,9 +1,0 @@
-# Background Sources
-NOTICE:<br />
-> Ryuuganime menggunakan *backdrop*/*background* anime dalam rancangan menu indeks. Pihak Ryuuganime tidak berhak untuk menuntut hak cipta pada *backdrop* yang digunakan dalam perancangan menu. Seluruh hak cipta dipegang oleh masing-masing pencipta. Ryuuganime melampirkan nama pencipta karya dan tautan sumber yang digunakan pada saat pembuatan rancangan.
-
-* **Film**: | <br /> Oleh: <br />*Backdrop* oleh: <br />*Vector Icon* oleh: 
-* **ONA**: Himouto! Umaru-chan | 干物妹！うまるちゃん<br /> Oleh: <br />*Backdrop* oleh: <br />*Vector Icon* oleh: 
-* **OVA**: | <br /> Oleh: <br />*Backdrop* oleh: <br />*Vector Icon* oleh: 
-* **Special**: | <br /> Oleh: <br />*Backdrop* oleh: <br />*Vector Icon* oleh: 
-* **TV**: | <br /> Oleh: <br />*Backdrop* oleh: <br />*Vector Icon* oleh: 

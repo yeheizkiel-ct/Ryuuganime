@@ -1,0 +1,34 @@
+= Daftar Penggunaan Aset dan Teknologi =
+== Fon ==
+* [https://fonts.google.com/specimen/Poppins '''Poppins'''] oleh [http://www.indiantypefoundry.com/ Indian Type Foundry] di bawah lisensi [https://scripts.sil.org/OFL_web OFL].
+* [https://fontmeme.com/fonts/maven-pro-font/ '''Maven Pro'''] oleh [https://dribbble.com/joeprince Joe Prince] di bawah lisensi: Publik, [https://www.gnu.org/licenses/gpl-3.0.en.html GPL], dan [http://opencontent.org/openpub/ OPL].
+* [http://www.ndiscovered.com/ '''Exo 2'''] oleh [http://www.ndiscovered.com/ Natanael Gama] di bawah lisensi [https://scripts.sil.org/OFL_web OFL].
+* [https://fontbundles.net/subectype/274413-single-fighter '''Single Fighter'''] oleh [https://fontbundles.net/subectype Subectype &amp; Orenari] di bawah lisensi Personal.
+* [https://www.dafont.com/arabica-export.font '''Arabica Export'''] oleh [http://www.imagex-fonts.com/ imagex]. Legal Notice: [http://www.imagex-fonts.com/legal-notice.php disini]
+* [https://www.fontsquirrel.com/fonts/heebo '''Heebo'''] oleh [https://www.hebrewtypography.com/ Oded Ezer] di bawah lisensi [https://scripts.sil.org/OFL_web OFL].
+* [https://www.fontsquirrel.com/fonts/merriweather '''Merriweather'''] oleh [http://www.sorkintype.com/ Sorkin Type Co] di bawah lisensi [https://scripts.sil.org/OFL_web OFL].
+* [https://www.fontsquirrel.com/fonts/domine '''Domine'''] oleh [http://www.impallari.com/ Impallari Type] di bawah lisensi [https://scripts.sil.org/OFL_web OFL].
+
+<blockquote>Beberapa fon digunakan dalam website anime yang tidak memiliki logo resmi di situsnya. Fon yang tertera juga tidak akan digunakan untuk kepentingan komersial apabila dalam lisensi yang digunakan tidak diperkenankan untuk menggunakan sebagai bahan komersial pada tipografi tersebut.
+</blockquote>
+
+== Database Indeks Situs ==
+* [https://github.com/manami-project/anime-offline-database '''anime-offline-database'''] oleh [https://github.com/manami-project manami-project] dibawah lisensi [https://github.com/manami-project/anime-offline-database/blob/master/LICENSE AGPL-3.0].
+* [https://docs.google.com/spreadsheets/d/1j30Cvc5Y7y0wij2qjmUpD9DmaPH6a4vjLDK54Nj9S-w/edit?fbclid=IwAR0iZYej2s6FRheY1g4DxIpfH_RqzUqRzbmYHxvcVHRKk64ZEoLlje8Jr6A#gid=281368768 '''Indonesian Fansubs Database Mk. II'''] oleh [https://facebook.com/fahmiyamura Fsy], [https://facebook.com/yuwdhie7 d'7], dan ExRazor.
+
+== Aplikasi/Layanan yang Digunakan Untuk Proyek/Situs Ini ==
+* [https://microsoft.com '''Microsoft''']'''®''' [https://products.office.com/en/explore-office-for-home '''Office 365''']'''® PowerPoint''' : Desain Vektor.
+* [https://microsoft.com '''Microsoft''']'''®''' [https://products.office.com/en/explore-office-for-home '''Office 365''']'''® Publisher''' : Desain Logo, Vektor, Icon, Sampul untuk [https://en.wikipedia.org/wiki/Social_networking_service SNS] (Facebook, GitHub, dst).
+* [https://microsoft.com '''Microsoft''']'''®''' [https://products.office.com/en/explore-office-for-home '''Office 365''']'''® OneDrive''' : Pencadangan ''database'' situs.
+* [https://microsoft.com '''Microsoft''']'''®''' [https://code.visualstudio.com '''Visual Studio Code''']: Penyuntingan ''code'' dan markdown.
+* [https://github.com '''GitHub'''] : Repositori desain dan ''database'' situs.
+* [https://ezgif.com '''EZGif'''] : ''Converter'' ekstensi WebP ke JPEG/PNG.
+* [https://www.getpaint.net/ '''Paint.NET'''] '''4.1.6''' : Penyuntingan Gambar/Vektor.
+* [https://inkscape.org/ '''Inkscape'''] '''0.92.3''' : Penyuntingan Vektor SVG.
+* [https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=nattadasu '''GitBook'''] : Penyedia layanan Wiki dalam teknologi Git.
+* [https://idcloudhost.com/ '''IDCloudHost'''] : Penyedia Domain.
+* [https://sourcerer.io/ '''Sourcerer'''] : Penampil statika kontribusi.
+* [https://shields.io/ '''Shield.io'''] : Penampil lencana pada [[README.md|README.md]].
+
+<blockquote>Daftar ini masih dalam tahap pengembangan seiring perkembangan situs.
+</blockquote>

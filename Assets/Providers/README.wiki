@@ -1,0 +1,217 @@
+﻿= Daftar Sumber Situs untuk Database Anime =
+
+== DISCLAIMER ==
+
+  <i>Ngomong-ngomong</i>, ini database listnya <i>udah out-to-date yha</i>. Akan ada pembaruan selanjutnya dengan menggunakan markah MD saja, tidak menggunakan markah HTML supaya mempermudah dalam mengisi entri lainnya.
+
+== Petunjuk ==
+
+{|
+! Simbol/Emoji
+! Keterangan
+! Penggunaan
+|-
+| 🇺🇸
+| Situs/konten dalam bahasa Inggris (US/UK)
+| Semua Jenis
+|-
+| 🇯🇵
+| Situs/konten dalam bahasa Jepang
+| Semua Jenis
+|-
+| 🇮🇩
+| Situs/konten dalam bahasa Indonesia
+| Semua Jenis
+|-
+| 📦
+| Batch
+| Fanshare
+|-
+| 🎞
+| Per Episod
+| Fanshare
+|}
+
+=== Fansub, Fanshare, Fanstream, dan Library ===
+
+{|
+! No.
+! Fansub
+! Fanshare
+! Fanstream
+! ''Library''
+|-
+| 1
+| [https://www.aizukara.web.id Aizukara] 🇮🇩
+| [https://www.anibatch.me AniBatch] 🇮🇩 📦
+| [https://9anime.to 9ANIME] 🇺🇸
+| [https://nyaa.si Nyaa] 🇺🇸 🇯🇵 🇮🇩
+|-
+| 2
+| [https://www.altersubs.net Altersubs] 🇮🇩
+| [https://bakacan.id Bakacan] 🇮🇩 🎞 📦
+| [https://animecracks.com Anime Cracks] 🇮🇩
+| [https://www.perpusindo.info PerpusIndo] 🇮🇩 🇯🇵
+|-
+| 3
+| [https://animegokilz.blogspot.com/ Anime Gokil] 🇮🇩
+| [https://drivenime.com Drivenime] 🇮🇩 📦
+| [https://animehade.id/ Anime HADE] 🇮🇩
+|
+|-
+| 4
+| [https://anitoki.com AniToki] 🇮🇩
+| [https://hinime.com Hinime] 🇮🇩 🎞 📦
+| [https://twist.moe Twist.moe] 🇺🇸
+|
+|-
+| 5
+| [http://aoitenshi.us AoiTenshi] 🇮🇩
+| [https://koenime.com Koenime] 🇮🇩 📦
+| [https://animeheaven.es AnimeHeaven] 🇺🇸
+|
+|-
+| 6
+| [https://asubs-fansub.com ASubs] 🇮🇩
+| [https://kusonime.com Kusonime] 🇮🇩 📦
+| [https://animeindo.net AnimeIndo] 🇮🇩
+|
+|-
+| 7
+| [https://awsubstv.com AWSubs] 🇮🇩
+| [https://www.lolibatch.com Lolibatch] 🇮🇩 📦
+| [https://animelon.com Animelon] 🇺🇸 🇯🇵
+|
+|-
+| 8
+| [https://caramel.fansub.id Caramel] 🇮🇩
+| <s>[https://meguminime.com Meguminime]🇮🇩 🎞 📦</s>
+| [https://animexd.me Anime XD] 🇺🇸
+|
+|-
+| 9
+| [https://conan.id Conan-ID] 🇮🇩
+| [https://mikanime.com Mikanime] 🇮🇩 🎞 📦
+| [https://anoboy.us anoBoy] 🇮🇩
+|
+|-
+| 10
+| [https://danimesub.wordpress.com D-AnimeSub] 🇮🇩
+| [https://moenime.com Moenime] 🇮🇩 🎞 📦
+| [https://www.daiweeb.org DaiWEEB] 🇺🇸 🇯🇵
+|
+|-
+| 11
+| [https://delsubs.wordpress.com Delsubs] 🇮🇩
+| [https://wibudesu.com Wibudesu!] 🇮🇩 📦
+| [http://gogoanime.tv GogoAnime] 🇺🇸
+|
+|-
+| 12
+| [https://durandalsubs.wordpress.com Durandalsubs] 🇮🇩
+|
+| <s>[https://indoxx1.center/anime IndoXXI]🇮🇩</s>
+|
+|-
+| 13
+| [https://ginsub.xyz Ginsub] 🇮🇩
+|
+| [http://kissanime.ru KissAnime] 🇺🇸
+|
+|-
+| 14
+| [http://haruzorasubs.net Haruzora] 🇮🇩
+|
+| [https://moeclip.com Moeclip] 🇮🇩
+|
+|-
+| 15
+| [https://horriblesubs.info HorribleSubs] 🇺🇸
+|
+| [https://neonime.net Neonime] 🇮🇩
+|
+|-
+| 16
+| [http://www.huntersekai.website HunterNoSekai] 🇮🇩
+|
+| [https://nontonanime.site Nonton Anime] 🇮🇩
+|
+|-
+| 17
+| [https://www.iasubs.com IASubs] 🇮🇩
+|
+| <s>[https://otakustream.tv Otaku STREAM]</s>
+|
+|-
+| 18
+| [https://inazumaotoshifansub.blogspot.com Inazumaotoshi] 🇮🇩
+|
+| [https://riie.net RiiE] 🇮🇩
+|
+|-
+| 19
+| [https://itosubs.com Itosubs] 🇮🇩
+|
+| [https://ruangotaku.id RuangOtaku] 🇮🇩
+|
+|-
+| 20
+| [http://www.kazefuri.web.id Kazefuri] 🇮🇩
+|
+|
+|
+|-
+| 21
+| [http://blog.kopajasubs.info/ Kopajasubs] 🇮🇩
+|
+|
+|
+|-
+| 22
+| [http://www.loliclubscorp.com Loli Clubs Corp] 🇮🇩
+|
+|
+|
+|-
+| 23
+| [https://oploverz.in OPLoverz] 🇮🇩
+|
+|
+|
+|-
+| 24
+| [https://pendekarsubs.us PendekarSubs] 🇮🇩
+|
+|
+|
+|-
+| 25
+| [https://quinimefansub.com Quinime] 🇮🇩
+|
+|
+|
+|-
+| 26
+| [https://samehadaku.tv Samehadaku] 🇮🇩
+|
+|
+|
+|-
+| 27
+| [https://yukisubs.com Yuki Fansub] 🇮🇩
+|
+|
+|
+|-
+| 28
+| [https://zensub.xyz Zensub] 🇮🇩
+|
+|
+|
+|-
+| 29
+| [https://cijanepoi.blogspot.com/ CijaNepoi] 🇮🇩
+|
+|
+|
+|}

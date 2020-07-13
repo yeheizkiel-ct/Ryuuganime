@@ -1,0 +1,23 @@
+= Cara Menggunakan Berkas Ekspor Data Ekstensi SIMKL Search =
+
+== Sebelum Menggunakan ==
+
+  Pastikan Anda telah memasang ekstensi SIMKL Search di peramban Chrome atau berbasis Chromium (Opera, Brave, UC Browser, Microsoft Edge Insider, dst). Apabila belum, Anda dapat mengunduh di [https://chrome.google.com/webstore/detail/simkl-search-select-and-s/mdofghopgfobjkgepojjmcfljnocaaff?hl=en sini].
+
+  ''NB: Untuk sementara, gunakan Google Chrome ataupun peramban lainnya yang berbasis Chromium.''
+
+== Mengimpor Berkas Ekspor ke dalam Ekstensi ==
+
+<ol>
+<li>Buka opsi ekstensi. Anda dapat mengaksesnya di
+<ol>
+<li>Klik kanan pada logo SIMKL Search di Menu (sebelah ''Address Bar'')</li>
+<li>Buka <code>chrome://extensions</code> (atau dapat diakses di <code>Menu</code> &gt; <code>More Tools</code> &gt; <code>Extensions</code>), pilih <code>Detail</code> di ekstensi SIMKL Search, dan lalu tekan <code>Extension Options</code>.</li></ol>
+</li>
+<li>Kemudian, buka menu <code>Import/Export Config</code> di menu sebelah kiri peramban.</li>
+<li>Isilah dalam kotak teks dengan isi yang terdapat dalam berkas [[Exported.json|Exported.json]]</li>
+<li>Setelah mengisi, tekan <code>Import</code>. Akan muncul pesan konfirmasi, lalu tekan <code>YES</code> yang terletak di sebelah kanan.</li>
+<li>Apabila Anda dialihkan ke halaman utama dari opsi ekstensi dan muncul pesan sebagai berikut, maka proses impor telah berhasil
+<pre class="md">Import successfull. Before reloading this page, check your Search Engines list to make sure everything goes well. If it's empty, then hit the *undo last import* button.```
+</pre></li>
+<li>Untuk menggunakan ekstensi, cukup dengan memilih kata yang akan dicari, kemudian klik kanan.</li></ol>
