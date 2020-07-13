@@ -52,7 +52,7 @@ __TOC__
 * '''DASH:''' <code>7a2WRBe3epDTadRKYpQtPjAdaW2HNMseqr</code>  
 * '''Ripple:''' <code>rJc5d48m2pDdfurDaemUZT2J18RPcbtPGF</code> tag:<code>195482</code>
 
-== Cellular Balance ==
+== Pulsa seluler ==
 * '''by.U (Telkomsel):''' (+62) 85155315151  
 
 == Catatan ==
