@@ -2,8 +2,6 @@
 Dengan berdonasi, kamu telah membantu tim Ryuuganime semakin bersemangat untuk membuat Ryuuganime menjadi lebih baik, ''lho''!
 Kami menerima berbagai macam jenis pembayaran, dalam bentuk mata uang apapun itu.
 
-__NOTOC__
-
 {|
 |+ Daftar mata uang yang dapat diterima
 ! Mata uang
@@ -21,6 +19,8 @@ __NOTOC__
 
 :Catatan
 ::Semua nama penerima di sini adalah "Sultan Iskandar Maulana"
+
+__TOC__
 
 == Situs khusus donasi ==
 * '''donate.stream''': https://donate.stream/en/ryuuganime
