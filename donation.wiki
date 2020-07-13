@@ -1,0 +1,60 @@
+= Donasi =
+Dengan berdonasi, kamu telah membantu tim Ryuuganime semakin bersemangat untuk membuat Ryuuganime menjadi lebih baik, ''lho''!
+Kami menerima berbagai macam jenis pembayaran, dalam bentuk mata uang apapun itu.
+
+{|
+|+ Daftar mata uang yang dapat diterima
+! Mata uang
+! Layanan yang menerima
+|-
+|IDR
+|Trakteer, DANA, DOKU, Gopay, i.saku, LinkAja, OVO, Sakuku, Triv, BRI, BTPN
+|-
+|USD, EUR, JPY*
+|donate.stream, Ko-Fi, LiberePay, PayPal
+|-
+|RUB
+|donate.stream, PayPal, Yandex.Money
+|}
+
+:Catatan
+::Semua nama penerima di sini adalah "Sultan Iskandar Maulana"
+
+__TOC__
+
+== Situs khusus donasi ==
+* '''donate.stream''': https://donate.stream/en/ryuuganime
+* '''Ko-Fi:''' https://ko-fi.com/nattadasu
+* '''LiberePay:''' https://liberapay.com/nattadasu
+* '''Trakteer:''' https://trakteer.id/nattadasu
+
+== Dompet digital ==
+* '''DANA:''' 085155315151
+* '''DOKU:''' 1674820339
+* '''GO-PAY:''' 085155315151
+* '''i.saku/Indomaret:''' 085155315151
+* '''LinkAja:''' 085155315151
+* '''OVO:''' 085155315151
+* '''Sakuku:''' 085155315151
+* '''Triv:''' 085155315151
+* '''PayPal:''' https://paypal.me/nattadasu
+* '''Yandex.Money:''' https://money.yandex.ru/to/4100115392446184
+
+== Akun bank ==
+* '''Bank BRI:''' (002) 3927 01 008739 53 3
+* '''Bank BTPN (Jenius):''' $nattadasu ''atau'' (213) 90014516210
+
+== Kriptokurensi ==
+* '''Bitcoin:''' <code>33aBQqbMiuk53nKpZDC2dFBWKMwrbPNWcf</code>  
+* '''Ethereum:''' <code>0x58d6f6c0b36ed033140801886d65a22899279110</code>  
+* '''Litecoin:''' <code>MUGoxUc6PPUwMimNeM6RxPqb2uSPx9WgwS</code>  
+* '''Basic Auth. Token (BAT):''' <code>0x3E98817d5B4BB88C067b91Ae6Ebd6Bbf81d0D4BF</code>  
+* '''DASH:''' <code>7a2WRBe3epDTadRKYpQtPjAdaW2HNMseqr</code>  
+* '''Ripple:''' <code>rJc5d48m2pDdfurDaemUZT2J18RPcbtPGF</code> tag:<code>195482</code>
+
+== Pulsa seluler ==
+* '''by.U (Telkomsel):''' (+62) 85155315151  
+
+== Catatan ==
+# Untuk donasi melalui rekening bank, silakan hubungi dahulu. Alternatifnya, kamu dapat memberikan donasi melalui virtual wallet dari bank yang kamu miliki (tanyalah ke Google untuk cara kirimnya).
+# Jika bisa, tolong untuk melampirkan catatan saat proses transfer <code>Donasi Ryuuganime</code> disertai Username (Discord, jika punya) agar mempermudah pendataan.

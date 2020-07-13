@@ -1,0 +1,72 @@
+= Ryuuganime =
+Portal pangkalan data (''database'') dan indeks animasi berbahasa Indonesia.
+
+<a href="https://github.com/ryuuganime/Ryuuganime/releases" title="Lihat rilisan terakhir versi repositori"><img src="https://img.shields.io/github/v/tag/ryuuganime/Ryuuganime?logo=github&style=flat-square" /> </a> <a href="https://github.com/ryuuganime/Ryuuganime/fork" title="Lakukan pengarpuan repositori ini"><img src="https://img.shields.io/github/forks/ryuuganime/Ryuuganime?color=silver&logo=github&style=flat-square" /></a> <a href="https://discord.gg/nWHwkuT" title="Peladen Resmi Ryuuganime di Discord"><img src="https://img.shields.io/discord/594442535615725579.svg?color=7289DA&label=Chat&logo=discord&style=flat-square" /></a> <a href="https://www.facebook.com/ryuuganime" title="Sukai laman resmi Ryuuganime di Facebook"><img src="https://img.shields.io/badge/Facebook-Like-1877F2?style=flat-square&logo=facebook&logoColor=silver" /></a>
+
+__TOC__
+
+== Mengenai Ryuuganime ==
+Ryuuganime merupakan situs portal pangkalan data (''database'') dan indeks animasi dari berbagai negara dalam bahasa Indonesia dan Inggris Amerika (akan datang), juga bertindak sebagai situs ''jump-to'' atau pengalihan ke situs penyedia takarir/''subtitle'' (''fansub''),  siaran daring/''streaming'' (''fanstream''), dan situs berbagi (''fanshare'') oleh penggemar untuk penggemar.
+
+Ryuuganime juga dilengkapi dengan beberapa fitur andalannya, yaitu:
+* Ryuuganime menggunakan dan akan selalu tetap menggunakan prinsip kode sumber terbuka dan bebas (FOSS) di bawah lisensi [[LICENSE|''Boost Software License'']].
+* Penilaian/''rating'' tayangan dari 20 situs penyedia ''tracking'' dan ''review'' yang terkenal. Informasi lebih lanjut dapat dilihat di [https://wiki.ryuuganime.my.id/informasi-sumber/situs-tracking-yang-digunakan sini].
+* Menggunakan sistem penggolongan umur (''rating'') yang lebih jelas dan konsisten dibandingkan situs lainnya.
+* Sumber data informasi tayangan yang terbuka, sehingga siapapun dapat memodifikasi hingga menggunakannya. Menggunakan format berkas ''Human Javascript Object Notation'' (HJSON) untuk input entri mula, ''Javascript Object Notation'' (JSON), ''eXtensible Markup Language'' (XML) dan ''YAML Ain't Markup Language'' (YAML/YML) untuk memudahkan mesin dalam membaca isi informasi.
+* Dukungan (dan masih dalam pengembangan <del>yang aslinya berasal dari ide ''nyeleneh'' sang penemu</del>) internasionalisasi dan lokalisasi asing.
+
+Ryuuganime juga menyediakan dokumentasi dan wiki untuk informasi lebih lanjut mengenai Ryuuganime itu sendiri beserta informasi lainnya yang mungkin berguna di https://wiki.ryuuganime.my.id.
+
+== Sejarah pembentukan Ryuuganime ==
+
+Ryuuganime dibentuk pada 27 Juni 2019, lebih tepatnya pada pukul 22.04 WIB dikarenakan salah satu situs berbagi yang terkenal di Indonesia ditutup secara resmi [https://www.facebook.com/story.php?story_fbid=771156279946124&id=248649265530164 pada pukul 15.34 WIB di hari yang sama] sekaligus merupakan hasil ide dari penemu, [https://github.com/nattadasu Natsu Tadama] sejak 3 bulan yang lalu sebelum ide ini dapat dieksekusi.
+
+== Tim pengelola Ryuuganime ==
+
+Ryuuganime saat ini dikelola oleh lima orang:
+{|
+! Nama
+! Peran Utama
+|-
+|[https://github.com/nattadasu Natsu Tadama]
+|Penemu dan ketua tim Ryuuganime
+|-
+|[https://github.com/YamashitaKazuhito Kazuhito Yamashita]
+|Wakil ketua tim Ryuuganime
+|-
+|[https://github.com/yeheizkiel Yeheizkiel Gabriel]
+|Pengelola skrip, pengelola situs dan pangkalan data
+|-
+|[https://github.com/Yae-chan Yae]
+|Pengelola pangkalan data
+|-
+|[https://github.com/Hatta56 Hatta]
+|Pengelola pangkalan data
+|}
+
+:Untuk informasi lebih lanjut mengenai tim dan kontributor, dapat dilihat di berkas [[CONTRIBUTORS.wiki]]
+
+== Lisensi ==
+
+Ryuuganime menggunakan berbagai lisensi untuk repositori utama beserta ''sub-module'' resmi yang digunakannya. Secara singkat, kami menggunakan:
+* [[LICENSE|Lisensi Perangkat Lunak Boost versi 1]] untuk repositori utama (<code>ryuuganime/Ryuuganime</code>)
+* [https://github.com/ryuuganime/ryuuganime-db/blob/master/LICENSE Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional (CC BY-SA 4.0)] untuk repositori pangkalan data (<code>ryuuganime/ryuuganime-db</code>) beserta situs utama (https://ryuuganime.my.id) Ryuuganime.
+* [https://github.com/ryuuganime/ryuuganime-doc/blob/master/LICENSE Creative Commons Atribusi 4.0 Internasional (CC BY 4.0)] untuk repositori wiki dan dokumentasi resmi Ryuuganime.
+
+Terjemahan ke bahasa Indonesia dari masing-masing lisensi yang kami gunakan dapat dibaca pada [https://wiki.ryuuganime.my.id/sk-kebijakan/lisensi laman berikut].
+
+== Alasan Ryuuganime menggunakan GitHub untuk repositori ==
+Jika diperhatikan lebih teliti, Ryuuganime memiliki tidak sebatas ''icon'' pintasan situs saja, tetapi juga memiliki elemen lainnya (seperti ''template'' dll) yang tidak memungkinkan kalau data tersebut disimpan di Google Drive, Microsoft OneDrive, maupun layanan ''cloud storage'' lainnya.
+
+Kami juga berharap dengan adanya repositori di GitHub dapat memudahkan kontributor untuk memberikan kontribusinya dalam ''coding template'', ''scripting'', desain grafis, dll.
+
+== Berkontribusi ke Ryuuganime ==
+Untuk sementara dokumentasi untuk tata cara berkontribusi sedang dalam pengembangan. Tetapi, kamu dapat menghubungi tim Ryuuganime melalui peladen resmi Ryuuganime di Discord terkait kontribusi.
+
+Kamu juga dapat memberikan donasi seikhlas kamu untuk pengembangan Ryuuganime di masa yang akan datang. Kami menerima donasi dalam bentuk uang tunai maupun uang kripto. Info dapat dilihat di [[donation.wiki]].
+
+== Kontributor ==
+
+Grafik ini bersifat langsung menggunakan layanan dari [https://soucerer.io Soucerer.io]
+
+<a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/0"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/0" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/1"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/1" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/2"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/2" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/3"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/3" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/4"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/4" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/5"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/5" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/6"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/6" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/7"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/7" /></a>

@@ -1,0 +1,63 @@
+= Daftar RSS yang ''Di-track'' di ''Discord'' =
+
+__TOC__
+
+== Blog ==
+
+* [https://ryuuganime.blogspot.com/feeds/posts/default?alt=rss https://ryuuganime.blogspot.com/feeds/posts/default?alt=rss]
+* [http://ryuuganime.disqus.com/latest.rss http://ryuuganime.disqus.com/latest.rss]
+
+== Airing ==
+
+* [https://www.livechart.me/feeds/episodes https://www.livechart.me/feeds/episodes]
+
+== Official ==
+
+* [https://feeds.feedburner.com/crunchyroll/rss/anime https://feeds.feedburner.com/crunchyroll/rss/anime]
+
+== Fansubs ==
+
+* [https://awsubstv.com/feed/ https://awsubstv.com/feed/]
+* [https://anitoki.com/?feed=rss2 https://anitoki.com/?feed=rss2]
+* [https://danimesub.wordpress.com/feed/ https://danimesub.wordpress.com/feed/]
+* [https://www.kazefuri.web.id/feeds/posts/default https://www.kazefuri.web.id/feeds/posts/default]
+* [https://yukisubs.com/feed/ https://yukisubs.com/feed/]
+* [https://quinimefansub.com/feed/ https://quinimefansub.com/feed/]
+* [https://zensubs.xyz/feed/ https://zensubs.xyz/feed/]
+* [https://www.huntersekai.website/feeds/posts/default?alt=rss https://www.huntersekai.website/feeds/posts/default?alt=rss]
+* [https://www.samehadaku.tv/feed https://www.samehadaku.tv/feed]
+* [https://pendekarsubs.us/feed/ https://pendekarsubs.us/feed/]
+
+== Fanshare ==
+
+* [https://drivenime.com/feed/ https://drivenime.com/feed/]
+* [https://kusonime.com/feed/ https://kusonime.com/feed/]
+* [https://moenime.id/feed/ https://moenime.id/feed/]
+
+== Fantranslation ==
+
+* [https://mangadex.org/rss/QKdWNwHft5Baeqp6E4nvkbVR7AXZ8xsG/group_id/7774 https://mangadex.org/rss/QKdWNwHft5Baeqp6E4nvkbVR7AXZ8xsG/group_id/7774]
+
+== Berita ==
+
+=== Inggris ===
+
+* [https://www.animenewsnetwork.com/interest/rss.xml?ann-edition=sea https://www.animenewsnetwork.com/interest/rss.xml?ann-edition=sea]
+* [https://www.animenewsnetwork.com/news/rss.xml?ann-edition=sea https://www.animenewsnetwork.com/news/rss.xml?ann-edition=sea]
+* [https://www.animenewsnetwork.com/press-release/rss.xml?ann-edition=sea https://www.animenewsnetwork.com/press-release/rss.xml?ann-edition=sea]
+* [https://myanimelist.net/rss/news.xml https://myanimelist.net/rss/news.xml]
+* [http://feeds.feedburner.com/crunchyroll/animenews http://feeds.feedburner.com/crunchyroll/animenews]
+* [https://honeysanime.com//feed https://honeysanime.com//feed]
+
+=== Indonesia ===
+
+* [https://kaorinusantara.or.id/feed https://kaorinusantara.or.id/feed]
+* [http://jurnalotaku.com/feed/ http://jurnalotaku.com/feed/]
+* [https://japanesestation.com/feed https://japanesestation.com/feed]
+* [https://www.akibanation.com/feed/ https://www.akibanation.com/feed/]
+
+== Pemantau Rilisan ==
+
+* [http://anidb.net/feeds/files.atom http://anidb.net/feeds/files.atom]
+
+Total Pantauan RSS: 29 Tautan

@@ -1,0 +1,230 @@
+= Daftar RSS =
+Untuk daftar lengkap berdasarkan tautan: [[RSS.wiki|di sini]].<br> Pastikan pula kamu telah [https://discord.gg/nWHwkuT bergabung ke server Discord kami].<br> Sering dengar atau baca tentang RSS tetapi tidak tahu maksudnya itu? Kunjungi website [https://rss.com/what-is-rss/ RSS] untuk informasi lebih lanjut.
+
+__TOC__
+
+== Pantauan Blog ==
+
+{|
+! Tautan
+! Channel
+! Bot
+|-
+| [https://ryuuganime.blogspot.com Website]
+| [https://discordapp.com/channels/594442535615725579/594696982594060301 #ryuuganime]
+| [https://discordrss.xyz Discord.RSS]
+|-
+| [https://ryuuganime.disqus.com Disqus]
+| [https://discordapp.com/channels/594442535615725579/604340156475899944 #disqus]
+| [https://top.gg/bot/305398845389406209 Mops]
+|}
+
+== Pantauan Airing ==
+
+{|
+! Tautan
+! Channel
+! Bot
+|-
+| [https://livechart.me LiveChart]
+| [https://discordapp.com/channels/594442535615725579/599305178381811719 #airing-anime]
+| [https://discordrss.xyz Discord.RSS]
+|}
+
+== Pantauan Official ==
+
+{|
+! Tautan
+! Channel
+! Bot
+! Bahasa
+|-
+| [https://crunchyroll.com Crunchyroll]
+| [https://discordapp.com/channels/594442535615725579/599548511209390100 #rilisan-simulcast]
+| [https://discordrss.xyz Discord.RSS]
+| <span class="emoji" data-emoji="us">🇺🇸</span> Inggris
+|}
+
+== Pantauan Fansubs ==
+
+{|
+! Tautan
+! Channel
+! Bot
+! Bahasa
+|-
+| [https://anitoki.com AniToki]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://awsubstv.com AWSubs]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://danimesub.wordpress.com [[File:https://www.google.com/s2/favicons?domain=danimesub.wordpress.com|D-AnimeSub]] D-AnimeSub]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://www.huntersekai.website HunterNoSekai]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://www.kazefuri.web.id Kazefuri]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://pendekarsubs.us PendekarSubs]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://discordrss.xyz Discord.RSS]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://quinimefansub.com Quinime]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://samehadaku.tv Samehadaku]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://discordrss.xyz Discord.RSS]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://yukisubs.com YukiSubs]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://zensubs.xyz ZenSubs]
+| [https://discordapp.com/channels/594442535615725579/599547510536536084 #rilisan-fansub]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|}
+
+== Pantauan Fanshare dan Fanstream ==
+
+{|
+! Tautan
+! Channel
+! Bot
+! Bahasa
+|-
+| [https://drivenime.com Drivenime]
+| [https://discordapp.com/channels/594442535615725579/602376710960447508 #rilisan-fanshare]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://kusonime.com Kusonime]
+| [https://discordapp.com/channels/594442535615725579/602376710960447508 #rilisan-fanshare]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://moenime.id Moenime]
+| [https://discordapp.com/channels/594442535615725579/602376710960447508 #rilisan-fanshare]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|}
+
+== Pantauan Fantranslation (untuk Manga) ==
+
+{|
+! Tautan
+! Channel
+! Bot
+! Bahasa
+|-
+| [https://mangadex.org/group/7774/nyan-fm-scans Nyan FM Scans]
+| [https://discordapp.com/channels/594442535615725579/605394499472064533 #rilisan-fantranslation]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|}
+
+== Pantauan Berita ==
+
+{|
+! Tautan
+! Channel
+! Bot
+! Bahasa
+|-
+| [https://www.akibanation.com Akiba Nation]
+| [https://discordapp.com/channels/594442535615725579/600774745482461209 #berita]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://www.animenewsnetwork.com Anime News Network]
+| [https://discordapp.com/channels/594442535615725579/600774745482461209 #berita]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="us">🇺🇸</span> Inggris
+|-
+| [https://crunchyroll.com Crunchyroll]
+| [https://discordapp.com/channels/594442535615725579/600774745482461209 #berita]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="us">🇺🇸</span> Inggris
+|-
+| [https://honeysanime.com Honey's Anime]
+| [https://discordapp.com/channels/594442535615725579/600774745482461209 #berita]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="us">🇺🇸</span> Inggris
+|-
+| [https://japanesestation.com Japanese Station]
+| [https://discordapp.com/channels/594442535615725579/600774745482461209 #berita]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://jurnalotaku.com Jurnal Otaku]
+| [https://discordapp.com/channels/594442535615725579/600774745482461209 #berita]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://kaorinusantara KAORI Nusantara]
+| [https://discordapp.com/channels/594442535615725579/600774745482461209 #berita]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="indonesia">🇮🇩</span> Indonesia
+|-
+| [https://myanimelist.net MyAnimeList]
+| [https://discordapp.com/channels/594442535615725579/600774745482461209 #berita]
+| [https://top.gg/bot/305398845389406209 Mops]
+| <span class="emoji" data-emoji="us">🇺🇸</span> Inggris
+|}
+
+== Pantauan Rilisan  ==
+(tanpa ''filter'', khusus untuk yang mendapatkan ''role'' &quot;Staff Fansub/Fanshare&quot;)
+{|
+! Tautan
+! Channel
+! Bot
+! Jenis
+|-
+| [https://anidb.net  AniDB]
+| [https://discordapp.com/channels/594442535615725579/600775791562719232 #alat-bantu-fansubber]
+| [https://top.gg/bot/305398845389406209  Mops]
+| Tracking
+|}
+
+== Total tracking RSS menggunakan bot ==
+
+{|
+! Bot
+! Jumlah Website
+! Keterangan
+|-
+| [https://discordrss.xyz  Discord.RSS]
+| 5
+| Sudah mencapai batas maksimum
+|-
+| [https://ifttt.com  IFTTT]
+| 0
+| Direncanakan sebagai backup
+|-
+| [https://top.gg/bot/305398845389406209  Mops]
+| 22
+| Asli: 24
+|-
+| [https://ub3r-b0t.com  UB3R-B0T]
+| 0
+| Direncanakan sebagai backup
+|}

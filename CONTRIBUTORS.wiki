@@ -1,0 +1,131 @@
+= Tim utama, kontributor, dan donatur =
+
+__TOC__
+
+== Tim utama Ryuuganime ==
+{|
+! Nama
+! Discord
+! GitHub
+! Peranan
+|-
+| Hatta
+| <code>hatta#7126</code>
+| Hatta56
+| <code>DB</code>
+|-
+| Kazuhito Yamashita
+| <code>YamashitaKazuhito#9781</code>
+| YamashitaKazuhito
+| <code>CO</code>, <code>AD</code>, <code>DB</code>, <code>GX</code>, <code>SV</code>, <code>RQ</code>
+|-
+| Natsu Tadama
+| <code>nattadasu#3867</code>
+| nattadasu
+| <code>FD</code>, <code>AD</code>, <code>ST</code>, <code>WK</code>, <code>DB</code>, <code>GX</code>, <code>DV</code>, <code>SV</code>, <code>IG</code>
+|-
+| Yae
+| <code>Yae#7900</code>
+| Yae-chan
+| <code>DB</code>, <code>DV</code>
+|-
+| Yeheizkiel Gabriel
+| <code>Yeski#2637</code>
+| yeheizkiel
+| <code>ST</code>, <code>DB</code>, <code>SH</code>
+|}
+
+== Kontributor ==
+{|
+! Nama
+! Discord
+! GitHub
+!align="center"| Kontribusi
+|-
+| -
+| -
+| -
+|align="center"| -
+|}
+
+== Legenda peranan ==
+=== Peranan tim ===
+{|
+!align="center"| Kode
+! Peranan
+|-
+|align="center"| <code>FD</code>
+| Penemu
+|-
+|align="center"| <code>CO</code>
+| Wakil
+|-
+|align="center"| <code>AD</code>
+| Administasi
+|-
+|align="center"| <code>ST</code>
+| Moderasi Situs
+|-
+|align="center"| <code>WK</code>
+| Moderasi Wiki
+|-
+|align="center"| <code>DB</code>
+| Moderasi Database
+|-
+|align="center"| <code>GX</code>
+| Desain Grafis
+|-
+|align="center"| <code>DV</code>
+| Validasi Data JSON
+|-
+|align="center"| <code>SV</code>
+| Validasi Situs Eksternal
+|-
+|align="center"| <code>SH</code>
+| Pengelola Skrip
+|-
+|align="center"| <code>RQ</code>
+| Perekrut
+|-
+|align="center"| <code>IG</code>
+| Admin Instagram
+|-
+|align="center"| <code>DC</code>
+| Moderator Discord
+|}
+
+=== Bentuk kontribusi ===
+{|
+!align="center"| Kode
+! Bentuk Kontribusi
+|-
+|align="center"| <code>GX</code>
+| Desain Grafis
+|}
+
+== Statistik kontribusi repositori ==
+=== Utama ===
+<a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/0"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/0" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/1"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/1" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/2"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/2" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/3"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/3" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/4"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/4" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/5"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/5" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/6"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/6" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/links/7"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/Ryuuganime/images/7" /></a>
+
+=== Dokumentasi dan wiki ===
+<a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/links/0"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/images/0" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/links/1"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/images/1" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/links/2"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/images/2" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/links/3"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/images/3" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/links/4"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/images/4" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/links/5"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/images/5" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/links/6"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/images/6" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/links/7"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-doc/images/7" /></a>
+
+=== Pangkalan data ===
+<a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/links/0"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/images/0" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/links/1"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/images/1" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/links/2"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/images/2" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/links/3"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/images/3" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/links/4"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/images/4" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/links/5"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/images/5" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/links/6"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/images/6" /></a><a href="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/links/7"><img src="https://sourcerer.io/fame/nattadasu/ryuuganime/ryuuganime-db/images/7" /></a>
+
+<blockquote>
+Statistik ini bersifat langsung
+</blockquote>
+
+== Donatur ==
+{|
+!align="right"| No
+! Nama
+! Discord
+! GitHub
+|-
+|align="right"| 1
+| Yae
+| <code>Yae#7900</code>
+| Yae-chan
+|}
