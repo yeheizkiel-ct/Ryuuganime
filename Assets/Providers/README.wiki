@@ -1,5 +1,7 @@
 ﻿= Daftar Sumber Situs untuk Database Anime =
 
+__TOC__
+
 == DISCLAIMER ==
 
   <i>Ngomong-ngomong</i>, ini database listnya <i>udah out-to-date yha</i>. Akan ada pembaruan selanjutnya dengan menggunakan markah MD saja, tidak menggunakan markah HTML supaya mempermudah dalam mengisi entri lainnya.

@@ -1,6 +1,8 @@
 = Daftar RSS =
 Untuk daftar lengkap berdasarkan tautan: [[RSS.wiki|di sini]].<br> Pastikan pula kamu telah [https://discord.gg/nWHwkuT bergabung ke server Discord kami].<br> Sering dengar atau baca tentang RSS tetapi tidak tahu maksudnya itu? Kunjungi website [https://rss.com/what-is-rss/ RSS] untuk informasi lebih lanjut.
 
+__TOC__
+
 == Pantauan Blog ==
 
 {|

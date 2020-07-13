@@ -1,17 +1,6 @@
 = Daftar RSS yang ''Di-track'' di ''Discord'' =
 
-Indeks:
-
-* [[#Blog|Blog]]
-* [[#Airing|Airing]]
-* [[#Official|Official]]
-* [[#Fansubs|Fansubs]]
-* [[#Fanshare|Fanshare]]
-* [[#Fantranslation|Fantranslation]]
-* [[#Berita|Berita]]
-** [[#Inggris|Inggris]]
-** [[#Indonesia|Indonesia]]
-* [[#Pemantau-Rilisan|Pemantau Rilisan]]
+__TOC__
 
 == Blog ==
 

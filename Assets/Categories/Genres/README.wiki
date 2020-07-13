@@ -1,5 +1,7 @@
 = Background Sources =
 
+__TOC__
+
 NOTICE:<br />
 
 <blockquote>Ryuuganime menggunakan ''backdrop''/''background'' anime yang memiliki ''genre'' terkait dalam rancangan menu indeks. Pihak Ryuuganime tidak berhak untuk menuntut hak cipta pada ''backdrop'' yang digunakan dalam perancangan menu. Seluruh hak cipta dipegang oleh masing-masing pencipta. Ryuuganime melampirkan nama pencipta karya dan tautan sumber yang digunakan pada saat pembuatan rancangan.

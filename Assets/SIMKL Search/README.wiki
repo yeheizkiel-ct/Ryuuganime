@@ -1,5 +1,7 @@
 = Cara Menggunakan Berkas Ekspor Data Ekstensi SIMKL Search =
 
+__NOTOC__
+
 == Sebelum Menggunakan ==
 
   Pastikan Anda telah memasang ekstensi SIMKL Search di peramban Chrome atau berbasis Chromium (Opera, Brave, UC Browser, Microsoft Edge Insider, dst). Apabila belum, Anda dapat mengunduh di [https://chrome.google.com/webstore/detail/simkl-search-select-and-s/mdofghopgfobjkgepojjmcfljnocaaff?hl=en sini].

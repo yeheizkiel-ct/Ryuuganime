@@ -1,4 +1,6 @@
 = Daftar Penggunaan Aset dan Teknologi =
+__TOC__
+
 == Fon ==
 * [https://fonts.google.com/specimen/Poppins '''Poppins'''] oleh [http://www.indiantypefoundry.com/ Indian Type Foundry] di bawah lisensi [https://scripts.sil.org/OFL_web OFL].
 * [https://fontmeme.com/fonts/maven-pro-font/ '''Maven Pro'''] oleh [https://dribbble.com/joeprince Joe Prince] di bawah lisensi: Publik, [https://www.gnu.org/licenses/gpl-3.0.en.html GPL], dan [http://opencontent.org/openpub/ OPL].
