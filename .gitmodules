@@ -2,3 +2,6 @@
 	path = lib/database
 	url = https://github.com/ryuuganime/ryuuganime-db.git
 	branch = master
+[submodule "i18n"]
+	path = i18n
+	url = https://github.com/ryuuganime/ryuuganime-i18n.git
